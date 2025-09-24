@@ -1,6 +1,6 @@
 # TRF-MASH
 
-This is the code for the analysis of phenotypic, microbial (16S), and untargeted metabolomics changes in streptozotocin + high-fat diet (STAM/HFD) mice subjected to time-restricted feeding (TRF). The goal was to determine if this intervention can ameliorate the development of dysfunction-associated steatohepatitis (MASH). The phenotypic results are published and in the `JBR_2025` folder.
+This is the code for the analysis of phenotypic, microbial (16S), and untargeted metabolomics changes in streptozotocin + high-fat diet (STAM/HFD) mice subjected to time-restricted feeding (TRF). The goal was to determine if this intervention can ameliorate the development of dysfunction-associated steatohepatitis (MASH). The phenotypic results are published and in the `JBR_2025` folder while the microbial and metabolomics is in the `MASHomics` one.
 
 ## Instructions on Data Access
 
@@ -14,11 +14,16 @@ We used the [Caussy & Tripathy, et al. 2019](https://www.nature.com/articles/s41
 
 ## Organization of files
 
-### Input data
-All data used for analysis is available under `./data`
+The two main folders are split up by publication. `JBR_2025` holds all the phenotypic related files while `MASHomics` contains the microbiome and metabolomics related files. Within these folder we have `data`, `results`, and `code`.
 
-### Data Analysis
+- `code` holds the scripted used for analysis.
 
-## Citation
+- `data` has the required input files needed to run the code.
 
-Flores Ramos, S.*, Fogelson, K.*, Muti, V.B., Aron, A.T., Salido, R.A., Richter, R.A., Mannochio-Russo, H., Hu, J., Hosseini, M., Loomba, R., Dorrestein, P.C., Knight, R., Zarrinpar, A. “Time-Restricted Feeding Is Not Effective in Modulating MASH in an Insulin-Deficient Model”. (submitted)
+- `results` contains the outputs of running the code.
+
+## Citations
+
+Flores Ramos, S.*, Fogelson, K.*, Muti, V.B., Zhong, W., Hu, J., Hosseini, M., Loomba, R., Zarrinpar, A. “Time-Restricted Feeding Is Not Effective in Modulating Fibrosis in a Male MASH Model”. Journal of Biological Rhythms (in press)
+
+Flores Ramos, S., Fogelson, K., Muti, V.B., Aron, A.T., Salido, R.A., Richter, R.A., Mannochio-Russo, H., Loomba, R., Dorrestein, P.C., Knight, R., Zarrinpar, A. “Microbial and Metabolomic early MASH biomarkers from a STAM Mouse Model”. (in prep)
