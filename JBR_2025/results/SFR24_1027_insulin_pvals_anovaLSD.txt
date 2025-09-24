@@ -1,0 +1,4 @@
+Condition	Concentration_ng_ml	groups
+FA	0.477517482666667	a
+FT	0.44007576025	a
+NA	0.40700466275	a

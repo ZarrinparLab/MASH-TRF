@@ -1,6 +1,6 @@
 # TRF-MASH
 
-This is the code for the analysis of phenotypic, microbial (16S), and untargeted metabolomics changes in streptozotocin + high-fat diet (STAM/HFD) mice subjected to time-restricted feeding (TRF). The goal was to determine if this intervention can ameliorate the development of dysfunction-associated steatohepatitis (MASH).
+This is the code for the analysis of phenotypic, microbial (16S), and untargeted metabolomics changes in streptozotocin + high-fat diet (STAM/HFD) mice subjected to time-restricted feeding (TRF). The goal was to determine if this intervention can ameliorate the development of dysfunction-associated steatohepatitis (MASH). The phenotypic results are published and in the `JBR_2025` folder.
 
 ## Instructions on Data Access
 

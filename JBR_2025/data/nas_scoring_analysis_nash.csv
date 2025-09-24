@@ -1,0 +1,37 @@
+﻿mouse_id,condition,disease_cohort,steatosis_grade,steatosis_percent,lipogranuloma,lobular_inflammation,hepatocyte_ballooning,portal_inflammation ,hepatocyte_necrosis,glycogenated_nuclei,nucleomegallyanisonucleosis,fibrosis_stage,NASH_score,NASH_category
+13N,FT,NASH,2,50,absent,0,2,0,0,few,3,0,4,NASH
+13L,FT,NASH,1,30,absent,0,2,0,0,few,3,1,3,NASH
+13R,FT,NASH,0,<5,absent ,0,1,0,0,few,3,1,1,Non_NASH
+14N,FT,NASH,1,~15,absent ,0,2,0,0,few,3,2,3,NASH
+14L,FT,NASH,1,10,absent,0,1,0,1 focus ,few,3,0,2,Non_NASH
+14R,FT,NASH,1,30,absent,0,2,0,0,few,3,1,3,NASH
+15N,FT,NASH,1,15,absent,0,1,0,0,few,3,0,2,Non_NASH
+15L,FT,NASH,1,~30,present,0,2,0,0,few,3,1,3,NASH
+15R,FT,NASH,1,~10,absent ,1,2,0,0,many,3,1,4,NASH
+16N,FT,NASH,1,20,present,0,2,0,0,many,3,0,3,NASH
+16L,FT,NASH,1,20,present ,0,2,0,rare,many,2,1,3,NASH
+16R,FT,NASH,0,<5,absent,0,1,0,0,rare,1,1,1,Non_NASH
+17N,FA,NASH,1,20,present ,0,1,0,0,many,2,0,2,Non_NASH
+17L,FA,NASH,0,4,absent,0,1,0,rare,many,3,1,1,Non_NASH
+17R,FA,NASH,1,10,absent,0,2,0,0,few,2,2,3,NASH
+18N,FA,NASH,1,10,absent,0,2,0,0,many,3,0,3,NASH
+18L,FA,NASH,2,40,present ,0,1,0,rare,few,2,0,3,NASH
+18R,FA,NASH,1,15,absent,0,2,0,rare,many,3,1,3,NASH
+19N,FA,NASH,1,20,absent,0,2,0,0,few,2,0,3,NASH
+19L,FA,NASH,0,<5,absent,0,1,0,absent,few,2,0,1,Non_NASH
+19R,FA,NASH,1,15,absent,0,2,0,0,few,3,1,3,NASH
+20N,FA,NASH,0,<5,absent ,0,1,0,0,many,2,1,1,Non_NASH
+20L,FA,NASH,1,10,absent,0,0,0,0,many,3,1,1,Non_NASH
+20R,FA,NASH,1,25,absent,0,2,0,0,many,3,0,3,NASH
+21N,NA,NASH,0,<5,absent,0,2,0,rare,many,3,0,2,N/A
+21L,NA,NASH,0,<5,absent,0,1,0,rare,few,2,0,1,N/A
+21R,NA,NASH,0,<5,absent ,0,2,0,rare,few,2,0,2,N/A
+22N,NA,NASH,0,<5,absent ,0,2,0,0,many,3,0,2,N/A
+22L,NA,NASH,0,<5,absent,0,1,0,0,many,3,0,1,N/A
+22R,NA,NASH,0,<5,absent,0,0,0,rare,many,2,0,0,N/A
+23N,NA,NASH,0,<5,absent ,0,1,0,rare,many,3,0,1,N/A
+23L,NA,NASH,0,<5,absent,0,2,0,rare,few,3,0,2,N/A
+23R,NA,NASH,0,<5,absent,0,1,0,"rare in nodule, rare in background",many,3,0,1,N/A
+24N,NA,NASH,0,<5,absent,0,2,0,0,many,3,0,2,N/A
+24L,NA,NASH,0,<5,absent,0,1,0,0,many,3,0,1,N/A
+24R,NA,NASH,0,<5,absent,0,2,0,0,many,3,0,2,N/A

@@ -1,0 +1,4 @@
+condition	conc_mgg	groups
+FA	51.7513038708333	a
+FT	35.9432992791667	b
+NA	8.29471935175	c
