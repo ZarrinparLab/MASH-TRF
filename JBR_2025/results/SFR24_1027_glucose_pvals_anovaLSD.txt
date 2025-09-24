@@ -1,0 +1,4 @@
+Condition	Real.Concentration.mg_dL	groups
+NA	828.953701066667	a
+FA	528.962967866667	b
+FT	486.611115183333	b
