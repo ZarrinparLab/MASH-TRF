@@ -24,6 +24,6 @@ The two main folders are split up by publication. `JBR_2025` holds all the pheno
 
 ## Citations
 
-Flores Ramos, S.*, Fogelson, K.*, Muti, V.B., Zhong, W., Hu, J., Hosseini, M., Loomba, R., Zarrinpar, A. “Time-Restricted Feeding Is Not Effective in Modulating Fibrosis in a Male MASH Model”. Journal of Biological Rhythms (in press)
+Flores Ramos, S.*, Fogelson, K.*, Muti, V.B., Zhong, W., Hu, J., Hosseini, M., Loomba, R., Zarrinpar, A. “Time-Restricted Feeding Is Not Effective in Modulating Fibrosis in a Male MASH Model”. Journal of Biological Rhythms (2025)
 
 Flores Ramos, S., Fogelson, K., Muti, V.B., Aron, A.T., Salido, R.A., Richter, R.A., Mannochio-Russo, H., Loomba, R., Dorrestein, P.C., Knight, R., Zarrinpar, A. “Microbial and Metabolomic early MASH biomarkers from a STAM Mouse Model”. (in prep)
