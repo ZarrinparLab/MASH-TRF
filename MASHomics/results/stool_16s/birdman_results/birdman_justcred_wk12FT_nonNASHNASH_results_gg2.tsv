@@ -1,0 +1,17 @@
+FeatureID	ratio	min	max	Name	cat
+4f0c9444939147ce28f9ad9aec7d6072	-5.94677399	-11.2362	-1.67235	4f0c9444939147ce28f9ad9aec7d6072 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae	Non_NASH
+923a477c342aa445c4eecca0f8415ed5	-5.15487386926999	-10.8609	-0.0604696	923a477c342aa445c4eecca0f8415ed5 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Merdisoma; s__Merdisoma sp011959465	Non_NASH
+be65daef90f69cfc35f5bcd8e387d377	-2.768449842258	-5.39198	-0.137298	be65daef90f69cfc35f5bcd8e387d377 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Acetatifactor; s__Acetatifactor sp011959105	Non_NASH
+80e9ce0ecee127d5a8cb96d9cf34d401	-2.571331981845	-4.86335	-0.0789213	80e9ce0ecee127d5a8cb96d9cf34d401 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae	Non_NASH
+79e9e337b10e2d298bb1b3bde946782d	-2.53322984175	-4.02492	-1.16622	79e9e337b10e2d298bb1b3bde946782d d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacterales_A_737866; f__Enterobacteriaceae_A; g__Escherichia_710834	Non_NASH
+7c57afe3b6b21af9d22cea9e92af463b	-1.37256629335	-2.15716	-0.581303	7c57afe3b6b21af9d22cea9e92af463b d__Bacteria; p__Firmicutes_D; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus	Non_NASH
+e0f234784df2494390ef5659eaa69184	-1.184423708325	-2.18163	-0.159698	e0f234784df2494390ef5659eaa69184 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Oscillospiraceae_88309; g__Dysosmobacter	Non_NASH
+a6c1d5c393eaa8b78baddc67c010b5fe	-1.174912016531	-2.26174	-0.219325	a6c1d5c393eaa8b78baddc67c010b5fe d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Oscillospiraceae_88309; g__; s__	Non_NASH
+74f1968b8430f123493c159111e08538	1.1107390875715	0.056698	2.13509	74f1968b8430f123493c159111e08538 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Oscillospiraceae_88309; g__Limivicinus; s__Limivicinus sp002320035	NASH
+fb47ebf73791a9cd5a943010dfc49812	1.35846142985	0.37928	2.28919	fb47ebf73791a9cd5a943010dfc49812 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Acutalibacteraceae; g__Eubacterium_R	NASH
+520146f24409cd6ca7d957109aba38d5	1.408857801975	0.026766	2.96139	520146f24409cd6ca7d957109aba38d5 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Catenibacillus; s__Catenibacillus scindens	NASH
+21b8486e169a9d5161d8ec072aeb59b9	1.45257520939	0.280198	2.81163	21b8486e169a9d5161d8ec072aeb59b9 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Ruminococcaceae; g__Anaerotruncus; s__Anaerotruncus sp000403395	NASH
+1247b655d9804d0973d52adb92a8975e	3.1098287376	0.0712889	7.45497	1247b655d9804d0973d52adb92a8975e d__Bacteria	NASH
+5c53164e55b1a6ac5a3adca191327b1b	4.32420757412501	1.22391	7.93676	5c53164e55b1a6ac5a3adca191327b1b d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Oscillospirales; f__Oscillospiraceae_88309; g__Dysosmobacter	NASH
+7f782768e8d3067af0a923af092239d3	5.02468822477499	0.272989	9.23427	7f782768e8d3067af0a923af092239d3 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae	NASH
+d1c1529acbbd977e6219701a664424f0	6.0996423222	2.29172	10.8117	d1c1529acbbd977e6219701a664424f0 d__Bacteria; p__Firmicutes_A; c__Clostridia_258483; o__Lachnospirales; f__Lachnospiraceae; g__Sporofaciens; s__	NASH
