@@ -33,7 +33,7 @@ class nashModelSingle(SingleFeatureModel):
         D = table.shape[0]
         A = np.log(1 / D) 
 	# build formula
-        self.create_regression(formula="C(ATTRIBUTE_condition, Treatment('NA'))", metadata=MD)
+        self.create_regression(formula="C(ATTRIBUTE_NASH_category, Treatment('Non_NASH'))", metadata=MD)
 
         param_dict = {
             "depth": np.log(table.sum(axis="sample")),

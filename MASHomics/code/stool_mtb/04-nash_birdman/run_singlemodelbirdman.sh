@@ -19,8 +19,8 @@ source ~/anaconda3/bin/activate birdman
 echo Chunk $SLURM_ARRAY_TASK_ID / $SLURM_ARRAY_TASK_MAX
 
 
-TABLEID="NASH_NASH_FT_taxonomy_filtered.gg2.asv.counts"
-TABLE="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/mashstool16s_preprocessed_20211020_ID_13785_gg2/"$TABLEID".biom"
+TABLEID="quantification_table-00000-clean-mash-Wk12-ZT13FAFT"
+TABLE="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/20231108_gnps_run/quantification_table/"$TABLEID".biom"
 SLURMS="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/birdman_outputs/slurm_out/"$TABLEID
 OUTDIR="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/birdman_outputs/inferences/"$TABLEID
 LOGDIR="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/dat/stool_mtb/birdman_outputs/logs/"$TABLEID
