@@ -2,9 +2,8 @@ setwd("~/Notebooks/sfloresr/MASH-TRF/MASHomics/")
 
 library(tidyverse)
 library(data.table)
-library(ggpubr)
 library(VennDiagram)
-library("qiime2R")
+library(gplots)
 
 ##################################################################
 #inputs

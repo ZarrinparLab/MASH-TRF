@@ -11,7 +11,24 @@ library(agricolae)
 #inputs
 NASH_histology<-"~/Notebooks/sfloresr/MASH-TRF/JBR_2025/data/nas_scoring_analysis_nash.csv"
 liver_tgs<-"~/Notebooks/sfloresr/MASH-TRF/JBR_2025/data/mash_liver_tg.txt"
+metag_cage<-"~/Notebooks/sfloresr/MASH-TRF/JBR_2025/data/first48h_metabcagetable.txt"
 results_dir<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/results/phenotype_replot_JBR2025/"
+#############################################################
+#functions
+
+overZTplt<-function(df,yval){
+  p<-ggplot(data=df, aes(x=zt_hour, y=yval, colour=condition, fill=condition)) +
+    geom_rect(aes(xmin = 13, xmax = 21, ymin = -Inf, ymax = Inf),
+              color="transparent", fill = 'gray88') +
+    stat_summary(fun = mean, geom = "line") +
+    stat_summary(fun.data = mean_se, geom = "errorbar", width = 0.4, aes(colour=condition)) +
+    scale_fill_manual(values = friendly_pal("ito_seven")) +
+    scale_color_manual(values = friendly_pal("ito_seven")) +
+    scale_x_continuous(breaks = seq(1, 23, by = 4 ), expand = c(0, 0)) +
+    theme_classic()+
+    theme(legend.position = "top", plot.title = element_text(size = 12),axis.title.x = element_text(size = 10))
+  return(p)
+}
 #############################################################
 #NASH scores by condition-Fig. S1B (replotted from JBR 2025)
 
@@ -87,3 +104,52 @@ summary(trigly_m)
 
 LSD_Test<- (LSD.test(trigly_m, c("condition")))$groups%>%as.data.frame()%>%rownames_to_column("group")%>%
   separate(group,c("condition"))
+
+#############################################################
+#metabolic cage results by condition-Fig. S3A (replotted from JBR 2025)
+
+f48h<-fread(metag_cage)
+
+#Food Consumption (Kcal, left)
+KcalCons_SEM_cleanest <- overZTplt(f48h,f48h$kcalCons)+
+  scale_y_continuous(expand = c(0, 0), limits=c(0,4)) +
+  labs(title="Food Consumption")+
+  ylab("Avg Kcal Consumed") +
+  xlab("ZT")
+ggsave(paste0(results_dir,"SFR24_0216_metab_cage_foodconsumed_kcal_f48h_new.pdf"), plot=KcalCons_SEM_cleanest ,height=3.5, width=3.5)
+
+kcalCons_mod <- aov(kcalCons~condition * zt_hour, data = f48h)
+summary(kcalCons_mod)
+
+LSD_Test_kcalCons<- (LSD.test(kcalCons_mod, c("condition", "zt_hour")))$groups%>%as.data.frame()%>%rownames_to_column("group")%>%
+  separate(group,c("condition","zt_hour"))
+write.table(LSD_Test_kcalCons,paste0(results_dir,"SFR24_1027_metab_cage_foodconsumed_kcal_bytmpt_48h_anovaFisherLSD_new.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+
+#Motor Activity (middle)
+MotorActivity_SEM_cleanest <- overZTplt(f48h,f48h$MotorActivity)+
+  scale_y_continuous(expand = c(0, 0)) +
+  labs(title='Motor Activity (m)',y="MotorActivity")
+ggsave(paste0(results_dir,"SFR24_0216_metab_cage_motoractivity_48h_new.pdf"), plot=MotorActivity_SEM_cleanest,height=3.5, width=3.5)
+
+mamod <- aov(MotorActivity ~condition * zt_hour, data = f48h)
+summary(mamod)
+
+LSD_Test_ma<- (LSD.test(mamod, c("condition", "zt_hour")))$groups%>%as.data.frame()%>%rownames_to_column("group")%>%
+  separate(group,c("condition","zt_hour"))
+write.table(LSD_Test_ma,paste0(results_dir,"SFR24_1027_metab_cage_motoract_bytmpt_48h_anovaFisherLSD_new.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+
+# % Sleep (right)
+sleep_SEM_cleanest <-overZTplt(f48h,f48h$Sleep_pct_M)+
+  scale_y_continuous(expand = c(0, 0)) +
+  labs(title="Sleep")+
+  ylab("Sleep_pct_M")+
+  xlab("ZT")
+ggsave(paste0(results_dir,"SFR24_0216_metab_cage_sleep_48h_new.pdf"), plot=sleep_SEM_cleanest ,height=3.5, width=3.5)
+
+sleepmod <- aov(Sleep_pct_M~ condition * zt_hour, data = f48h)
+summary(sleepmod)
+
+LSD_Test_sleep<- (LSD.test(sleepmod, c("condition", "zt_hour")))$groups%>%as.data.frame()%>%rownames_to_column("group")%>%
+  separate(group,c("condition","zt_hour"))
+write.table(LSD_Test_sleep,paste0(results_dir,"SFR24_1027_metab_cage_sleep_bytmpt_48h_anovaFisherLSD_new.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+
