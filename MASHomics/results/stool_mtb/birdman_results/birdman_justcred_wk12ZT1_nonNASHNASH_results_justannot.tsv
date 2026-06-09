@@ -1,0 +1,123 @@
+FeatureID	ratio	min	max	Name	cat
+2345	-2.58648916895001	-4.96688	-0.631768	2345 Candidate Dihydroxylated bile acid (delta mass 286.0829; sirius atomic difference: 7C, 10H, 8N, 5O; buddy atomic difference: 17C, 10H, 4N, 1O) bile acids	Non_NASH
+1435	-2.2804432505	-3.37135	-1.21877	1435 Suspect related to Spectral Match to Cholic acid from NIST14  bile acids	Non_NASH
+3153	-2.17289570495	-3.58099	-1.00871	3153 Candidate Tetrahydroxylated bile acid (delta mass -18.0105; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00006581917, 3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid) unknown	Non_NASH
+4418	-1.996349493	-3.22166	-0.788633	4418 Spectral Match to Fraxetin from NIST14 unknown	Non_NASH
+1471	-1.96059174116	-3.90055	-0.244712	1471 Suspect related to Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14  phosphocholines	Non_NASH
+4116	-1.6744803226	-2.58614	-0.791406	4116 cholic acid CollisionEnergy:102040 bile acids	Non_NASH
+2301	-1.667034335145	-3.11642	-0.395806	2301 GLYCOCHOLIC ACID bile acids	Non_NASH
+1442	-1.299935305	-2.0579	-0.59035	1442 Suspect related to LAUROYLCARNITINE  unknown	Non_NASH
+2175	-1.238490260875	-1.99445	-0.397089	2175 Suspect related to taurocholic acid  bile acids	Non_NASH
+3073	-1.1953761262	-2.23413	-0.0816558	3073 Suspect related to DL-Lauroylcarnitine  carnitines	Non_NASH
+1088	-1.190120453325	-2.16556	-0.313844	1088 Suspect related to Linoleyl Carnitine  carnitines	Non_NASH
+1164	-1.09410455255	-1.84989	-0.33295	1164 Suspect related to 2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid  bile acids	Non_NASH
+769	-1.088294907	-1.64481	-0.601155	769 Suspect related to Massbank:RP024902 Decanoyl-L-Carnitine|Decanoylcarnitine|3-decanoyloxy-4-(trimethylazaniumyl)butanoate  unknown	Non_NASH
+2879	-1.031697602555	-2.01317	-0.01322	2879 Suspect related to Spectral Match to Oleoyl L-carnitine from NIST14  carnitines	Non_NASH
+1160	-1.025551912635	-1.73111	-0.280574	1160 Suspect related to taurocholic acid  bile acids	Non_NASH
+2252	-1.018588717737	-1.88219	-0.140061	2252 Suspect related to taurohyodeoxycholic acid  unknown	Non_NASH
+2263	-0.958719008360003	-1.76044	-0.109658	2263 Suspect related to Taurocholic Acid Sulfate  bile acids	Non_NASH
+791	-0.918665759734999	-1.87047	-0.0712158	791 Suspect related to 2-((4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid  bile acids	Non_NASH
+1159	-0.881100903615	-1.76656	-0.0465421	1159 Candidate Tetrahydroxylated bile acid (delta mass 106.02; sirius atomic difference: 8C, 4H, -1O; buddy atomic difference: 11C, -2H, 4N, -5O) bile acids	Non_NASH
+1102	-0.845246966895001	-1.41835	-0.278108	1102 Suspect related to L-Arachidonoylcarnitine  unknown	Non_NASH
+2159	-0.7861003747575	-1.66626	-0.000371008	2159 Suspect related to taurohyodeoxycholic acid  bile acids	Non_NASH
+4489	-0.739826876846001	-1.48846	-0.0363362	4489 Suspect related to Contaminants septum vial Thermo C4000-53 and C4000-54 serie  unknown	Non_NASH
+3253	-0.732124539534999	-1.46683	-0.0856041	3253 Suspect related to NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate [IIN-based: Match]  fatty acids & other lipids	Non_NASH
+4076	-0.658721405705	-1.32826	-0.0397198	4076 Suspect related to .beta.-Sitosterol  glycols	Non_NASH
+4326	-0.604209589790001	-1.16676	-0.0170099	4326 Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate  unknown	Non_NASH
+1077	-0.434505349995	-0.78064	-0.0491627	1077 Suspect related to 2.alpha.-Methyl-5.alpha.-androstan-3.alpha.-ol-17-one  bile acids	Non_NASH
+412	-0.41286595891	-0.737432	-0.0865564	412 Suspect related to Serine-Cholic Acid  bile acids	Non_NASH
+369	-0.185025818708	-0.318271	-0.0345261	369 Suspect related to 2-((4R)-4-((3R,5S,7R,9S,10S,13S,14S,16R)-3,7,16-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid  bile acids	Non_NASH
+3166	0.356955493605001	0.0320378	0.719242	3166 Candidate Pentahydroxylated bile acid (delta mass -0.9846; sirius atomic difference: 1H, 1N, -1O; buddy atomic difference: 1C, -3H, 5N, -5O) unknown	NASH
+2974	0.429953154269999	0.0546127	0.817547	2974 Suspect related to NCGC00385642-01!1,4-dihydroxyheptadec-16-en-2-yl acetate  fatty acids & other lipids	NASH
+3074	0.484878181874	0.137439	0.82332	3074 Suspect related to 7-Oxocholesterol  unknown	NASH
+1366	0.530081328023999	0.0851476	1.02242	1366 Suspect related to Spectral Match to cis-9-Hexadecenoic acid from NIST14  fatty acids & other lipids	NASH
+372	0.5853524407945	0.126014	1.07014	372 Candidate Trihydroxylated bile acid (delta mass 73.0351; sirius atomic difference: 3C, 7H, 1N, -1O, 1S; buddy atomic difference: 3C, 7H, 1N, -1O, 1S) bile acids	NASH
+322	0.620591520487499	0.0905725	1.13283	322 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  bile acids	NASH
+4446	0.636129921385001	0.167931	1.18479	4446 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  bile acids	NASH
+1837	0.648657721244999	0.161509	1.15539	1837 Candidate Tetrahydroxylated bile acid (delta mass -36.0217; sirius atomic difference: -4H, -2O; buddy atomic difference: -4H, -2O; spectral library match to CCMSLIB00005465512, (4R)-4-((3R,5S,6S,7R,8R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) unknown	NASH
+2691	0.695545797967001	0.113042	1.29519	2691 Candidate Tetrahydroxylated bile acid (delta mass -18.0099; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00005465699, (R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) bile acids	NASH
+2568	0.714651313244999	0.141231	1.24279	2568 Candidate Tetrahydroxylated bile acid (delta mass -72.042; sirius atomic difference: -8H, -4O; buddy atomic difference: -8H, -4O) unknown	NASH
+2971	0.73280701152	0.117567	1.37112	2971 Suspect related to Chenodeoxycholic acid  fatty acids & other lipids	NASH
+3447	0.761082979515	0.224479	1.28704	3447 Candidate Tetrahydroxylated bile acid (delta mass -18.0102; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00005464785, (R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) unknown	NASH
+140	0.772237981054001	0.259103	1.3275	140 Suspect related to Spectral Match to Ile-Pro-Ile from NIST14  amines	NASH
+583	0.773601385292501	0.0888418	1.60375	583 Suspect related to Spectral Match to Phe-Leu from NIST14  amines	NASH
+3750	0.79936203695	0.258615	1.32975	3750 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+3695	0.802465410635002	0.338546	1.251	3695 Suspect related to Spectral Match to Ile-Pro-Ile from NIST14  amines	NASH
+3019	0.805551352650001	0.100822	1.57302	3019 Suspect related to Spectral Match to Deoxycholic acid from NIST14  bile acids	NASH
+2313	0.830034255072999	0.0624701	1.68733	2313 Suspect related to Pantethine  unknown	NASH
+2508	0.833964828194999	0.178028	1.65462	2508 Suspect related to Leu-Phe  amines	NASH
+3259	0.886751150495	0.211813	1.54933	3259 Suspect related to Spectral Match to Glu-Val-Phe from NIST14  amines	NASH
+213	0.892774394704999	0.333385	1.44885	213 Riboflavin unknown	NASH
+4136	0.914240131894999	0.0674201	1.65448	4136 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  bile acids	NASH
+2732	0.9236755738145	0.0227606	1.97523	2732 Suspect related to NCGC00164361-03!decanedioic acid  fatty acids & other lipids	NASH
+577	0.925395740418999	0.193034	1.6855	577 Spectral Match to Phe-Leu from NIST14 amines	NASH
+591	0.936910540915001	0.250404	1.6951	591 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+2704	0.955524842132	0.144378	1.68583	2704 Candidate Pentahydroxylated bile acid (delta mass -0.9846; sirius atomic difference: 1H, 1N, -1O; buddy atomic difference: 1C, -3H, 5N, -5O) unknown	NASH
+1261	0.9570674012205	0.204784	1.78978	1261 Suspect related to cis-8,11,14-Eicosatrienoic acid  fatty acids & other lipids	NASH
+4428	0.966703663385653	0.0843463	1.85865	4428 Candidate Tetrahydroxylated bile acid (delta mass -0.9813; buddy atomic difference: 1C, -3H, 5N, -5O) bile acids	NASH
+2757	0.968512499610001	0.358617	1.54868	2757 Suspect related to Palmitic acid alkyne  fatty acids & other lipids	NASH
+584	0.99590510713215	0.276953	1.66545	584 Suspect related to Spectral Match to Val-Gly-Val from NIST14  amines	NASH
+4198	0.998225346555	0.305966	1.78015	4198 Candidate Tetrahydroxylated bile acid (delta mass 88.9949; sirius atomic difference: 2C, 3H, 1N, 1O, 1S; buddy atomic difference: 2C, 3H, 1N, 1O, 1S) unknown	NASH
+2911	1.0046131942	0.48245	1.48843	2911 Suspect related to Ser-Leu  amines	NASH
+53	1.03085068876	0.415755	1.67274	53 Suspect related to Ser-Leu  amines	NASH
+3506	1.037420375385	0.117882	1.84696	3506 Suspect related to Spectral Match to Ile-Glu from NIST14  amines	NASH
+1923	1.0375083868	0.393591	1.6781	1923 Candidate Dihydroxylated bile acid (delta mass 186.9623; ; spectral library match to CCMSLIB00005465318, 2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-12-hydroxy-10,13-dimethyl-3-(sulfooxy)hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid) unknown	NASH
+1690	1.0566608809	0.491775	1.59065	1690 Candidate Tetrahydroxylated bile acid (delta mass 107.0057; sirius atomic difference: 2C, 5H, 1N, 2O, 1S; buddy atomic difference: 11C, -3H, 3N, -4O) unknown	NASH
+2532	1.060612122115	0.22351	2.11375	2532 Suspect related to Gln-Ile  amines	NASH
+2286	1.063853492059	0.124674	2.00629	2286 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+2797	1.0672454922	0.313438	1.76362	2797 2-[2-[(Z)-pent-2-enyl]-3-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxycyclopentyl]acetic acid fatty acids & other lipids	NASH
+600	1.076188268245	0.117961	1.94939	600 Suspect related to Spectral Match to Enterolactone from NIST14  unknown	NASH
+3432	1.07882981449	0.324256	1.89066	3432 Candidate Tetrahydroxylated bile acid (delta mass -73.005; sirius atomic difference: -3C, -3H, 1N, -3O; buddy atomic difference: -3C, -3H, 1N, -3O) unknown	NASH
+609	1.11612653133	0.168156	2.02686	609 Suspect related to Spectral Match to Phe-Tyr from NIST14  unknown	NASH
+2912	1.119715735535	0.432423	1.91506	2912 Suspect related to Gln-Phe  amines	NASH
+257	1.12506447633	0.230283	1.89632	257 Candidate Tetrahydroxylated bile acid (delta mass -18.0102; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00005464785, (R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) unknown	NASH
+2087	1.12995678988	0.324757	2.00807	2087 Suspect related to Spectral Match to Leucine Enkephalin from NIST14  amines	NASH
+35	1.13828589497	0.321242	1.95718	35 Suspect related to Spectral Match to Ser-Val from NIST14  amines	NASH
+579	1.167774210045	0.404876	1.85339	579 Suspect related to L-Tyrosine  amines	NASH
+3660	1.1716793353	0.360799	1.88318	3660 Suspect related to Gln-Leu  unknown	NASH
+2524	1.190749245934	0.284433	2.09754	2524 Suspect related to Spectral Match to Leucine Enkephalin from NIST14  amines	NASH
+2245	1.19514263515	0.432768	2.0722	2245 Candidate Pentahydroxylated bile acid (delta mass -18.0106; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O) unknown	NASH
+3120	1.196424305675	0.194033	2.34007	3120 Suspect related to Spectral Match to Ile-Ile-Lys from NIST14  amines	NASH
+2571	1.213773066395	0.371562	2.08134	2571 Candidate Pentahydroxylated bile acid (delta mass -18.0106; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O) unknown	NASH
+3825	1.235110562005	0.354767	2.08236	3825 Suspect related to Thr-Trp  unknown	NASH
+1735	1.2471225202695	0.355376	2.00248	1735 Suspect related to Spectral Match to Thr-Val-Leu from NIST14  amines	NASH
+2975	1.270207580001	0.0403941	2.3853	2975 Spectral Match to Enterolactone from NIST14 unknown	NASH
+2681	1.28448481728	0.35308	2.19165	2681 Suspect related to Spectral Match to Leu-Ile-Arg from NIST14  amines	NASH
+628	1.286367728109	0.244828	2.38248	628 Suspect related to Spectral Match to Ile-Pro-Ile from NIST14  amines	NASH
+2506	1.31601411829	0.312768	2.2198	2506 Suspect related to Trp-Asp  unknown	NASH
+3093	1.31997926631	0.193711	2.28951	3093 Spectral Match to Ile-Lys from NIST14 unknown	NASH
+1419	1.32398651597	0.126589	2.56047	1419 Suspect related to Ser-Leu-Lys  amines	NASH
+2463	1.36814733063	0.146157	2.49767	2463 Candidate Pentahydroxylated bile acid (delta mass -92.0241; sirius atomic difference: -6C, -4H, -1O; buddy atomic difference: -6C, -4H, -1O) unknown	NASH
+3086	1.37161886565	0.472139	2.37795	3086 Suspect related to .beta.-Tocotrienol  unknown	NASH
+2503	1.4051616262475	0.266623	2.34597	2503 Suspect related to Spectral Match to Ile-Glu from NIST14  amines	NASH
+937	1.433662900925	0.391753	2.42492	937 Suspect related to Asn-Val  unknown	NASH
+726	1.4370894925845	0.636094	2.21722	726 Suspect related to Gln-Phe  amines	NASH
+3241	1.451743538675	0.190257	2.51159	3241 Suspect related to Gln-Ile  amines	NASH
+2928	1.4878907846	0.594792	2.58254	2928 Suspect related to Spectral Match to His-Ile from NIST14  amines	NASH
+568	1.490583956285	0.595443	2.469	568 Suspect related to Spectral Match to His-Ile from NIST14  amines	NASH
+2964	1.49220212594	0.18361	2.73061	2964 Suspect related to Dimethyl azelate  fatty acids & other lipids	NASH
+1850	1.507810253737	0.1415	2.95416	1850 Candidate Trihydroxylated bile acid (delta mass -3.9945; sirius atomic difference: 1C, -1O; buddy atomic difference: 1C, -1O) fatty acids & other lipids	NASH
+2217	1.51037040395	0.388424	2.57657	2217 acacetin CollisionEnergy:205060 unknown	NASH
+1578	1.552866131385	0.478289	2.68033	1578 Suspect related to Spectral Match to Met-Val from NIST14  amines	NASH
+828	1.58411141704	0.293212	2.80951	828 Suspect related to Asp-Ile  amines	NASH
+565	1.6653732461	0.605478	2.78497	565 Suspect related to Gln-Ile  amines	NASH
+2010	1.798061645	0.414446	3.32918	2010 Suspect related to Spectral Match to L-Tryptophan from NIST14  unknown	NASH
+559	1.93650264425	0.915298	2.87559	559 Suspect related to Spectral Match to Leu-Val from NIST14  amines	NASH
+1400	1.989848985285	0.420025	3.52475	1400 Suspect related to Spectral Match to His-Ile from NIST14  unknown	NASH
+2733	2.09673948506	0.142273	4.19055	2733 Suspect related to Spectral Match to Sebacic acid monomethyl ester from NIST14  fatty acids & other lipids	NASH
+3552	2.15113430707	0.426246	3.73463	3552 Suspect related to 10E,12Z-octadecadienoic acid  fatty acids & other lipids	NASH
+3748	2.1843460153	0.456843	3.84281	3748 Suspect related to NCGC00381248-01!4-oxododecanedioic acid  fatty acids & other lipids	NASH
+4141	2.26053626159	0.0876421	4.54954	4141 Suspect related to Spectral Match to 3.alpha.,7.alpha.,12.alpha.-Trihydroxycholestanoic acid from NIST14  bile acids	NASH
+1992	2.38944230577	0.0735021	4.27361	1992 Suspect related to 20-Hydroxyarachidonic acid  unknown	NASH
+1751	2.39388764024001	0.179871	4.46272	1751 Candidate Trihydroxylated bile acid (delta mass -3.9946; sirius atomic difference: 1C, -1O; buddy atomic difference: 1C, -1O) bile acids	NASH
+3942	2.41300303990001	0.793299	3.81386	3942 Suspect related to OMEGA-HYDROXYDODECANOATE  fatty acids & other lipids	NASH
+3946	2.45696013346	0.184571	4.84927	3946 Suspect related to trans-Traumatic acid  fatty acids & other lipids	NASH
+3597	2.5955088127	0.65471	4.44494	3597 Suspect related to Spectral Match to 15-OxoEDE from NIST14  unknown	NASH
+960	2.636284736315	0.373548	4.91203	960 genistein CollisionEnergy:102040 unknown	NASH
+1264	2.7488302265	1.18372	4.44746	1264 Suspect related to 10E,12Z-octadecadienoic acid  fatty acids & other lipids	NASH
+3936	2.862940407475	1.07982	4.60815	3936 Suspect related to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol  fatty acids & other lipids	NASH
+2943	2.86363048515001	0.795418	5.03844	2943 syringin unknown	NASH
+4335	3.04460614338	0.385405	5.50666	4335 Suspect related to Pantethine  unknown	NASH
+2536	3.0907879635	1.40453	4.74854	2536 Suspect related to Gln-Ile  amines	NASH
+1595	3.2080794104	1.3791	4.93491	1595 Massbank:RP031103 N2_N2-Dimethylguanosine|N,N-Dimethylguanosine|9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2-(dimethylamino)-3H-purin-6-one unknown	NASH
+2687	3.242088624155	0.721749	5.58738	2687 syringin unknown	NASH

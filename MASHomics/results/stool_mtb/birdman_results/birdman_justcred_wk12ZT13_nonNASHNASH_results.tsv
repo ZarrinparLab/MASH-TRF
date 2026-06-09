@@ -1,0 +1,635 @@
+FeatureID	ratio	min	max	Name	cat
+2386	-10.57569711	-14.7992	-7.11843	2386 Suspect related to Echinocystic acid  bile acids	Non_NASH
+4229	-8.97612707984501	-15.105	-2.4608	4229 m/z 563.3365888 bile acids	Non_NASH
+4149	-8.8589362597	-14.4486	-3.34868	4149 Suspect related to Spectral Match to Ile-Val-Lys from NIST14  amines	Non_NASH
+4024	-8.73881557960999	-16.4166	-0.497934	4024 m/z 358.3680386 unknown	Non_NASH
+3441	-8.72610974057499	-15.6582	-1.30704	3441 m/z 627.6712147 unknown	Non_NASH
+4244	-8.69674163234997	-14.4806	-2.91825	4244 m/z 595.2716486 unknown	Non_NASH
+1829	-8.65086715104999	-15.1711	-1.5615	1829 m/z 373.7317854 unknown	Non_NASH
+1140	-8.57240130725001	-14.7797	-2.27247	1140 m/z 495.2970488 unknown	Non_NASH
+3841	-7.32269328725001	-14.4818	-0.182305	3841 m/z 415.7301709 unknown	Non_NASH
+4098	-4.686543861	-7.29429	-2.14278	4098 m/z 408.3088873 unknown	Non_NASH
+804	-3.99563388955	-6.39208	-1.64017	804 m/z 591.2019891 unknown	Non_NASH
+3325	-3.91528200705	-6.29471	-1.67404	3325 m/z 297.1810551 unknown	Non_NASH
+2744	-3.72884999814999	-5.73692	-1.45239	2744 m/z 271.1653506 unknown	Non_NASH
+754	-3.56730348495	-5.26926	-1.67837	754 m/z 395.1492318 unknown	Non_NASH
+3163	-3.4837477424	-6.36188	-0.691509	3163 m/z 297.1809836 unknown	Non_NASH
+1944	-3.47865192459	-6.14581	-0.839235	1944 m/z 813.4542494 unknown	Non_NASH
+2753	-3.362214649	-5.48257	-1.17469	2753 m/z 283.1654713 unknown	Non_NASH
+751	-3.04445286115	-5.13918	-0.70785	751 m/z 381.1337373 unknown	Non_NASH
+3190	-3.03201302535	-5.52181	-0.683004	3190 m/z 534.2953035 unknown	Non_NASH
+380	-2.98831875354999	-4.75936	-1.12681	380 m/z 485.1600392 unknown	Non_NASH
+788	-2.9669391322	-5.00367	-0.713398	788 Candidate Trihydroxylated bile acid (delta mass 91.8592; buddy atomic difference: 6C, -12H, -2O, 2S) unknown	Non_NASH
+749	-2.940364448185	-4.64796	-1.13589	749 Suspect related to Massbank:NA002839 8-Prenylnaringenin|(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)-2,3-dihydrochromen-4-one  unknown	Non_NASH
+2312	-2.833053983705	-4.69967	-1.31683	2312 Suspect related to NCGC00384818-01_C27H30O11_  unknown	Non_NASH
+2617	-2.7534544431	-4.42543	-1.01877	2617 m/z 441.336366 bile acids	Non_NASH
+752	-2.60291859608	-4.46381	-0.699572	752 Suspect related to Massbank:PB005728 Xanthohumol|(E)-1-[2,4-dihydroxy-6-methoxy-3-(3-methylbut-2-enyl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one  unknown	Non_NASH
+1675	-2.58077978795	-4.51208	-0.290935	1675 m/z 761.3034991 unknown	Non_NASH
+750	-2.5665194312	-4.31379	-0.94338	750 Suspect related to Massbank:NA002839 8-Prenylnaringenin|(2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)-2,3-dihydrochromen-4-one  unknown	Non_NASH
+2310	-2.49758753311999	-4.06925	-0.938084	2310 m/z 546.1969986 unknown	Non_NASH
+2745	-2.4539366095	-4.28205	-0.487249	2745 m/z 271.1653438 unknown	Non_NASH
+4415	-2.4499859973	-4.47266	-0.498608	4415 Suspect related to TREMULACIN  unknown	Non_NASH
+2742	-2.43062883803	-4.08196	-0.434333	2742 m/z 269.1495521 unknown	Non_NASH
+1676	-2.420056771145	-4.40603	-0.586636	1676 m/z 761.303521 unknown	Non_NASH
+2282	-2.238385131405	-3.69098	-0.39261	2282 m/z 318.206445 unknown	Non_NASH
+3942	-2.231476207855	-4.281	-0.0809877	3942 Suspect related to OMEGA-HYDROXYDODECANOATE  fatty acids & other lipids	Non_NASH
+1362	-2.20481147898	-4.03257	-0.0988944	1362 m/z 799.5119061 unknown	Non_NASH
+1759	-2.16323439033	-4.05732	-0.238442	1759 m/z 432.1655438 unknown	Non_NASH
+1897	-2.1015362064265	-3.72441	-0.223059	1897 Suspect related to 1-Oleoyl-sn-glycero-3-phosphocholine  phosphocholines	Non_NASH
+872	-2.09456621389	-3.63162	-0.708108	872 m/z 452.3370747 unknown	Non_NASH
+795	-2.040816134565	-3.48734	-0.747979	795 Suspect related to Massbank:RP026303 1-tridecanoyl-2-hydroxy-sn-glycero-3-phosphocholine|1-tridecanoyl-sn-glycero-3-phosphocholine|[(2R)-2-hydroxy-3-tridecanoyloxypropyl] 2-(trimethylazaniumyl)ethyl phosphate  phosphocholines	Non_NASH
+770	-2.02133172649	-4.05627	-0.0185786	770 m/z 432.165454 unknown	Non_NASH
+3021	-1.9448228865	-3.17774	-0.738908	3021 m/z 470.3478023 unknown	Non_NASH
+2051	-1.87620010625	-2.52984	-1.25336	2051 m/z 350.2325105 unknown	Non_NASH
+1932	-1.8518614065	-2.44711	-1.12986	1932 m/z 651.2986731 unknown	Non_NASH
+1149	-1.8490639149	-3.222	-0.392898	1149 m/z 511.3032094 unknown	Non_NASH
+1912	-1.82469575265	-3.3385	-0.349571	1912 Suspect related to 1-Oleoyl-L-.alpha.-lysophosphatidic acid  fatty acids & other lipids	Non_NASH
+4200	-1.804449275	-2.6981	-0.934061	4200 Suspect related to taurohyodeoxycholic acid  bile acids	Non_NASH
+1183	-1.80011595754	-3.06207	-0.486543	1183 Suspect related to 1-Palmitoyl-sn-glycero-3-phosphocholine  phosphocholines	Non_NASH
+3497	-1.7997828178	-2.58853	-0.950208	3497 Suspect related to NCGC00384694-01_C19H36O11_beta-D-Glucopyranoside, 3-ethyl-4-hydroxy-4-methylpentyl 6-O-[(2S,3R,4R)-tetrahydro-3,4-dihydroxy-4-(hydroxymethyl)-2-furanyl]-  unknown	Non_NASH
+625	-1.78710144263	-3.38906	-0.242572	625 m/z 387.1077237 unknown	Non_NASH
+4364	-1.769342193665	-3.28514	-0.336221	4364 m/z 803.5429538 unknown	Non_NASH
+1345	-1.73175309625	-3.03095	-0.455777	1345 m/z 503.3710992 unknown	Non_NASH
+4322	-1.7263682525	-2.29165	-1.13422	4322 m/z 486.3449423 unknown	Non_NASH
+2387	-1.718821068926	-2.96267	-0.314134	2387 m/z 424.2519072 unknown	Non_NASH
+3586	-1.714879433885	-3.26665	-0.0283736	3586 m/z 167.0452799 unknown	Non_NASH
+147	-1.699486928805	-3.13088	-0.136525	147 m/z 333.2059573 unknown	Non_NASH
+2144	-1.6527641656	-2.49942	-0.802974	2144 m/z 473.3259245 unknown	Non_NASH
+865	-1.634226819485	-2.79345	-0.356193	865 m/z 431.2769713 unknown	Non_NASH
+1315	-1.6287915207	-2.71071	-0.526713	1315 m/z 411.3623812 carnitines	Non_NASH
+3333	-1.627611916559	-3.01674	-0.387644	3333 m/z 322.2015724 unknown	Non_NASH
+748	-1.62427543282	-2.71232	-0.446164	748 m/z 373.198662 unknown	Non_NASH
+2625	-1.612260843155	-3.11574	-0.215383	2625 m/z 479.3008959 unknown	Non_NASH
+1895	-1.587507152985	-2.82788	-0.332375	1895 Suspect related to 1-Oleoyl-L-.alpha.-lysophosphatidic acid  fatty acids & other lipids	Non_NASH
+2161	-1.56539549505	-2.81699	-0.387173	2161 m/z 502.2972467 unknown	Non_NASH
+2922	-1.5638018685	-2.29071	-0.954639	2922 m/z 473.3255798 unknown	Non_NASH
+1683	-1.560883771203	-3.2862	-0.0611197	1683 m/z 387.1076316 unknown	Non_NASH
+3754	-1.55606609298501	-2.40767	-0.638032	3754 Suspect related to .beta.-Ecdysone  unknown	Non_NASH
+789	-1.499642425705	-2.69146	-0.466744	789 m/z 504.3127588 unknown	Non_NASH
+1459	-1.49076796655	-2.44265	-0.501293	1459 m/z 489.3204694 unknown	Non_NASH
+2245	-1.4736209878015	-2.80949	-0.15999	2245 Candidate Pentahydroxylated bile acid (delta mass -18.0106; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O) unknown	Non_NASH
+251	-1.4670056994835	-2.6747	-0.119795	251 Suspect related to 4-Cholestenone  unknown	Non_NASH
+1436	-1.45619144615	-2.32659	-0.572984	1436 m/z 441.3364695 bile acids	Non_NASH
+2767	-1.44611227126	-2.44892	-0.646944	2767 Suspect related to 1-Palmitoylglycerol  unknown	Non_NASH
+2412	-1.43002774925	-2.43921	-0.390382	2412 m/z 299.1643457 unknown	Non_NASH
+1479	-1.419398811	-1.85314	-0.927325	1479 m/z 573.3575265 bile acids	Non_NASH
+3017	-1.41421507736	-2.78742	-0.0018156	3017 m/z 427.2250089 unknown	Non_NASH
+3044	-1.40330650657	-2.69616	-0.10379	3044 m/z 275.2693917 unknown	Non_NASH
+390	-1.39921322295	-2.42141	-0.395031	390 Spectral Match to Lyso-PC(16:0) from NIST14 phosphocholines	Non_NASH
+1670	-1.392935196465	-2.89951	-0.0932042	1670 m/z 587.2866679 unknown	Non_NASH
+792	-1.3913619563475	-2.64315	-0.284786	792 Spectral Match to 1-Hexadecanoyl-sn-glycero-3-phosphocholine from NIST14 phosphocholines	Non_NASH
+4031	-1.38351777449	-2.60354	-0.037725	4031 m/z 362.2688999 unknown	Non_NASH
+864	-1.3821281273	-2.80802	-0.190154	864 m/z 429.2613396 unknown	Non_NASH
+1291	-1.365408928065	-2.54314	-0.0328263	1291 m/z 359.1829646 unknown	Non_NASH
+2171	-1.36402222142	-2.25862	-0.45294	2171 m/z 513.319369 unknown	Non_NASH
+825	-1.35426325913	-2.56217	-0.149331	825 m/z 230.2115568 fatty acids & other lipids	Non_NASH
+2251	-1.35234964902	-2.33028	-0.104448	2251 m/z 449.3264343 unknown	Non_NASH
+2343	-1.33564588635	-2.54401	-0.0439023	2343 Spectral Match to Urobilin from NIST14 unknown	Non_NASH
+308	-1.33438683298999	-2.34113	-0.246133	308 m/z 434.3264942 unknown	Non_NASH
+2619	-1.327296738184	-2.09445	-0.374623	2619 m/z 447.3106338 fatty acids & other lipids	Non_NASH
+2988	-1.3182541549535	-2.05792	-0.56178	2988 m/z 451.3034283 unknown	Non_NASH
+153	-1.3099638868	-2.00448	-0.601222	153 m/z 340.2595802 unknown	Non_NASH
+4168	-1.29754223717	-2.30224	-0.338656	4168 Candidate Monohydroxylated bile acid (delta mass 105.045; buddy atomic difference: 3C, 7H, 1N, 3O) unknown	Non_NASH
+2283	-1.296543838165	-2.32681	-0.124765	2283 m/z 319.1540127 unknown	Non_NASH
+1339	-1.28694070005	-2.00317	-0.613004	1339 m/z 470.3703792 unknown	Non_NASH
+3016	-1.2768087639	-2.02786	-0.547204	3016 m/z 412.2691775 unknown	Non_NASH
+1435	-1.26569253009	-2.56802	-0.061611	1435 Suspect related to Spectral Match to Cholic acid from NIST14  bile acids	Non_NASH
+889	-1.2615778392	-2.28354	-0.308136	889 m/z 600.286043 unknown	Non_NASH
+340	-1.24712143064	-1.88309	-0.681627	340 m/z 453.3438484 unknown	Non_NASH
+510	-1.2448587275	-1.8579	-0.647193	510 m/z 679.5119774 unknown	Non_NASH
+3224	-1.230022502	-1.88181	-0.577837	3224 m/z 354.2635947 unknown	Non_NASH
+2284	-1.222440985025	-1.95158	-0.452592	2284 Suspect related to Marrubiin  unknown	Non_NASH
+4142	-1.21926156587	-2.10303	-0.191562	4142 Suspect related to Spectral Match to 3.alpha.,7.alpha.,12.alpha.-Trihydroxycholestanoic acid from NIST14  unknown	Non_NASH
+2688	-1.216783680155	-2.39905	-0.165793	2688 m/z 396.2208268 unknown	Non_NASH
+2836	-1.19978295811	-2.0263	-0.325225	2836 m/z 517.3159391 unknown	Non_NASH
+1131	-1.19387628966	-1.91744	-0.453241	1131 Candidate Trihydroxylated bile acid (delta mass 76.0308; sirius atomic difference: 6C, 4H; buddy atomic difference: 6C, 4H) bile acids	Non_NASH
+2992	-1.18639437565	-1.82935	-0.543356	2992 m/z 499.339945 unknown	Non_NASH
+4365	-1.1800030350165	-2.12964	-0.192254	4365 m/z 825.5248224 unknown	Non_NASH
+3976	-1.1786241287	-1.75969	-0.572056	3976 m/z 315.1955902 fatty acids & other lipids	Non_NASH
+2995	-1.17171044819	-2.52214	-0.0474179	2995 Suspect related to Spectral Match to Myristoleic acid from NIST14  fatty acids & other lipids	Non_NASH
+1153	-1.167978597225	-2.20571	-0.097202	1153 m/z 514.3533726 unknown	Non_NASH
+128	-1.165380545155	-2.10014	-0.0693233	128 m/z 319.1903759 unknown	Non_NASH
+4146	-1.14174959525	-1.60189	-0.686232	4146 m/z 454.3529095 unknown	Non_NASH
+830	-1.1375617768715	-2.34435	-0.0273166	830 m/z 252.1934993 unknown	Non_NASH
+3964	-1.1367238107115	-2.11599	-0.267208	3964 m/z 297.1848489 unknown	Non_NASH
+1285	-1.1343240317	-2.03319	-0.200437	1285 m/z 353.2474859 unknown	Non_NASH
+3958	-1.125402479065	-2.14583	-0.184072	3958 m/z 269.1901081 unknown	Non_NASH
+3609	-1.11353165435	-2.14087	-0.0744433	3609 Suspect related to Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate  unknown	Non_NASH
+3229	-1.11064159733	-1.90923	-0.158242	3229 m/z 629.3834213 unknown	Non_NASH
+1779	-1.110229185	-1.59321	-0.47627	1779 m/z 227.1754959 unknown	Non_NASH
+1644	-1.1023433719715	-2.12319	-0.1411	1644 Suspect related to Massbank:RP025103 Oleoyl-L-Carnitine|(3R)-3-[(Z)-octadec-9-enoyl]oxy-4-(trimethylazaniumyl)butanoate  carnitines	Non_NASH
+1344	-1.10029800275	-1.84368	-0.416352	1344 m/z 498.4016406 unknown	Non_NASH
+2247	-1.09329979903	-1.9176	-0.335869	2247 m/z 425.3416293 bile acids	Non_NASH
+2457	-1.09014674661	-2.05898	-0.157713	2457 m/z 332.1713449 unknown	Non_NASH
+3431	-1.08931389694	-1.86322	-0.11364	3431 m/z 349.2651411 unknown	Non_NASH
+2632	-1.0875297291295	-1.91286	-0.234885	2632 m/z 515.3347781 unknown	Non_NASH
+737	-1.0704996466485	-1.88643	-0.274405	737 m/z 317.2112541 unknown	Non_NASH
+263	-1.06951508775	-1.97193	-0.150973	263 m/z 411.250687 unknown	Non_NASH
+3225	-1.06893779679	-1.80966	-0.32139	3225 m/z 374.2900469 unknown	Non_NASH
+855	-1.06807256593	-1.64514	-0.371586	855 m/z 400.2154941 bile acids	Non_NASH
+1085	-1.06495941219	-1.91165	-0.159968	1085 m/z 441.3364652 bile acids	Non_NASH
+1915	-1.06256571065	-1.70198	-0.349061	1915 m/z 557.2891737 unknown	Non_NASH
+728	-1.0598568888	-1.71526	-0.31013	728 m/z 267.1744729 unknown	Non_NASH
+3526	-1.057456639615	-2.27619	-0.0303088	3526 Suspect related to 1-Oleoyl-2-hydroxy-sn-glycero-3-phospho-(1'-rac-glycerol)  unknown	Non_NASH
+1130	-1.0555291150325	-2.21327	-0.0321865	1130 Suspect related to 1-Hexadecanoyl-2-sn-glycero-3-phosphate  fatty acids & other lipids	Non_NASH
+3079	-1.04547359838	-1.77366	-0.341954	3079 m/z 475.3255968 unknown	Non_NASH
+152	-1.03919688783	-1.78928	-0.345525	152 m/z 339.1932164 unknown	Non_NASH
+3793	-1.03266628344	-1.98561	-0.256259	3793 m/z 490.3529469 unknown	Non_NASH
+3314	-1.03157860466	-1.92423	-0.1464	3314 m/z 180.1020062 unknown	Non_NASH
+4366	-1.028209942365	-1.72216	-0.229234	4366 Suspect related to Curcumol  unknown	Non_NASH
+2942	-1.0257601983	-1.74454	-0.339985	2942 m/z 384.2380126 unknown	Non_NASH
+1446	-1.021547860809	-1.80087	-0.0698812	1446 Candidate Trihydroxylated bile acid (delta mass 52.067; sirius atomic difference: 5C, 8H, -1O; buddy atomic difference: 5C, 8H, -1O) bile acids	Non_NASH
+3147	-1.0166476495225	-1.87169	-0.0380558	3147 Candidate Trihydroxylated bile acid (delta mass 168.9465) unknown	Non_NASH
+3761	-1.0098402068	-1.93485	-0.176463	3761 m/z 429.2409219 unknown	Non_NASH
+2119	-1.009725017135	-2.23422	-0.0290361	2119 m/z 436.2692214 unknown	Non_NASH
+2614	-1.009725017135	-2.23422	-0.0290361	2614 m/z 436.2692105 unknown	Non_NASH
+1139	-1.007513152695	-1.6503	-0.423639	1139 m/z 494.3478712 unknown	Non_NASH
+1288	-1.004064912385	-1.94196	-0.0271097	1288 m/z 358.1321222 unknown	Non_NASH
+1168	-0.998844894149998	-1.40498	-0.605692	1168 m/z 543.3296021 unknown	Non_NASH
+1165	-0.991346315055002	-1.87843	-0.0534766	1165 m/z 539.2984195 unknown	Non_NASH
+1863	-0.98319459452	-1.6769	-0.272203	1863 m/z 426.1947601 unknown	Non_NASH
+2792	-0.982039798538497	-1.77539	-0.143555	2792 m/z 381.2255238 unknown	Non_NASH
+1166	-0.97752543885	-1.48187	-0.394261	1166 m/z 541.3141288 unknown	Non_NASH
+184	-0.972490475200002	-1.7655	-0.246564	184 m/z 361.183406 fatty acids & other lipids	Non_NASH
+350	-0.964988253694999	-1.95245	-0.0344522	350 m/z 461.3626149 unknown	Non_NASH
+98	-0.9636517576	-1.65105	-0.203814	98 Suspect related to Costunolide  unknown	Non_NASH
+4153	-0.955736512064999	-1.78145	-0.133415	4153 Suspect related to taurocholic acid  bile acids	Non_NASH
+2673	-0.948996988964999	-1.67546	-0.225048	2673 Suspect related to 5.beta.-Pregnane-3.alpha.,17.alpha.,20.alpha.-triol  unknown	Non_NASH
+767	-0.948434067695001	-1.90618	-0.0487776	767 Candidate Tetrahydroxylated bile acid (delta mass -0.0005; sirius atomic difference:; buddy atomic difference: ; spectral library match to CCMSLIB00005465094, (4R)-4-((3R,5S,6R,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) unknown	Non_NASH
+3201	-0.947392676255001	-1.62363	-0.374881	3201 m/z 457.331326 unknown	Non_NASH
+2064	-0.94606033141	-1.85307	-0.207989	2064 m/z 363.2377031 unknown	Non_NASH
+1911	-0.9430270438	-1.56682	-0.337696	1911 m/z 532.3637203 unknown	Non_NASH
+4198	-0.941850875040001	-1.5547	-0.271545	4198 Candidate Tetrahydroxylated bile acid (delta mass 88.9949; sirius atomic difference: 2C, 3H, 1N, 1O, 1S; buddy atomic difference: 2C, 3H, 1N, 1O, 1S) unknown	Non_NASH
+320	-0.939926014934001	-1.73204	-0.0505961	320 m/z 441.3364328 unknown	Non_NASH
+4120	-0.939560532710001	-1.8169	-0.0349236	4120 m/z 430.2259719 unknown	Non_NASH
+888	-0.937842746125	-1.72402	-0.198007	888 Candidate Trihydroxylated bile acid (delta mass 185.9787; sirius atomic difference: 5C, 2H, 2N, 4O, 1S; buddy atomic difference: 2C, -2H, 6N, 5O) unknown	Non_NASH
+2913	-0.936331964199999	-1.50996	-0.354878	2913 m/z 331.1903742 unknown	Non_NASH
+1693	-0.93583390169	-1.54304	-0.394019	1693 m/z 653.3141883 unknown	Non_NASH
+2898	-0.933826120899999	-1.60089	-0.175207	2898 m/z 325.2008936 unknown	Non_NASH
+3971	-0.924947078111001	-1.66154	-0.166371	3971 Suspect related to Sulfamethoxazole  unknown	Non_NASH
+1284	-0.924049109595001	-1.88607	-0.0224285	1284 m/z 353.247701 unknown	Non_NASH
+774	-0.9197977564745	-1.60433	-0.176697	774 m/z 447.2719956 unknown	Non_NASH
+203	-0.914872682264999	-1.9384	-0.0240713	203 Suspect related to (4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  fatty acids & other lipids	Non_NASH
+3992	-0.91050900315	-1.55175	-0.267598	3992 Suspect related to Marrubiin  fatty acids & other lipids	Non_NASH
+2071	-0.904712619995	-1.56891	-0.157341	2071 m/z 371.2411232 unknown	Non_NASH
+228	-0.902662291841498	-1.79703	-0.022725	228 Suspect related to ((R)-4-((3R,5R,6S,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pent-2-enoyl)glycine  fatty acids & other lipids	Non_NASH
+2595	-0.898099517011499	-1.58495	-0.120616	2595 Suspect related to (R)-4-((3R,5R,6R,8S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  unknown	Non_NASH
+2146	-0.89618827056	-1.69384	-0.00852271	2146 m/z 475.3410389 unknown	Non_NASH
+2458	-0.895281636685	-2.01815	-0.0485312	2458 m/z 333.2059906 unknown	Non_NASH
+1398	-0.891734036569499	-1.74751	-0.14702	1398 Massbank:PB006006 Sinapine|2-[(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoyl]oxyethyl-trimethylazanium unknown	Non_NASH
+255	-0.88944897601	-1.81638	-0.0117603	255 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  fatty acids & other lipids	Non_NASH
+809	-0.88737848221	-1.66973	-0.159254	809 Candidate Trihydroxylated bile acid (delta mass 218.999; sirius atomic difference: 6C, 1H, 7N, 1O, 1S; buddy atomic difference: 11C, 1H, 5N, -1O, 1S) unknown	Non_NASH
+2555	-0.885700893844999	-1.45123	-0.359063	2555 Candidate Tetrahydroxylated bile acid (delta mass 124.0312; sirius atomic difference: 2C, 8H, 2N, 2O, 1S; buddy atomic difference: 11C, 4N, -4O) bile acids	Non_NASH
+1665	-0.874337382677999	-1.67894	-0.0484887	1665 m/z 487.3761371 unknown	Non_NASH
+680	-0.8699166695	-1.66552	-0.191105	680 m/z 534.3433792 unknown	Non_NASH
+1681	-0.866226086029999	-1.67813	-0.0997445	1681 Suspect related to Isopimaric acid  unknown	Non_NASH
+587	-0.864868653808001	-1.66392	-0.0067379	587 Suspect related to .omega.-3 Arachidonic acid methyl ester  unknown	Non_NASH
+3221	-0.86064411993	-1.6659	-0.126324	3221 m/z 330.26412 fatty acids & other lipids	Non_NASH
+3624	-0.859346159855001	-1.45317	-0.168774	3624 m/z 485.2890957 unknown	Non_NASH
+3632	-0.851801914810001	-1.4728	-0.277085	3632 m/z 529.2972065 unknown	Non_NASH
+2346	-0.844687837045001	-1.64441	-0.205437	2346 m/z 794.222988 unknown	Non_NASH
+3129	-0.843853905809999	-1.57195	-0.18066	3129 m/z 494.3478633 unknown	Non_NASH
+786	-0.84312606662	-1.70351	-0.078035	786 Candidate Trihydroxylated bile acid (delta mass 89.0311; sirius atomic difference: 3C, 7H, 1N, 1S; buddy atomic difference: 3H, 5N, 1O) unknown	Non_NASH
+1119	-0.841905727800001	-1.4597	-0.233435	1119 m/z 471.3471044 bile acids	Non_NASH
+673	-0.839816935550001	-1.73585	-0.0291032	673 Suspect related to Taurocholic acid  bile acids	Non_NASH
+779	-0.837583303919999	-1.38609	-0.264772	779 Suspect related to taurocholic acid  unknown	Non_NASH
+1358	-0.831229021950002	-1.28128	-0.396485	1358 m/z 655.3301473 unknown	Non_NASH
+1780	-0.827299070595001	-1.62655	-0.125684	1780 m/z 227.1756421 unknown	Non_NASH
+1063	-0.827004989234999	-1.77695	-0.0198573	1063 Suspect related to Echinocystic acid  bile acids	Non_NASH
+3360	-0.826267283799999	-1.09261	-0.518812	3360 m/z 362.3055479 unknown	Non_NASH
+209	-0.823380245639999	-1.54436	-0.0948221	209 m/z 374.1998728 bile acids	Non_NASH
+414	-0.821109310945	-1.29511	-0.294244	414 Suspect related to 2-((4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid  bile acids	Non_NASH
+1900	-0.819538757735001	-1.45615	-0.165158	1900 m/z 504.3321649 unknown	Non_NASH
+382	-0.8121185771	-1.46331	-0.0723574	382 m/z 487.3055324 unknown	Non_NASH
+389	-0.809014206735001	-1.44009	-0.190822	389 Candidate Tetrahydroxylated bile acid (delta mass 70.9838; sirius atomic difference: 2C, 1H, 1N, 1S; buddy atomic difference: 6C, -7H, 5N, -4O; spectral library match to CCMSLIB00005788121, Oxo-taurocholenic acid or isomer  putative) unknown	Non_NASH
+665	-0.803283456911	-1.54161	-0.0179542	665 Suspect related to Taurocholic acid  bile acids	Non_NASH
+2785	-0.795585208438501	-1.52762	-0.0878934	2785 m/z 362.2902599 fatty acids & other lipids	Non_NASH
+2066	-0.787411550759998	-1.48093	-0.105137	2066 m/z 368.243379 unknown	Non_NASH
+183	-0.785922893695002	-1.39622	-0.0525268	183 m/z 361.1752716 unknown	Non_NASH
+122	-0.783897436114999	-1.58935	-0.0490776	122 Suspect related to NCGC00385373-01_C20H28O3_1-Phenanthrenecarboxylic acid, 1,2,3,4,4a,9,10,10a-octahydro-9-hydroxy-1,4a-dimethyl-7-(1-methylethyl)-, (1S,9R)-  unknown	Non_NASH
+4039	-0.776263985524999	-1.29975	-0.215151	4039 m/z 370.2587237 unknown	Non_NASH
+265	-0.775840479585001	-1.49081	-0.153034	265 Suspect related to Spectral Match to Cholic acid from NIST14  bile acids	Non_NASH
+395	-0.766205910842501	-1.13399	-0.409968	395 Candidate Dihydroxylated bile acid (delta mass 106.0198; buddy atomic difference: 2C, 6H, 2N, 1O, 1S) bile acids	Non_NASH
+2882	-0.761854720600001	-1.35421	-0.146482	2882 m/z 1235.069952 unknown	Non_NASH
+1422	-0.761128660004999	-1.42576	-0.159785	1422 m/z 385.2375958 unknown	Non_NASH
+2694	-0.760750649295	-1.26157	-0.189347	2694 m/z 414.1947595 carnitines	Non_NASH
+2301	-0.749600542894999	-1.35851	-0.120717	2301 GLYCOCHOLIC ACID bile acids	Non_NASH
+2256	-0.741546318775	-1.36895	-0.104998	2256 m/z 469.3315791 bile acids	Non_NASH
+3556	-0.737421959700001	-1.00955	-0.472034	3556 m/z 334.2743219 unknown	Non_NASH
+2263	-0.73661978994	-1.40917	-0.0702624	2263 Suspect related to Taurocholic Acid Sulfate  bile acids	Non_NASH
+3071	-0.72384450625	-1.15257	-0.292057	3071 m/z 356.352438 unknown	Non_NASH
+288	-0.72064819216	-1.30291	-0.0549354	288 Suspect related to Massbank:RP024902 Decanoyl-L-Carnitine|Decanoylcarnitine|3-decanoyloxy-4-(trimethylazaniumyl)butanoate  carnitines	Non_NASH
+222	-0.7148125749885	-1.294	-0.120797	222 m/z 385.1430479 bilirubins	Non_NASH
+355	-0.71414531939	-1.06136	-0.379368	355 Candidate Dihydroxylated bile acid (delta mass 70.9841; buddy atomic difference: 2C, 1H, 1N, 1S; spectral library match to CCMSLIB00005435583, taurohyodeoxycholic acid) unknown	Non_NASH
+3335	-0.706837905250001	-1.3672	-0.0501104	3335 Suspect related to Marrubiin  fatty acids & other lipids	Non_NASH
+2629	-0.704744906679999	-1.24743	-0.0702928	2629 m/z 495.3087707 unknown	Non_NASH
+2563	-0.701293569285	-1.27891	-0.0961732	2563 m/z 1234.57051 unknown	Non_NASH
+700	-0.691657634839999	-1.3383	-0.0359991	700 m/z 633.3573908 unknown	Non_NASH
+434	-0.688022570579999	-1.16923	-0.199431	434 Suspect related to Spectral Match to 3.alpha.,7.alpha.,12.alpha.-Trihydroxycholestanoic acid from NIST14  bile acids	Non_NASH
+1268	-0.685538485115	-1.25472	-0.151814	1268 m/z 305.2111868 unknown	Non_NASH
+103	-0.666807302750003	-1.20082	-0.0616986	103 m/z 303.1705506 bilirubins	Non_NASH
+696	-0.664910329701	-1.15124	-0.133147	696 Candidate Dihydroxylated bile acid (delta mass 203.9891) bile acids	Non_NASH
+2982	-0.646915482616001	-1.16247	-0.125555	2982 m/z 383.241264 unknown	Non_NASH
+349	-0.645219319895	-1.34653	-0.100404	349 Candidate Trihydroxylated bile acid (delta mass 51.9715; sirius atomic difference: 2C, -8H, 6N, -3O; buddy atomic difference: 2C, -8H, 6N, -3O) unknown	Non_NASH
+4391	-0.642135537442999	-1.25829	-0.00841201	4391 m/z 509.2768996 unknown	Non_NASH
+1879	-0.640604772354999	-1.07219	-0.280485	1879 m/z 453.2982877 unknown	Non_NASH
+361	-0.6094500761405	-1.31188	-0.0313478	361 m/z 470.2287235 unknown	Non_NASH
+3542	-0.603326347269999	-1.16218	-0.015171	3542 m/z 332.2796595 unknown	Non_NASH
+1899	-0.587628165034999	-1.13265	-0.102444	1899 m/z 502.3741906 unknown	Non_NASH
+477	-0.578002303235	-1.03346	-0.0879435	477 Suspect related to Stercobilin  bilirubins	Non_NASH
+3284	-0.57475762698	-1.15218	-0.058609	3284 m/z 473.3256126 unknown	Non_NASH
+3388	-0.573361161374999	-1.171	-0.0298317	3388 m/z 342.3732118 unknown	Non_NASH
+471	-0.566428797500001	-0.888551	-0.282184	471 m/z 602.2429904 unknown	Non_NASH
+1803	-0.558972948045	-0.940723	-0.196643	1803 m/z 320.2949048 unknown	Non_NASH
+115	-0.538612611259999	-1.02851	-0.00610443	115 m/z 311.1965255 amines	Non_NASH
+1337	-0.5227360393	-0.685989	-0.34898	1337 Spectral Match to 3.alpha.,7.alpha.,12.alpha.-Trihydroxycholestanoic acid from NIST14 unknown	Non_NASH
+815	-0.489038480795	-0.915969	-0.0939401	815 Candidate Trihydroxylated bile acid (delta mass 535.6657; buddy atomic difference: 36C, 81H, 5N, -3O) bile acids	Non_NASH
+814	-0.4761549996425	-0.89194	-0.0731102	814 Candidate Trihydroxylated bile acid (delta mass 518.6394; sirius atomic difference: 36C, 78H, 4N, -3O) bile acids	Non_NASH
+1948	-0.47574700418	-0.909874	-0.0445902	1948 Candidate Trihydroxylated bile acid (delta mass 510.1265; sirius atomic difference: 24C, 22H, 4N, 7O, 1S; buddy atomic difference: 32C, 18H, 2N, 5O) bile acids	Non_NASH
+524	-0.47271781377	-0.903292	-0.0274151	524 Candidate Trihydroxylated bile acid (delta mass 519.1384; sirius atomic difference: 27C, 25H, 3N, 6O, 1S; buddy atomic difference: 26C, 25H, 5N, 3O, 2S) bile acids	Non_NASH
+2305	-0.4601046711561	-0.84604	-0.124941	2305 Suspect related to 2-((4R)-4-((5R,7R,8R,9S,10S,12S,13R,17R)-7,12-dihydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid  bile acids	Non_NASH
+525	-0.4497751343448	-0.889774	-0.0577528	525 Candidate Trihydroxylated bile acid (delta mass 536.1683; sirius atomic difference: 16C, 28H, 10N, 9O, 1S; buddy atomic difference: 26C, 28H, 6N, 3O, 2S) bile acids	Non_NASH
+386	-0.446791971590001	-0.792519	-0.0699393	386 m/z 490.2834873 bile acids	Non_NASH
+3354	-0.443769385100001	-0.709945	-0.180697	3354 m/z 546.3094695 bile acids	Non_NASH
+3425	-0.44362149593	-0.783385	-0.0342546	3425 Suspect related to (3R,6R)-1-hydroxy-6-((3R,5R,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)heptan-3-yl hydrogen sulfate  unknown	Non_NASH
+816	-0.37999001497	-0.641761	-0.0903046	816 Suspect related to taurocholic acid  bile acids	Non_NASH
+528	-0.355940124345	-0.695724	-0.0326827	528 m/z 1225.556228 unknown	Non_NASH
+277	-0.351448535305	-0.566665	-0.133529	277 Suspect related to Ursocholic acid  bile acids	Non_NASH
+442	-0.349998950175	-0.68018	-0.0109654	442 Candidate Dihydroxylated bile acid (delta mass 169.005; sirius atomic difference: 3C, 7H, 1N, 5O, 1S; buddy atomic difference: 12C, -1H, 3N, -1O) unknown	Non_NASH
+495	-0.33051454163	-0.639507	-0.0375268	495 Candidate Trihydroxylated bile acid (delta mass 221.0143; buddy atomic difference: 14C, -1H, 5N, -1O) bile acids	Non_NASH
+799	-0.3266353529785	-0.579028	-0.0754388	799 m/z 567.2597903 unknown	Non_NASH
+2886	-0.31887948827	-0.635823	-0.0278174	2886 m/z 466.3526875 bile acids	Non_NASH
+436	-0.313755186614	-0.572374	-0.0134242	436 Suspect related to (6R)-2-hydroxy-2-methyl-6-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)heptyl hydrogen sulfate  bile acids	Non_NASH
+529	-0.30494367763	-0.557559	-0.0703615	529 Candidate Trihydroxylated bile acid (delta mass 833.289; sirius atomic difference: 31C, 43H, 15N, 11O, 1S; buddy atomic difference: 56C, 40H, 3N, 3O, 1P) bile acids	Non_NASH
+526	-0.293412646397	-0.58058	-0.0328856	526 Candidate Trihydroxylated bile acid (delta mass 799.2348; sirius atomic difference: 31C, 29H, 17N, 10O; buddy atomic difference: 52C, 37H, 3N, 2O, 2S) bile acids	Non_NASH
+1326	-0.26876699189	-0.462058	-0.0513974	1326 (3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-17-((2R)-6,7-dihydroxy-6-methylheptan-2-yl)-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthrene-3,7,12-triol unknown	Non_NASH
+1292	-0.2661506030965	-0.475214	-0.0623004	1292 Candidate Monohydroxylated bile acid (delta mass -18.0105; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O) unknown	Non_NASH
+758	-0.260510005285	-0.552316	-0.00453902	758 Suspect related to Cholesta-5,7-dien-3-ol, (3.beta.)-  bile acids	Non_NASH
+467	-0.1379457636829	-0.299319	-0.00163616	467 Suspect related to taurocholic acid  bile acids	Non_NASH
+369	-0.122105295748	-0.259498	-0.00113513	369 Suspect related to 2-((4R)-4-((3R,5S,7R,9S,10S,13S,14S,16R)-3,7,16-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid  bile acids	Non_NASH
+45	0.222285974265	0.00545951	0.452272	45 m/z 229.0974121 unknown	NASH
+4345	0.373831639172	0.0812287	0.719483	4345 m/z 358.131856 unknown	NASH
+376	0.388603229815	0.00918854	0.741202	376 m/z 483.2696784 unknown	NASH
+426	0.3928364711305	0.0591456	0.803714	426 m/z 534.2736546 unknown	NASH
+2573	0.464046388355	0.0852364	0.855716	2573 m/z 441.3076005 unknown	NASH
+385	0.46871032451	0.010137	0.976851	385 m/z 488.2459567 unknown	NASH
+586	0.477760688099999	0.251633	0.688626	586 m/z 303.1705338 bilirubins	NASH
+2326	0.4824626033	0.187334	0.767371	2326 m/z 332.188833 unknown	NASH
+435	0.505713325425001	0.0329636	0.901528	435 m/z 550.2460197 unknown	NASH
+3857	0.517469537295	0.00389516	1.09991	3857 m/z 475.2554106 unknown	NASH
+3001	0.517577871945001	0.0126413	0.970254	3001 m/z 259.1654698 unknown	NASH
+2965	0.523113959301	0.035968	1.06171	2965 m/z 243.0800476 unknown	NASH
+47	0.541640318488	0.0624951	1.04095	47 m/z 230.2479631 unknown	NASH
+3925	0.548232913475	0.0190267	1.05841	3925 Suspect related to .gamma.-Linolenic acid ethyl ester  unknown	NASH
+736	0.556884294009999	0.177792	0.96138	736 m/z 314.1822125 unknown	NASH
+1289	0.583626638353499	0.160642	1.03141	1289 m/z 358.197434 unknown	NASH
+1916	0.605295402601	0.0194189	1.23889	1916 m/z 558.4213953 glycols	NASH
+3832	0.6079962699645	0.222119	0.98392	3832 m/z 366.1660407 unknown	NASH
+1313	0.608289018306999	0.119328	1.0989	1313 Candidate Pentahydroxylated bile acid (delta mass -36.0199; sirius atomic difference: -4H, -2O; buddy atomic difference: -4H, -2O) unknown	NASH
+594	0.65655133082	0.0949294	1.12343	594 m/z 321.1807288 bilirubins	NASH
+260	0.686040115387001	0.126422	1.26657	260 m/z 410.2208513 fatty acids & other lipids	NASH
+3099	0.6993381325215	0.174914	1.33281	3099 m/z 286.1399815 unknown	NASH
+2797	0.724570350095	0.261388	1.1852	2797 2-[2-[(Z)-pent-2-enyl]-3-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxycyclopentyl]acetic acid fatty acids & other lipids	NASH
+2800	0.748683977716	0.0451494	1.45549	2800 Suspect related to 9,10-Dihydroxy-12Z-octadecenoic acid  fatty acids & other lipids	NASH
+2441	0.757362612521501	0.206061	1.25279	2441 m/z 237.1484971 unknown	NASH
+1575	0.76162570265	0.253781	1.26305	1575 m/z 278.1423294 unknown	NASH
+911	0.764961768695001	0.104641	1.46965	911 Suspect related to L-Kynurenine  unknown	NASH
+275	0.773160132459999	0.0764453	1.52019	275 Candidate Monohydroxylated bile acid (delta mass 39.9903; sirius atomic difference: -3C, 2N, 3O; buddy atomic difference: -3C, 2N, 3O) unknown	NASH
+2350	0.775763243995002	0.219152	1.39025	2350 m/z 186.1125591 unknown	NASH
+3092	0.783506201945	0.19773	1.43694	3092 m/z 253.1432411 fatty acids & other lipids	NASH
+3519	0.7923205778	0.0867865	1.47839	3519 m/z 339.25127 unknown	NASH
+2530	0.796695229045	0.0240482	1.46825	2530 m/z 368.1375357 unknown	NASH
+1540	0.83465336139	0.0280338	1.58984	1540 m/z 224.1281914 unknown	NASH
+3317	0.871870527469998	0.10869	1.70081	3317 m/z 240.1232634 unknown	NASH
+2978	0.87246492276	0.109948	1.64543	2978 m/z 329.1933566 unknown	NASH
+2647	0.873328620976001	0.0983101	1.6575	2647 m/z 199.0966221 unknown	NASH
+1987	0.8839349282	0.325909	1.42544	1987 m/z 256.1180664 unknown	NASH
+2971	0.888829125399999	0.268818	1.6476	2971 Suspect related to Chenodeoxycholic acid  fatty acids & other lipids	NASH
+1978	0.898489986225	0.249361	1.54289	1978 m/z 247.1078735 unknown	NASH
+3831	0.913621718944999	0.00365649	1.80278	3831 Suspect related to Pro-Pro-Lys  unknown	NASH
+3238	0.91446272338	0.0927959	1.80716	3238 m/z 343.1734857 unknown	NASH
+299	0.91838354035	0.3197	1.56121	299 m/z 431.3119718 unknown	NASH
+3731	0.929811719055	0.177277	1.83846	3731 m/z 300.1266541 unknown	NASH
+1581	0.954313596450001	0.0761389	1.89931	1581 m/z 290.1060091 unknown	NASH
+2436	0.955051238024999	0.0348448	1.93538	2436 m/z 216.1596679 unknown	NASH
+567	0.956172976344998	0.0898996	1.7358	567 m/z 263.1391878 unknown	NASH
+297	0.95829868381	0.0965339	1.83788	297 m/z 431.2771629 unknown	NASH
+2278	0.962099103195	0.0413179	1.91407	2278 m/z 255.1452088 unknown	NASH
+605	0.96231669128	0.114011	1.72878	605 m/z 346.1684907 unknown	NASH
+3109	0.96552882612	0.239736	1.6769	3109 m/z 301.176017 unknown	NASH
+3419	0.989981104245002	0.0757606	1.97577	3419 m/z 290.1060396 unknown	NASH
+3736	0.997089339745	0.1258	1.92527	3736 m/z 273.0848328 unknown	NASH
+1030	0.998961150615001	0.186558	1.90537	1030 Suspect related to Spectral Match to 9(10)-EpOME from NIST14  fatty acids & other lipids	NASH
+3472	1.001097631545	0.299053	1.75892	3472 m/z 219.112938 unknown	NASH
+4166	1.00670111363	0.354348	1.65123	4166 Candidate Trihydroxylated bile acid (delta mass 70.9829; buddy atomic difference: 2C, 1H, 1N, 1S; spectral library match to CCMSLIB00005465660, 2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid) unknown	NASH
+521	1.0183699075527	0.00832438	2.09751	521 m/z 839.5641248 unknown	NASH
+2434	1.03496204955	0.266979	1.92642	2434 m/z 204.1232205 unknown	NASH
+4502	1.06035122259	0.0186291	2.07599	4502 m/z 502.2517183 unknown	NASH
+2377	1.076094664914	0.147761	1.92803	2377 m/z 346.150043 unknown	NASH
+3735	1.0797561433	0.337289	1.8393	3735 m/z 251.1028437 unknown	NASH
+2448	1.085555269705	0.176387	1.89355	2448 m/z 283.2017552 unknown	NASH
+832	1.08583393222	0.185166	2.05279	832 m/z 277.1277585 unknown	NASH
+1607	1.09252956395	0.37048	1.75894	1607 m/z 340.1757674 unknown	NASH
+1137	1.11377649815	0.00668329	2.27204	1137 m/z 493.281201 unknown	NASH
+3453	1.11981112645	0.0470139	2.23954	3453 m/z 536.3081645 unknown	NASH
+1548	1.12035826075	0.377482	1.97303	1548 m/z 237.1486086 unknown	NASH
+1983	1.1297911551465	0.0481626	2.29399	1983 m/z 251.1643702 unknown	NASH
+2085	1.1428268049245	0.0353092	2.40748	2085 m/z 391.2445793 unknown	NASH
+3086	1.152791583985	0.0525299	2.22891	3086 Suspect related to .beta.-Tocotrienol  unknown	NASH
+125	1.1550182085185	0.52033	1.78409	125 Suspect related to sphingosin C16 (Artifact)-emf  unknown	NASH
+1513	1.1879725760745	0.128642	2.2503	1513 m/z 181.158682 unknown	NASH
+2010	1.21056624495	0.247636	2.18655	2010 Suspect related to Spectral Match to L-Tryptophan from NIST14  unknown	NASH
+3319	1.228468071585	0.233611	2.36249	3319 m/z 245.1496556 unknown	NASH
+3250	1.23326401455	0.309554	2.08926	3250 m/z 336.1919245 unknown	NASH
+1974	1.235121966295	0.0988266	2.37243	1974 m/z 237.1598334 unknown	NASH
+1282	1.24808942724	0.303837	2.26242	1282 m/z 343.2220488 unknown	NASH
+1007	1.2524656669635	0.159333	2.28042	1007 m/z 331.2231053 unknown	NASH
+2214	1.26210472755	0.0223039	2.34023	2214 m/z 273.1923739 unknown	NASH
+3503	1.26539729317	0.0624641	2.47304	3503 m/z 518.3686431 unknown	NASH
+22	1.27938306206	0.331639	2.3045	22 m/z 199.169228 unknown	NASH
+3095	1.289478479455	0.0363338	2.48751	3095 m/z 269.1131655 unknown	NASH
+2743	1.29213875018	0.416113	2.25736	2743 m/z 270.1339402 unknown	NASH
+1962	1.29677148797	0.405423	2.26802	1962 m/z 214.1439169 unknown	NASH
+2532	1.3045779614	0.354677	2.27437	2532 Suspect related to Gln-Ile  amines	NASH
+544	1.317842865125	0.351177	2.33087	544 m/z 215.1391971 unknown	NASH
+1051	1.32377756989	0.111522	2.81477	1051 NCGC00380878-01_C18H28O9_Cyclopentaneacetic acid, 2-[(2Z)-5-(hexopyranosyloxy)-2-penten-1-yl]-3-oxo-, (1R,2R)- unknown	NASH
+827	1.328302178687	0.0705589	2.78948	827 m/z 238.1187583 unknown	NASH
+2008	1.331407427535	0.2856	2.22459	2008 m/z 282.1814625 unknown	NASH
+1314	1.334565008775	0.081313	2.42893	1314 m/z 411.2096224 unknown	NASH
+2107	1.33577817885	0.286786	2.41324	2107 m/z 416.2282351 unknown	NASH
+3861	1.35366718278	0.0720077	2.57705	3861 m/z 513.3038112 unknown	NASH
+2506	1.355260232485	0.296683	2.5766	2506 Suspect related to Trp-Asp  unknown	NASH
+3975	1.36806059455	0.247369	2.70296	3975 m/z 314.2076933 unknown	NASH
+3870	1.370961660525	0.348106	2.43195	3870 m/z 546.2925867 unknown	NASH
+3854	1.3795762441825	0.022725	2.84329	3854 m/z 472.2407942 amines	NASH
+1708	1.39965931003	0.195759	2.5423	1708 m/z 239.0891854 unknown	NASH
+571	1.403267698337	0.625045	2.18221	571 m/z 274.1835623 unknown	NASH
+3390	1.4071158462	0.687343	2.15359	3390 m/z 437.264422 unknown	NASH
+1522	1.40712626311	0.165117	2.56304	1522 m/z 199.1077476 unknown	NASH
+2221	1.41797893834	0.310658	2.49198	2221 Suspect related to Spectral Match to 1-Linoleoylglycerol from NIST14  fatty acids & other lipids	NASH
+3093	1.4247769616	0.0462827	2.93165	3093 Spectral Match to Ile-Lys from NIST14 unknown	NASH
+731	1.42497225752	0.306066	2.70192	731 Suspect related to 1-Monolinoleoyl-rac-glycerol  unknown	NASH
+1530	1.425584548041	0.408227	2.43626	1530 m/z 212.1283113 fatty acids & other lipids	NASH
+2328	1.4424542262	0.518527	2.54051	2328 Spectral Match to Ile-Pro-Ile from NIST14 amines	NASH
+1684	1.44306555205	0.18461	2.86991	1684 m/z 393.2238545 unknown	NASH
+3386	1.44525753282	0.645891	2.40939	3386 m/z 316.2597506 unknown	NASH
+3506	1.44915599839	0.042459	2.8015	3506 Suspect related to Spectral Match to Ile-Glu from NIST14  amines	NASH
+1729	1.450686544175	0.0350259	2.9621	1729 m/z 336.1805589 unknown	NASH
+2323	1.4518515299205	0.613906	2.25912	2323 m/z 195.1129302 unknown	NASH
+2080	1.4574023695	0.0548642	2.96793	2080 m/z 384.1296715 unknown	NASH
+3856	1.46013800235	0.113172	2.91712	3856 m/z 475.2222665 unknown	NASH
+2544	1.4615905897	0.644624	2.31354	2544 m/z 414.2980051 unknown	NASH
+1782	1.46213945885	0.665183	2.29085	1782 m/z 240.1343916 unknown	NASH
+2779	1.462234222555	0.219272	2.69588	2779 m/z 342.2028362 unknown	NASH
+2950	1.462858649197	0.267621	2.6364	2950 m/z 447.3829734 unknown	NASH
+851	1.46899666515	0.306991	2.629	851 m/z 377.1929311 unknown	NASH
+847	1.4746965243	0.600079	2.55614	847 m/z 360.21325 amines	NASH
+2006	1.4787622895	0.321862	2.71726	2006 Suspect related to Spectral Match to Val-Leu from NIST14  amines	NASH
+1712	1.48016841405	0.148098	2.68394	1712 m/z 251.1003781 unknown	NASH
+1545	1.480748092825	0.264103	2.72236	1545 m/z 234.1338504 fatty acids & other lipids	NASH
+3474	1.481273266943	0.132315	2.86422	3474 m/z 245.1497634 unknown	NASH
+3589	1.483716664305	0.696139	2.48366	3589 m/z 228.1344501 unknown	NASH
+3829	1.485441342795	0.132534	2.70586	3829 m/z 343.1977717 unknown	NASH
+2778	1.4894465571265	0.193563	2.85761	2778 Suspect related to Massbank:RP024902 Decanoyl-L-Carnitine|Decanoylcarnitine|3-decanoyloxy-4-(trimethylazaniumyl)butanoate  unknown	NASH
+1760	1.490867301535	0.229078	2.69259	1760 m/z 439.1944376 unknown	NASH
+1960	1.49380792665	0.561874	2.36851	1960 m/z 207.1017943 fatty acids & other lipids	NASH
+3387	1.501514199	0.516807	2.4345	3387 m/z 330.2753726 unknown	NASH
+973	1.50183779951	0.0841189	2.97559	973 m/z 288.1805233 unknown	NASH
+11	1.50347454508	0.0886712	2.81552	11 m/z 180.1017792 unknown	NASH
+67	1.504808055285	0.019058	3.12283	67 m/z 251.0486881 unknown	NASH
+2999	1.51187440275	0.138905	2.7927	2999 m/z 249.1122552 unknown	NASH
+2927	1.513325434295	0.548329	2.46228	2927 m/z 211.1052506 unknown	NASH
+557	1.51430424183	0.0767479	2.86281	557 Suspect related to Spectral Match to Phe-Pro from NIST14  unknown	NASH
+620	1.51626424794	0.744148	2.30238	620 m/z 379.2084072 unknown	NASH
+1602	1.522080015955	0.155735	3.01492	1602 m/z 329.1576976 unknown	NASH
+1626	1.524990747015	0.114643	3.0168	1626 m/z 369.1527657 unknown	NASH
+237	1.53172074232	0.0615541	3.06859	237 m/z 393.2236663 unknown	NASH
+856	1.53276834278	0.0036656	2.8899	856 Suspect related to Spectral Match to Ile-Gly-Ile from NIST14  amines	NASH
+3119	1.54144605814999	0.692098	2.43164	3119 m/z 354.3002727 unknown	NASH
+549	1.541518138765	0.528761	2.69551	549 m/z 227.102746 unknown	NASH
+565	1.54400814595	0.529553	2.50538	565 Suspect related to Gln-Ile  amines	NASH
+4025	1.558650888005	0.425309	2.77673	4025 m/z 359.2293017 unknown	NASH
+2733	1.56118717305	0.237522	2.75337	2733 Suspect related to Spectral Match to Sebacic acid monomethyl ester from NIST14  fatty acids & other lipids	NASH
+3876	1.56977495261	0.228257	3.04721	3876 m/z 562.2904529 unknown	NASH
+468	1.57449623714	0.237736	2.911	468 m/z 597.3649918 bilirubins	NASH
+2664	1.57670508815	0.435321	2.57141	2664 m/z 301.1760335 amines	NASH
+1484	1.59045373332	0.0455766	2.9499	1484 m/z 597.3564199 bile acids	NASH
+1189	1.59429681333	0.339939	2.71059	1189 Stercobilin unknown	NASH
+4048	1.59764734744	0.364443	2.93351	4048 m/z 376.1717774 amines	NASH
+307	1.602134750835	0.264733	2.95883	307 m/z 434.2385624 unknown	NASH
+1414	1.61035015365	0.23451	3.03403	1414 m/z 362.3266463 unknown	NASH
+1624	1.610620321975	0.266061	2.88976	1624 m/z 367.1505358 unknown	NASH
+2503	1.61199176387275	0.264946	2.92844	2503 Suspect related to Spectral Match to Ile-Glu from NIST14  amines	NASH
+657	1.614124804486	0.438591	2.74339	657 m/z 447.2453837 unknown	NASH
+3243	1.624459853282	0.0514044	3.33797	3243 m/z 267.1341414 amines	NASH
+1559	1.62550778405	0.631994	2.61355	1559 m/z 244.2272056 unknown	NASH
+1271	1.625607456475	0.333422	2.94376	1271 m/z 321.2403658 unknown	NASH
+3267	1.62761835465	0.0417281	3.01374	3267 m/z 389.2400371 amines	NASH
+990	1.63394754995	0.627489	2.73517	990 Suspect related to Aleuritic acid  fatty acids & other lipids	NASH
+739	1.63519537542	0.112834	3.06234	739 Suspect related to Ser-Leu  amines	NASH
+540	1.64225235010205	0.0308029	3.28125	540 m/z 203.1101773 unknown	NASH
+2932	1.64418954568	0.395227	2.92585	2932 m/z 305.1858448 bilirubins	NASH
+3838	1.64586665795	0.558684	2.9353	3838 m/z 390.1872962 amines	NASH
+2752	1.6460070966	0.134175	3.12279	2752 m/z 281.1497595 unknown	NASH
+1510	1.6461994226	0.485634	2.74475	1510 (S)-(-)-Perillic acid CollisionEnergy:205060 unknown	NASH
+2514	1.6604586269	0.172571	3.38062	2514 Suspect related to Spectral Match to Thr-Val-Leu from NIST14  amines	NASH
+77	1.6673851236	0.750196	2.59912	77 m/z 274.1110671 unknown	NASH
+2329	1.67318661934055	0.0383075	3.51203	2329 m/z 345.2134623 amines	NASH
+1790	1.67544180801	0.468003	3.05351	1790 m/z 271.1652879 unknown	NASH
+707	1.6807936887	0.0964052	2.99873	707 m/z 661.392437 unknown	NASH
+39	1.685022160925	0.247756	3.31133	39 m/z 220.1368239 unknown	NASH
+2421	1.685938881031	0.170941	3.21642	2421 m/z 419.2324358 unknown	NASH
+1744	1.6885923790475	0.0978387	3.23836	1744 m/z 383.1687767 unknown	NASH
+591	1.695796945335	0.245081	3.0968	591 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+81	1.6978462016	0.561337	2.83748	81 m/z 276.1267504 unknown	NASH
+2964	1.700551582005	0.626949	2.6192	2964 Suspect related to Dimethyl azelate  fatty acids & other lipids	NASH
+583	1.70681529333	0.333869	3.13096	583 Suspect related to Spectral Match to Phe-Leu from NIST14  amines	NASH
+4411	1.709926107775	0.227329	3.24721	4411 m/z 452.2281725 unknown	NASH
+1749	1.7111925233	0.42255	3.31412	1749 Suspect related to Massbank:RP029903 N-Oleoyl-Phenylalanine|N-oleoyl phenylalanine|(2S)-2-[[(Z)-octadec-9-enoyl]amino]-3-phenylpropanoic acid  unknown	NASH
+551	1.736363363	0.657452	2.84973	551 Suspect related to .gamma.-Decalactone  fatty acids & other lipids	NASH
+3938	1.74076757405	0.348337	2.98751	3938 m/z 231.1705598 amines	NASH
+1774	1.74277316635	0.505305	3.20063	1774 KYNURENATE unknown	NASH
+3008	1.74754143	0.711864	2.72468	3008 m/z 329.1819432 unknown	NASH
+1716	1.74865770135	0.55429	2.90188	1716 m/z 272.1605721 amines	NASH
+3120	1.75008091895	0.616957	2.99624	3120 Suspect related to Spectral Match to Ile-Ile-Lys from NIST14  amines	NASH
+589	1.7547246424	0.890334	2.82178	589 Suspect related to Spectral Match to Ile-Gly-Ile from NIST14  unknown	NASH
+2515	1.75864832415	0.347075	3.16174	2515 m/z 331.1977556 amines	NASH
+1627	1.7652181561	0.0853761	3.44585	1627 m/z 371.1686356 unknown	NASH
+3482	1.76947104115	0.475834	3.07744	3482 m/z 296.1354965 unknown	NASH
+63	1.77044454715	0.760385	2.83519	63 Suspect related to 2,4,7,9-Tetramethyl-5-decyne-4,7-diol  fatty acids & other lipids	NASH
+638	1.772707124455	0.12844	3.58834	638 Massbank:RP030803 N6-Threonylcarbamoyladenosine|t(6)a|(2S,3R)-2-[[9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]purin-6-yl]carbamoylamino]-3-hydroxybutanoic acid unknown	NASH
+3750	1.791234859955	0.101216	3.60805	3750 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+1110	1.798158132	1.09005	2.47119	1110 m/z 464.251539 unknown	NASH
+2494	1.800325175805	0.478135	3.11402	2494 m/z 242.1388477 unknown	NASH
+3110	1.80756969795	0.510785	3.05311	3110 m/z 306.1909279 unknown	NASH
+598	1.807645011645	0.131077	3.4032	598 Suspect related to Ser-Leu  amines	NASH
+2444	1.8118902987	0.640724	2.9672	2444 m/z 255.1339223 unknown	NASH
+3273	1.833933078745	0.531327	3.1023	3273 m/z 399.2604303 unknown	NASH
+490	1.8370739859	0.42732	3.27453	490 m/z 619.3468954 unknown	NASH
+1523	1.84262703375	0.500592	3.26336	1523 Suspect related to Spectral Match to Dimethyl sebacate from NIST14  unknown	NASH
+2644	1.85051588386135	0.741362	2.85149	2644 m/z 174.1237845 unknown	NASH
+1400	1.8527184048	0.497663	3.35348	1400 Suspect related to Spectral Match to His-Ile from NIST14  unknown	NASH
+3778	1.85880989165	0.694678	3.17323	3778 Suspect related to Spectral Match to Ile-Arg from NIST14  amines	NASH
+2418	1.8624416439	0.747358	3.24111	2418 m/z 407.2397105 unknown	NASH
+2508	1.87587730024	0.0316248	3.64577	2508 Suspect related to Leu-Phe  amines	NASH
+2424	1.87927210595	0.510715	3.11132	2424 m/z 471.2474189 unknown	NASH
+1360	1.884063357785	0.339421	3.40457	1360 Suspect related to Spectral Match to Urobilin from NIST14  unknown	NASH
+2509	1.8853573612	0.275327	3.60733	2509 m/z 316.2232841 amines	NASH
+2292	1.889700994	1.1	2.91975	2292 m/z 391.2088734 unknown	NASH
+576	1.9053977366	0.327861	3.42744	576 Spectral Match to Tyr-Pro from NIST14 unknown	NASH
+23	1.90543331051	0.174981	3.73713	23 m/z 200.1281201 fatty acids & other lipids	NASH
+2542	1.910500576	0.512745	3.2269	2542 m/z 407.2273042 unknown	NASH
+863	1.911004488	0.163221	3.64748	863 m/z 429.1872923 unknown	NASH
+762	1.923934926605	0.282214	3.82824	762 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+575	1.93149082915	0.349442	3.46474	575 Spectral Match to Tyr-Pro from NIST14 unknown	NASH
+2651	1.9437579274	0.446284	3.35079	2651 m/z 232.1004965 unknown	NASH
+635	1.94625873345	0.650464	3.42208	635 m/z 407.2395699 unknown	NASH
+3448	1.969968440555	0.152102	3.67682	3448 m/z 417.2710881 unknown	NASH
+4443	1.97141387814	0.290215	3.62172	4443 m/z 316.2232828 amines	NASH
+655	1.98340935363	0.272908	3.62973	655 m/z 441.3077119 amines	NASH
+2751	1.9873140857	1.03287	2.96378	2751 m/z 281.1361394 unknown	NASH
+18	1.9877467897065	0.591384	3.5692	18 m/z 189.1234275 amines	NASH
+3780	1.99492669277	0.635103	3.33054	3780 m/z 331.2245359 unknown	NASH
+555	1.99829654895	0.8135	3.08627	555 m/z 245.1862087 unknown	NASH
+2911	1.99908646905	0.609694	3.46364	2911 Suspect related to Ser-Leu  amines	NASH
+2235	2.00365405955	0.632687	3.15918	2235 m/z 331.2244978 unknown	NASH
+2539	2.004485902697	0.328727	3.65257	2539 m/z 401.2760287 amines	NASH
+1142	2.009575497235	0.487504	3.28659	1142 m/z 497.239799 unknown	NASH
+1564	2.01192734867501	0.537907	3.44322	1564 m/z 248.0955499 unknown	NASH
+829	2.01494018965	0.487085	3.79475	829 m/z 248.1280859 unknown	NASH
+1601	2.020746822165	0.295013	4.13015	1601 m/z 323.1271788 unknown	NASH
+2695	2.02221867385	0.3163	4.06891	2695 m/z 417.2346492 unknown	NASH
+1001	2.0310552728	0.773662	3.31286	1001 Suspect related to 9,10-Dihydroxy-12Z-octadecenoic acid  fatty acids & other lipids	NASH
+2721	2.031354138775	0.723297	3.57844	2721 m/z 189.1234185 amines	NASH
+2500	2.032950329	0.374242	3.56026	2500 m/z 274.1762677 amines	NASH
+559	2.03417699805	0.668825	3.60905	559 Suspect related to Spectral Match to Leu-Val from NIST14  amines	NASH
+2912	2.04701835148	0.547862	3.55352	2912 Suspect related to Gln-Phe  amines	NASH
+41	2.047926839855	0.0318381	4.28894	41 m/z 226.1439856 fatty acids & other lipids	NASH
+2940	2.0485035333	0.644209	3.39247	2940 m/z 375.1878442 amines	NASH
+2534	2.0585785766	0.683231	3.2412	2534 Suspect related to Spectral Match to Leucine Enkephalin from NIST14  amines	NASH
+828	2.06082731705	0.903888	3.25967	828 Suspect related to Asp-Ile  amines	NASH
+2524	2.0609749741	0.779755	3.40786	2524 Suspect related to Spectral Match to Leucine Enkephalin from NIST14  amines	NASH
+25	2.06101672235	0.798177	3.60174	25 m/z 203.1391433 amines	NASH
+3715	2.06627551055	0.594321	3.66592	3715 m/z 350.1928453 unknown	NASH
+1955	2.0728288637	0.711854	3.43042	1955 m/z 203.1391401 amines	NASH
+1594	2.07833484105	0.459092	3.37956	1594 Suspect related to Pro-Pro-Lys  unknown	NASH
+1539	2.09326011688	0.157913	4.08857	1539 m/z 222.0985772 unknown	NASH
+1735	2.09898711720001	0.398235	3.8981	1735 Suspect related to Spectral Match to Thr-Val-Leu from NIST14  amines	NASH
+3825	2.101190809555	0.840527	3.31669	3825 Suspect related to Thr-Trp  unknown	NASH
+35	2.10916596235	0.872153	3.43794	35 Suspect related to Spectral Match to Ser-Val from NIST14  amines	NASH
+1600	2.109471652375	0.539077	3.58542	1600 m/z 323.1104492 unknown	NASH
+3527	2.10995862483	0.835399	3.24417	3527 m/z 475.219421 unknown	NASH
+2535	2.11020757041	0.711329	3.46463	2535 m/z 385.2446863 amines	NASH
+2330	2.1167101345	1.01217	3.18942	2330 Suspect related to Spectral Match to Tyr-Leu from NIST14  amines	NASH
+2512	2.11935201767	0.575297	3.57111	2512 m/z 318.1661152 amines	NASH
+756	2.137261873745	0.143327	3.78839	756 m/z 395.2033517 unknown	NASH
+3279	2.14226752340001	0.914432	3.46548	3279 m/z 435.2242916 amines	NASH
+2681	2.1481944403	0.61309	3.70651	2681 Suspect related to Spectral Match to Leu-Ile-Arg from NIST14  amines	NASH
+841	2.1499378959	0.558351	3.52441	841 Suspect related to Spectral Match to Thr-Val-Leu from NIST14  amines	NASH
+1535	2.15238775305	0.755422	3.63587	1535 m/z 216.0869757 unknown	NASH
+4396	2.15914837845	1.12305	3.29397	4396 m/z 356.2182195 unknown	NASH
+2293	2.164438952385	0.098699	4.09716	2293 m/z 395.2033409 unknown	NASH
+3477	2.17776109955	0.875223	3.77407	3477 m/z 269.1495768 unknown	NASH
+746	2.180721883705	0.379682	3.94152	746 1-beta-D-Glucopyranosyl-L-tryptophan unknown	NASH
+2772	2.1859707346	1.07079	3.35635	2772 m/z 328.2846439 fatty acids & other lipids	NASH
+53	2.205905284635	0.710879	3.71216	53 Suspect related to Ser-Leu  amines	NASH
+1595	2.20632510171	0.644514	3.78159	1595 Massbank:RP031103 N2_N2-Dimethylguanosine|N,N-Dimethylguanosine|9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2-(dimethylamino)-3H-purin-6-one unknown	NASH
+2547	2.20704461835	0.0485085	4.38321	2547 m/z 443.2025793 unknown	NASH
+2930	2.207148610295	0.434548	3.75247	2930 m/z 282.1428851 unknown	NASH
+2518	2.2134849886	0.170416	4.2618	2518 m/z 334.1609156 unknown	NASH
+3559	2.2226140947	0.138138	4.25826	3559 m/z 366.2026417 unknown	NASH
+643	2.22483142925	0.737733	3.6579	643 m/z 419.2142367 unknown	NASH
+2528	2.228573372805	0.72808	3.78371	2528 Suspect related to Spectral Match to Tyr-Leu from NIST14  amines	NASH
+726	2.2396470563	0.654613	3.80914	726 Suspect related to Gln-Phe  amines	NASH
+2298	2.24107010925	0.704697	3.62964	2298 m/z 431.2138614 unknown	NASH
+2461	2.24420223705	0.990875	3.74552	2461 m/z 346.1766221 unknown	NASH
+1527	2.2686308803	0.93298	3.58832	1527 m/z 211.0577578 unknown	NASH
+3570	2.27413846175	0.298516	4.25614	3570 m/z 538.2508801 unknown	NASH
+683	2.27586979891	0.369651	4.17206	683 m/z 544.2979333 unknown	NASH
+577	2.27633593998	0.796608	3.80409	577 Spectral Match to Phe-Leu from NIST14 amines	NASH
+1738	2.28492271434999	0.616039	4.10257	1738 m/z 365.1919473 unknown	NASH
+2935	2.28862294499999	1.05359	3.4606	2935 m/z 347.1926673 unknown	NASH
+613	2.293251321225	0.224028	4.73665	613 m/z 365.192366 unknown	NASH
+1609	2.3000660622	0.966282	3.7336	1609 m/z 346.1864757 unknown	NASH
+2364	2.3052136599	1.04069	3.54277	2364 m/z 292.0850905 unknown	NASH
+612	2.3104113193	0.792963	3.59474	612 m/z 363.2166261 unknown	NASH
+3680	2.3152958818	1.23701	3.44711	3680 m/z 328.2846414 fatty acids & other lipids	NASH
+61	2.334636044	0.886347	3.66273	61 m/z 245.1862162 unknown	NASH
+1617	2.34378728754	0.185157	4.41194	1617 m/z 358.2700907 amines	NASH
+3803	2.34600845475	0.938762	3.83729	3803 m/z 407.2288628 amines	NASH
+3114	2.347069019105	0.313895	4.60743	3114 m/z 317.182245 amines	NASH
+3652	2.3472529348	0.557031	3.93995	3652 m/z 359.2291701 amines	NASH
+3740	2.3594330525	0.448418	4.43292	3740 m/z 344.2796474 fatty acids & other lipids	NASH
+4246	2.3793107939	0.6563	4.08591	4246 m/z 597.4493376 unknown	NASH
+550	2.39002073485	0.765124	4.04199	550 m/z 229.1548803 unknown	NASH
+2517	2.39876055555	1.07476	3.78573	2517 m/z 332.1817107 amines	NASH
+2327	2.4035333618	0.873866	3.73324	2327 Candidate Pentahydroxylated bile acid (delta mass -109.0673; sirius atomic difference: -9C, -11H, 3N, -2O; buddy atomic difference: -9C, -11H, 3N, -2O) amines	NASH
+3558	2.407268527615	0.65677	4.055	3558 m/z 366.2023982 amines	NASH
+725	2.42163613375	0.941258	3.80461	725 m/z 245.186198 unknown	NASH
+606	2.437852867	1.23838	3.80834	606 m/z 348.1768956 amines	NASH
+937	2.43815118988	0.857699	4.10397	937 Suspect related to Asn-Val  unknown	NASH
+3835	2.46146053275	1.02169	3.81378	3835 m/z 376.1719993 unknown	NASH
+669	2.465532725895	0.758044	4.19232	669 m/z 489.256041 unknown	NASH
+3660	2.46894463355	0.873866	3.87569	3660 Suspect related to Gln-Leu  unknown	NASH
+4252	2.4830223715	0.863249	4.00738	4252 m/z 613.4442972 unknown	NASH
+3827	2.5067255919	1.11585	3.84004	3827 m/z 301.1163628 unknown	NASH
+2533	2.50807014442499	0.820312	4.16648	2533 m/z 376.1716669 amines	NASH
+2946	2.51420385034	0.891964	4.10771	2946 m/z 423.1982194 unknown	NASH
+595	2.5230206914	0.717767	4.45881	595 m/z 325.0893496 unknown	NASH
+3457	2.5264090282915	0.510374	4.40204	3457 m/z 579.2780861 unknown	NASH
+1655	2.535942071	1.29613	3.67907	1655 m/z 432.2349225 unknown	NASH
+2516	2.54270638965	0.875651	4.22269	2516 m/z 331.1979132 unknown	NASH
+676	2.55234251546	0.673511	4.37771	676 m/z 514.2876254 unknown	NASH
+3855	2.58489908904001	0.880606	4.24725	3855 m/z 474.2565832 unknown	NASH
+2419	2.59000090914999	0.964987	4.15972	2419 m/z 415.2190139 unknown	NASH
+624	2.59222586183	0.239551	4.90778	624 Suspect related to Spectral Match to His-Ile from NIST14  amines	NASH
+3657	2.59657024205	0.462001	4.92343	3657 m/z 771.3776493 unknown	NASH
+4386	2.6177965717	0.389545	4.96319	4386 m/z 443.1680093 unknown	NASH
+1614	2.62369196725	1.05745	4.16436	1614 m/z 357.1296111 unknown	NASH
+2286	2.648054497465	0.888793	4.33231	2286 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+609	2.65142228766	0.640796	4.70022	609 Suspect related to Spectral Match to Phe-Tyr from NIST14  unknown	NASH
+2285	2.66265665109999	0.900214	4.59185	2285 Suspect related to Spectral Match to Leu-Gly-Leu from NIST14  amines	NASH
+1612	2.66411078430001	1.10465	4.03087	1612 m/z 354.1579771 unknown	NASH
+1444	2.6828960932	1.11709	4.19798	1444 m/z 459.223665 unknown	NASH
+2511	2.720401205	1.04714	4.68618	2511 m/z 317.1820306 amines	NASH
+783	2.7435573229	1.1584	4.42193	783 m/z 488.2719227 unknown	NASH
+1692	2.74418932455	0.391892	4.77905	1692 m/z 575.466824 unknown	NASH
+2361	2.77935691209999	1.22746	4.2527	2361 m/z 280.0488896 unknown	NASH
+492	2.802373018	1.26877	4.188	492 m/z 628.330684 unknown	NASH
+584	2.81014643275	0.960988	4.70633	584 Suspect related to Spectral Match to Val-Gly-Val from NIST14  amines	NASH
+2067	2.819872688	1.47271	4.22585	2067 m/z 369.2616822 unknown	NASH
+3563	2.83008989565	1.27944	4.51795	3563 m/z 442.2299009 unknown	NASH
+49	2.83805483939	1.04818	4.52094	49 m/z 231.1705775 amines	NASH
+2336	2.8391625655	1.01868	4.60447	2336 m/z 446.2613985 amines	NASH
+2281	2.8392368607	0.990868	4.67187	2281 Suspect related to Asp-Leu  amines	NASH
+2936	2.8587766867	1.04743	4.69717	2936 m/z 360.1948105 amines	NASH
+1990	2.86021952915	1.36574	4.48265	1990 m/z 259.1767651 unknown	NASH
+3665	2.86671839115	0.610478	5.2172	3665 m/z 406.1723718 unknown	NASH
+1425	2.8726311395	1.71307	4.00587	1425 m/z 407.2398494 unknown	NASH
+3281	2.87841980628	1.18284	4.51814	3281 m/z 459.3178609 amines	NASH
+2928	2.926544917	0.947269	4.58375	2928 Suspect related to Spectral Match to His-Ile from NIST14  amines	NASH
+2546	2.9364136957	0.89647	4.95684	2546 m/z 437.2396317 amines	NASH
+2426	2.972446234215	0.760498	5.36522	2426 m/z 599.3405832 unknown	NASH
+987	3.04708433835	1.2518	5.03203	987 Suspect related to 1-Palmitoylglycerol  unknown	NASH
+1678	3.053923014352	1.28894	4.8295	1678 m/z 229.1549354 unknown	NASH
+2423	3.12814079865999	1.40581	4.72749	2423 m/z 465.2708719 amines	NASH
+704	3.129816459	1.60718	4.52263	704 m/z 650.3126922 unknown	NASH
+1720	3.13691575184999	0.945051	5.14284	1720 Suspect related to trans-13-Octadecenoic acid  fatty acids & other lipids	NASH
+664	3.184136376	1.78658	4.62801	664 m/z 477.219724 unknown	NASH
+568	3.191522568865	1.43139	4.88548	568 Suspect related to Spectral Match to His-Ile from NIST14  amines	NASH
+1688	3.219845976	0.504105	5.84738	1688 m/z 506.2281613 unknown	NASH
+2937	3.369795172	1.83446	5.07838	2937 m/z 362.1922618 amines	NASH
+3820	3.46769217518499	1.69579	5.41693	3820 Suspect related to Spectral Match to His-Ile from NIST14  amines	NASH
+2236	3.47859261900001	1.45529	5.38552	2236 m/z 333.2401548 unknown	NASH
+618	3.5506600935	1.8186	5.35214	618 Suspect related to Glu-Ile  amines	NASH
+2921	3.57115961	2.32324	4.9143	2921 m/z 457.1118169 unknown	NASH
+4130	3.59499459945001	1.80881	5.29773	4130 Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate  glycols	NASH
+1440	3.630624543	2.01156	5.10992	1440 m/z 457.1113333 unknown	NASH
+2560	3.81434315185	0.959913	6.86164	2560 m/z 625.2987478 unknown	NASH
+1605	3.8893615879	1.52425	5.98754	1605 m/z 335.2558008 unknown	NASH
+1727	3.94086655	1.84448	5.84559	1727 m/z 330.3003191 unknown	NASH
+2550	4.1284123034	1.38451	6.78117	2550 m/z 473.2725971 unknown	NASH
+1724	4.1511794915	2.05346	6.20779	1724 Suspect related to 1-Linoleoylglycerol  unknown	NASH
+3888	4.223872424695	1.97598	6.53568	3888 m/z 632.3144513 unknown	NASH
+3894	8.04750871899998	4.01952	11.9857	3894 m/z 659.3403885 unknown	NASH
+1101	10.82639953613	7.01442	15.5843	1101 m/z 456.2491086 amines	NASH

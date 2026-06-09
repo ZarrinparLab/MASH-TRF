@@ -9,10 +9,12 @@ library("qiime2R")
 mash_metadata<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/20231108_gnps_run/metadata_table/metadata_table-00000.txt"
 mash_quanttab<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/20231108_gnps_run/quantification_table/quantification_table-00000.csv"
 NASH_histology<-"~/Notebooks/sfloresr/MASH-TRF/JBR_2025/data/nas_scoring_analysis_nash.csv"
+mtb_annotations<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/20231108_gnps_run/DB_result/8dfc7fa4496841558d688c25f58c63c0.tsv"
+mz_values<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/20231108_gnps_run/DB_result/mz_annot_v2.txt"
 data_dir<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_mtb/"
 
 #########################################################################
-#Combined BIRDMAn results--Table S2
+#cleaning GNPS metadata files
 
 md<-fread(mash_metadata)%>%
   filter(grepl("mzML",filename))%>%
@@ -115,49 +117,46 @@ write.table(mtbw12ZT13FAFT_log, "mtb/stool/data_files/20231108_gnps_run/quantifi
 
 #########################################################################
 #clean annotation table
-annot<-fread("mtb/stool/data_files/20231108_gnps_run/DB_result/8dfc7fa4496841558d688c25f58c63c0.tsv")%>%
+
+annot<-fread(mtb_annotations)%>%
   dplyr::rename(FeatureID=`#Scan#`)
-write.table(annot,"mtb/stool/data_files/20231108_gnps_run/DB_result/DB_results_clean.txt",sep = "\t",row.names = FALSE, quote=FALSE)  
+write.table(annot,paste0(data_dir,"20231108_gnps_run/DB_result/DB_results_clean.txt"),sep = "\t",row.names = FALSE, quote=FALSE)  
 
-#BA_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_BA_nodetab.csv")%>%
-BA_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_BA_nodetable.csv")%>%
+mz_info<-fread(mz_values)
+
+annotations<-annot%>%
+  select(FeatureID,Compound_Name)%>%
+  mutate(FeatureID=as.integer(FeatureID),
+         Compound_Name=gsub("\\(predic.*","",Compound_Name),
+         Compound_Name=gsub('"',"",Compound_Name))%>%
+  right_join(.,mz_info,by="FeatureID")
+write.table(annotations,paste0(data_dir,"20231108_gnps_run/DB_result/feature_annotations_clean.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+
+#########################################################################
+# create quantification table with extended cytoscape annotations
+
+BA_annot<-fread(paste0(data_dir,"20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_BA_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-#FA_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_FA_nodetab.csv")%>%
-FA_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_FA_nodetable.csv")%>%
+FA_annot<-fread(paste0(data_dir,"mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_FA_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-#AA_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_amine_nodetab.csv")%>%
-AA_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_amine_nodetable.csv")%>%
+AA_annot<-fread(paste0(data_dir,"20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_amine_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-#gly_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_glycol_nodetab.csv")%>%
-gly_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_glycol_nodetable.csv")%>%
+gly_annot<-fread(paste0(data_dir,"20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_glycol_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-#car_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_carnitine_nodetab.csv")%>%
-car_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_carnitine_nodetable.csv")%>%
+car_annot<-fread(paste0(data_dir,"20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_carnitine_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-#phos_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_phosphocholine_nodetab.csv")%>%
-phos_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_phosphocholine_nodetable.csv")%>%
+phos_annot<-fread(paste0(data_dir,"20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_phosphocholine_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-#bil_annot<-fread("mtb/stool/data_files/20231108_gnps_run/cytoscape/cytoscape_bilirubin_nodetab.csv")%>%
-bil_annot<-fread("mtb/stool/data_files/20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_bilirubin_nodetable.csv")%>%
+bil_annot<-fread(paste0(data_dir,"20231108_gnps_run/gnps_molecular_network_iin_collapse_graphml/cytoscape_bilirubin_nodetable.csv"))%>%
   dplyr::rename(FeatureID=name)
 
-# list_venn <- list(BA = BA_annot$FeatureID,
-#                   FA = FA_annot$FeatureID,
-#                   AA = AA_annot$FeatureID,
-#                   gly = gly_annot$FeatureID,
-#                   car = car_annot$FeatureID,
-#                   phos = phos_annot$FeatureID,
-#                   bil = bil_annot$FeatureID)
-# ItemsList <- venn(list_venn, show.plot = FALSE)
-# all<-attributes(ItemsList)$intersections #this showed there's no overlap in my mtb annotations
-
-mz<-fread("mtb/stool/data_files/20231108_gnps_run/quantification_table/quantification_table-00000.csv") %>%
+mz<-fread(paste0(data_dir,"20231108_gnps_run/quantification_table/quantification_table-00000.csv"))%>%
   dplyr::select(c(1:3))%>%
   dplyr::rename(FeatureID=`row ID`,mz= `row m/z`,RT=`row retention time`)%>%
   mutate(mtb_group = dplyr::case_when(FeatureID %in% BA_annot$FeatureID ~ "bile acids", 
@@ -168,10 +167,10 @@ mz<-fread("mtb/stool/data_files/20231108_gnps_run/quantification_table/quantific
                                       FeatureID %in% phos_annot$FeatureID ~ "phosphocholines",
                                       FeatureID %in% bil_annot$FeatureID ~ "bilirubins",
                                       TRUE ~ "unknown"))
-write.table(mz,"mtb/stool/data_files/20231108_gnps_run/DB_result/mz_annot.txt",sep = "\t",row.names = FALSE, quote=FALSE)  
-write.table(mz,"mtb/stool/data_files/20231108_gnps_run/DB_result/mz_annot_v2.txt",sep = "\t",row.names = FALSE, quote=FALSE)  
+write.table(mz,paste0(data_dir,"20231108_gnps_run/DB_result/mz_annot.txt"),sep = "\t",row.names = FALSE, quote=FALSE)  
+write.table(mz,paste0(data_dir,"20231108_gnps_run/DB_result/mz_annot_v2.txt"),sep = "\t",row.names = FALSE, quote=FALSE)  
 
-mtb<-fread("mtb/stool/data_files/20231108_gnps_run/quantification_table/quantification_table-00000-clean-mash-rmblnk.txt") 
+mtb<-fread(paste0(data_dir,"20231108_gnps_run/quantification_table/quantification_table-00000-clean-mash-rmblnk.txt"))
 
 #make long tabl
 mtb_wmd<-mtb%>%dplyr::rename(FeatureID=`row ID`)%>%
@@ -181,5 +180,7 @@ mtb_wmd<-mtb%>%dplyr::rename(FeatureID=`row ID`)%>%
   filter(!is.na(NASH_category))%>%
   left_join(.,annot,by="FeatureID")
 
-#write.table(mtb_wmd,"mtb/stool/NASH_stool_metabolomics_quanttab_long_wmd.txt",sep = "\t",row.names = FALSE, quote=FALSE)  
-write.table(mtb_wmd,"mtb/stool/NASH_stool_metabolomics_quanttab_long_wmd_v2.txt",sep = "\t",row.names = FALSE, quote=FALSE)  
+#write.table(mtb_wmd,paste0(data_dir,"NASH_stool_metabolomics_quanttab_long_wmd.txt"),sep = "\t",row.names = FALSE, quote=FALSE)  
+write.table(mtb_wmd,paste0(data_dir,"NASH_stool_metabolomics_quanttab_long_wmd_v2.txt"),sep = "\t",row.names = FALSE, quote=FALSE)  
+
+#micromasst was run separatelly

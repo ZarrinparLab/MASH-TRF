@@ -1,0 +1,26 @@
+FeatureID	ratio	min	max	Name	cat
+806	-2.37788702770001	-4.21976	-0.518202	806 Suspect related to Massbank:PR310848 Hexosyl LPE 16:0  unknown	Non_NASH
+2754	-1.22519869858	-2.4666	-0.0103268	2754 Suspect related to Palmitic acid alkyne  fatty acids & other lipids	Non_NASH
+4166	-1.20634767901	-2.09713	-0.274006	4166 Candidate Trihydroxylated bile acid (delta mass 70.9829; buddy atomic difference: 2C, 1H, 1N, 1S; spectral library match to CCMSLIB00005465660, 2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid) unknown	Non_NASH
+777	-0.903340192005	-1.81203	-0.0531603	777 Suspect related to 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate  fatty acids & other lipids	Non_NASH
+776	-0.857002124624999	-1.63426	-0.103436	776 Suspect related to 1-Oleoyl-2-hydroxy-sn-glycero-3-phospho-(1'-rac-glycerol)  fatty acids & other lipids	Non_NASH
+4200	-0.777238781960001	-1.34116	-0.135727	4200 Suspect related to taurohyodeoxycholic acid  bile acids	Non_NASH
+824	-0.667291249325	-1.16422	-0.136109	824 VITAMIN K1 CollisionEnergy:205060 unknown	Non_NASH
+114	-0.605409573500001	-1.05544	-0.17828	114 Suspect related to Massbank:NA002995 [6]-Gingerol|5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one  unknown	Non_NASH
+3621	-0.474057909235001	-0.881645	-0.0352125	3621 Suspect related to Timosaponin A-III  unknown	Non_NASH
+1772	0.491383474062	0.00364293	1.02499	1772 Suspect related to Stercobilin  bilirubins	NASH
+4350	0.509236853635	0.0081882	1.05302	4350 Suspect related to Aleuritic acid  fatty acids & other lipids	NASH
+2215	0.54696665277	0.0562414	1.18798	2215 Suspect related to Heneicosapentaenoic acid methyl ester  unknown	NASH
+2568	0.555902686010001	0.0122208	1.09402	2568 Candidate Tetrahydroxylated bile acid (delta mass -72.042; sirius atomic difference: -8H, -4O; buddy atomic difference: -8H, -4O) unknown	NASH
+4446	0.627598621614999	0.0627575	1.16741	4446 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  bile acids	NASH
+4168	0.741944234165002	0.251684	1.23448	4168 Candidate Monohydroxylated bile acid (delta mass 105.045; buddy atomic difference: 3C, 7H, 1N, 3O) unknown	NASH
+2691	0.757211777723501	0.240908	1.35652	2691 Candidate Tetrahydroxylated bile acid (delta mass -18.0099; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00005465699, (R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) bile acids	NASH
+2245	0.851772426511749	0.0515924	1.64886	2245 Candidate Pentahydroxylated bile acid (delta mass -18.0106; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O) unknown	NASH
+1103	0.944051200119999	0.225252	1.74031	1103 Suspect related to Deoxycholic acid  bile acids	NASH
+3552	1.057881008281	0.162261	1.99856	3552 Suspect related to 10E,12Z-octadecadienoic acid  fatty acids & other lipids	NASH
+1904	1.165617496465	0.264703	1.95987	1904 Suspect related to 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate  fatty acids & other lipids	NASH
+1750	1.170399870277	0.22543	2.26732	1750 Candidate Pentahydroxylated bile acid (delta mass -36.0206; sirius atomic difference: -4H, -2O; buddy atomic difference: -4H, -2O; spectral library match to CCMSLIB00005464807, (R)-4-((3R,5S,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-7,12-dioxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) unknown	NASH
+3597	1.34423888099	0.00221298	2.65025	3597 Suspect related to Spectral Match to 15-OxoEDE from NIST14  unknown	NASH
+1264	1.45512499686	0.237364	2.6563	1264 Suspect related to 10E,12Z-octadecadienoic acid  fatty acids & other lipids	NASH
+3748	1.6538246665165	0.313319	2.83282	3748 Suspect related to NCGC00381248-01!4-oxododecanedioic acid  fatty acids & other lipids	NASH
+1992	1.8295638472	0.388196	3.07288	1992 Suspect related to 20-Hydroxyarachidonic acid  unknown	NASH

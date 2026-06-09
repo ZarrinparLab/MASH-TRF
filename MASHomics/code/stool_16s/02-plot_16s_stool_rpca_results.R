@@ -11,7 +11,9 @@ library(cowplot)
 mash_metadata<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_16s/mashstool16s_preprocessed_20211020_ID_13785_gg2/metadata.txt"
 NASH_histology<-"~/Notebooks/sfloresr/MASH-TRF/JBR_2025/data/nas_scoring_analysis_nash.csv"
 data_dir<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_16s/"
-results_dir<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/results/stool_16s/"
+rpca_res_all<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/results/stool_16s/s16s_rpca_results_NASH_all_gg2/"
+rpca_res_8wk_FAFT<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/results/stool_16s/s16_rpca_results_NASH_8wk_FAFT_gg2/"
+rpca_res_12wk_FAFT<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/results/stool_16s/s16_rpca_results_NASH_12wk_FAFT_gg2/"
 ##################################################################
 #functions
 
@@ -96,12 +98,12 @@ write.table(md,paste0(data_dir,"s16s_metadata_cln_addmoreNASHcat.txt"),sep = "\t
 #RPCA by condition and collection time--Fig. 1A
 ##Need to run 01-run_rpca_stool16S.sh first
 
-ord <- read_qza(paste0(results_dir,"s16s_rpca_results_NASH_all_gg2/ordination.qza"))
+ord <- read_qza(paste0(rpca_res_all,"ordination.qza"))
 
 samp_ord<-ord$data$Vectors
-write.table(samp_ord,paste0(results_dir,"s16s_rpca_results_NASH_all_gg2/sample_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+write.table(samp_ord,paste0(rpca_res_all,"sample_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
 feat_ord<-ord$data$Species
-write.table(feat_ord,paste0(results_dir,"s16s_rpca_results_NASH_all_gg2/feature_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+write.table(feat_ord,paste0(rpca_res_all,"feature_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
 
 md<-fread(paste0(data_dir,"s16s_metadata_cln.txt"))%>%
   mutate(condition=ifelse(is.na(condition),"NA",condition),
@@ -131,7 +133,7 @@ p<-rpca %>%
        y =paste("PC2 (",round(ord$data$ProportionExplained$PC2*100,digits=2),"%)",sep=""))+ggtitle("NASH stool 16S")+ 
   theme(plot.title = element_text(face = "bold"),
         legend.position = "none")
-ggsave(paste0(results_dir,"s16s_rpca_results_NASH_all_gg2/SFR24_0209_NASH_stool16s_RPCA_sepwk.pdf"), plot=p,height=4, width=4)
+ggsave(paste0(rpca_res_all,"SFR24_0209_NASH_stool16s_RPCA_sepwk.pdf"), plot=p,height=4, width=4)
 
 ##add box plot to axes
 
@@ -175,7 +177,7 @@ plot_b<-plot_grid(plot_a,p, rel_widths = c(1, 3))
 plot_c<-plot_grid(NULL,diet_rpca, rel_widths = c(2.8,8))
 final_plot <- plot_grid(plot_b,plot_c,nrow=2,rel_heights  = c(4, 1))
 
-ggsave(paste0(results_dir,"s16s_rpca_results_NASH_all_gg2/SFR24_0508_NASH_stool16s_RPCA_sepwk_addbxplt.pdf"), plot=final_plot,height=4.7, width=5.7)
+ggsave(paste0(rpca_res_all,"SFR24_0508_NASH_stool16s_RPCA_sepwk_addbxplt.pdf"), plot=final_plot,height=4.7, width=5.7)
 
 ##################################################################
 #RPCA by condition and collection time for FA and FT only--Fig. 1B
@@ -183,12 +185,12 @@ ggsave(paste0(results_dir,"s16s_rpca_results_NASH_all_gg2/SFR24_0508_NASH_stool1
 
 ##Wk 4 (overall week 8), left
 
-ord <- read_qza(paste0(results_dir,"s16_rpca_results_NASH_8wk_FAFT_gg2/ordination.qza"))
+ord <- read_qza(paste0(rpca_res_8wk_FAFT,"ordination.qza"))
 
 samp_ord<-ord$data$Vectors
-write.table(samp_ord,paste0(results_dir,"s16s_rpca_results_NASH_8wk_FAFT_gg2/sample_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+write.table(samp_ord,paste0(rpca_res_8wk_FAFT,"sample_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
 feat_ord<-ord$data$Species
-write.table(feat_ord,paste0(results_dir,"s16s_rpca_results_NASH_8wk_FAFT_gg2/feature_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+write.table(feat_ord,paste0(rpca_res_8wk_FAFT,"feature_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
 
 rpca<-ord$data$Vectors %>%
   dplyr::select(SampleID, PC1, PC2, PC3)%>%
@@ -210,16 +212,16 @@ p<-rpca %>%
        y =paste("PC2 (",round(ord$data$ProportionExplained$PC2*100,digits=2),"%)",sep=""))+ggtitle("NASH stool 16S Wk8")+ 
   theme(plot.title = element_text(face = "bold"),
         legend.position = "top")
-ggsave(paste0(results_dir,"s16s_rpca_results_NASH_8wk_FAFT_gg2/SFR24_0209_NASH_stool16s_RPCA_sepLD.pdf"), plot=p,height=4, width=4)
+ggsave(paste0(rpca_res_8wk_FAFT,"SFR24_0209_NASH_stool16s_RPCA_sepLD.pdf"), plot=p,height=4, width=4)
 
 ##Wk 7 (overall week 12), right
 
-ord <- read_qza(paste0(results_dir,"s16s_rpca_results_NASH_12wk_FAFT_gg2/ordination.qza"))
+ord <- read_qza(paste0(rpca_res_12wk_FAFT,"ordination.qza"))
 
 samp_ord<-ord$data$Vectors
-write.table(samp_ord,paste0(results_dir,"s16s_rpca_results_NASH_12wk_FAFT_gg2/sample_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+write.table(samp_ord,paste0(rpca_res_12wk_FAFT,"sample_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
 feat_ord<-ord$data$Species
-write.table(feat_ord,paste0(results_dir,"s16s_rpca_results_NASH_12wk_FAFT_gg2/feature_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
+write.table(feat_ord,paste0(rpca_res_12wk_FAFT,"feature_ordination.txt"),sep = "\t",row.names = FALSE,quote=FALSE)
 
 rpca<-ord$data$Vectors %>%
   dplyr::select(SampleID, PC1, PC2, PC3)%>%
@@ -241,4 +243,4 @@ p<-rpca %>%
        y =paste("PC2 (",round(ord$data$ProportionExplained$PC2*100,digits=2),"%)",sep=""))+ggtitle("NASH stool 16S Wk12")+ 
   theme(plot.title = element_text(face = "bold"),
         legend.position = "top")
-ggsave(paste0(results_dir,"s16s_rpca_results_NASH_12wk_FAFT_gg2/SFR24_0209_NASH_stool16s_RPCA_sepLD.pdf"), plot=p,height=4, width=4)
+ggsave(paste0(rpca_res_12wk_FAFT,"SFR24_0209_NASH_stool16s_RPCA_sepLD.pdf"), plot=p,height=4, width=4)
