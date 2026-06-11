@@ -1,4 +1,4 @@
-setwd("/mnt/zarrinpar/scratch/sfloresr/NASH_KF/")
+setwd("~/Notebooks/sfloresr/MASH-TRF/MASHomics/")
 
 library(tidyverse)
 library(data.table)

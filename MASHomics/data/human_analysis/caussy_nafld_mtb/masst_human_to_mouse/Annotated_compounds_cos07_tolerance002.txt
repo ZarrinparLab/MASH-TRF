@@ -1,0 +1,352 @@
+features	USI_MSV000088063	USI_MSV000082374	url_standard	url_interface_standard	cosine_standard	precmz1	precmz2	mass_difference
+MSV000088063_2060_vs_MSV000082374_3949	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2060	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2060&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2060&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.925649075	355.2461	355.2625	-0.0164
+MSV000088063_2416_vs_MSV000082374_3949	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2416	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2416&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2416&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.920817911	355.2461	355.2625	-0.0164
+MSV000088063_99_vs_MSV000082374_4493	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:99	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4493	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:99&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4493&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:99&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4493&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.742360343	300.2898	300.2896	0.0002
+MSV000088063_179_vs_MSV000082374_3949	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:179	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:179&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:179&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.950199461	355.2632	355.2625	0.0007
+MSV000088063_182_vs_MSV000082374_4505	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:182	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4505	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:182&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4505&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:182&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4505&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.855110945	357.2789	357.2787	0.0002
+MSV000088063_232_vs_MSV000082374_5688	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:232	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5688	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:232&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5688&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:232&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5688&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.963006198	390.298	390.3001	-0.0021
+MSV000088063_257_vs_MSV000082374_4167	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:257	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:257&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:257&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.814351872	407.2794	407.2792	0.0002
+MSV000088063_257_vs_MSV000082374_3962	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:257	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:257&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:257&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.89488166	407.2794	407.2787	0.0007
+MSV000088063_304_vs_MSV000082374_2212	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:304	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2212	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:304&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2212&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:304&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2212&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.871854134	432.2807	432.2801	0.0006
+MSV000088063_363_vs_MSV000082374_5866	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:363	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5866	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:363&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5866&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:363&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5866&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.962093532	471.3445	471.3467	-0.0022
+MSV000088063_575_vs_MSV000082374_269	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:575	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:269	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:575&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:269&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:575&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:269&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.866133132	279.1341	279.1345	-0.0004
+MSV000088063_576_vs_MSV000082374_269	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:576	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:269	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:576&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:269&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:576&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:269&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.863134673	279.1341	279.1345	-0.0004
+MSV000088063_761_vs_MSV000082374_3962	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:761	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:761&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:761&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.803968468	407.2794	407.2787	0.0007
+MSV000088063_761_vs_MSV000082374_4167	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:761	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:761&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:761&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.841071261	407.2794	407.2792	0.0002
+MSV000088063_833_vs_MSV000082374_6837	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:833	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6837	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:833&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6837&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:833&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6837&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.930994661	282.2793	282.279	0.0003
+MSV000088063_844_vs_MSV000082374_3949	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:844	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:844&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:844&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.955562888	355.2632	355.2625	0.0007
+MSV000088063_1078_vs_MSV000082374_2333	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1078	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2333	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1078&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2333&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1078&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2333&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.874509483	438.239	438.2382	0.0008
+MSV000088063_1088_vs_MSV000082374_5472	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1088	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5472	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1088&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5472&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1088&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5472&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.735527861	442.3529	442.3526	0.0003
+MSV000088063_1398_vs_MSV000082374_1953	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1398	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1953	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1398&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1953&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1398&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1953&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.960376826	310.1649	310.1657	-0.0008
+MSV000088063_1414_vs_MSV000082374_7776	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1414	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7776	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1414&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7776&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1414&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7776&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.849639826	362.3266	362.3418	-0.0152
+MSV000088063_1425_vs_MSV000082374_1546	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1425	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1546	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1425&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1546&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1425&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1546&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.84399459	407.2398	407.2361	0.0037
+MSV000088063_1621_vs_MSV000082374_6987	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1621	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6987	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1621&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6987&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1621&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6987&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.799808598	359.2946	359.2953	-0.0007
+MSV000088063_1653_vs_MSV000082374_7658	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1653	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7658	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1653&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7658&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1653&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7658&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.992620513	429.3732	429.3728	0.0004
+MSV000088063_1818_vs_MSV000082374_4505	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1818	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4505	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1818&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4505&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1818&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4505&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.806163805	357.279	357.2787	0.0003
+MSV000088063_1858_vs_MSV000082374_5307	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1858	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5307	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1858&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5307&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1858&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5307&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.944361136	416.3371	416.3367	0.0004
+MSV000088063_2009_vs_MSV000082374_1683	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2009	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1683	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2009&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1683&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2009&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:1683&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.795329577	283.1079	283.1085	-0.0006
+MSV000088063_2691_vs_MSV000082374_4167	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2691	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2691&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2691&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.874983283	407.2795	407.2792	0.0003
+MSV000088063_2691_vs_MSV000082374_3962	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2691	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2691&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2691&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.871100202	407.2795	407.2787	0.0008
+MSV000088063_2879_vs_MSV000082374_5307	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2879	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5307	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2879&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5307&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2879&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5307&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.729182667	416.3373	416.3367	0.0006
+MSV000088063_2970_vs_MSV000082374_5341	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2970	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5341	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2970&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5341&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:2970&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5341&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.70835676	279.232	279.2316	0.0004
+MSV000088063_3153_vs_MSV000082374_3962	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3153	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3153&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3153&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.8115627	407.2795	407.2787	0.0008
+MSV000088063_3153_vs_MSV000082374_4167	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3153	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3153&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3153&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.847099607	407.2795	407.2792	0.0003
+MSV000088063_3197_vs_MSV000082374_4572	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3197	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4572	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3197&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4572&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3197&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4572&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.848577994	386.2902	386.2903	-1E-04
+MSV000088063_3257_vs_MSV000082374_6556	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3257	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6556	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3257&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6556&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3257&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6556&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.703846038	355.2827	355.2841	-0.0014
+MSV000088063_3447_vs_MSV000082374_4167	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3447	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3447&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3447&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.814351872	407.2794	407.2792	0.0002
+MSV000088063_3447_vs_MSV000082374_3962	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3447	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3447&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3447&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.89488172	407.2794	407.2787	0.0007
+MSV000088063_3483_vs_MSV000082374_4493	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3483	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4493	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3483&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4493&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3483&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4493&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.848842212	300.2899	300.2896	0.0003
+MSV000088063_3955_vs_MSV000082374_7378	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3955	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7378	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3955&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7378&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3955&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7378&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.877388786	265.2526	265.2524	0.0002
+MSV000088063_3955_vs_MSV000082374_6097	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3955	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6097	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3955&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6097&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3955&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:6097&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.939387965	265.2526	265.2525	1E-04
+MSV000088063_3970_vs_MSV000082374_7565	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3970	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7565	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3970&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7565&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:3970&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7565&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.757654604	310.3104	310.3104	0
+MSV000088063_4022_vs_MSV000082374_3949	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4022	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4022&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4022&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3949&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.78615063	355.2634	355.2625	0.0009
+MSV000088063_4060_vs_MSV000082374_8320	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4060	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:8320	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4060&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:8320&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4060&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:8320&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.725747933	385.3466	385.3477	-0.0011
+MSV000088063_4097_vs_MSV000082374_4167	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4097	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4097&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4097&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:4167&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.892921949	407.2793	407.2792	1E-04
+MSV000088063_4097_vs_MSV000082374_3962	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4097	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4097&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4097&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:3962&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.92155995	407.2793	407.2787	0.0006
+MSV000088063_4124_vs_MSV000082374_2212	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4124	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2212	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4124&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2212&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4124&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:2212&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.877237415	432.2808	432.2801	0.0007
+MSV000088063_4346_vs_MSV000082374_7658	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4346	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7658	https://de.metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4346&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7658&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://de.metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:4346&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:7658&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.995912474	429.3729	429.3728	0.0001
+MSV000088063_1888_vs_MSV000082374_5866	mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1888	mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5866	https://metabolomics-usi.gnps2.org/json/mirror/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1888&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5866&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=True&annotate_peaks=%5B%5B95.08549499511719%5D%2C%20%5B%5D%5D	https://metabolomics-usi.gnps2.org/dashinterface/?usi1=mzspec:GNPS2:TASK-d00fbdc945f14da6a978119ced31b41e-nf_output/clustering/spectra_reformatted.mgf:scan:1888&usi2=mzspec:GNPS2:TASK-d2988abfd56d4fc2bf1d2a3fc0d99d37-nf_output/clustering/spectra_reformatted.mgf:scan:5866&width=10.0&height=6.0&mz_min=None&mz_max=None&max_intensity=125&annotate_precision=4&annotation_rotation=90&cosine=standard&fragment_mz_tolerance=0.1&grid=False	0.894125302	471.3545	471.3467	0.0078
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
