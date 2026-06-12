@@ -1,0 +1,332 @@
+FeatureID	ratio	min	max	label_name	cat
+1399	-10.251668315	-14.4434	-6.54685	mtb  1399  m/z  227.17 	Non-MAFLD
+4639	-9.52535671499999	-13.9053	-5.5026	mtb  4639  m/z  392.31 Suspect related to Spectral Match to Cholic acid from NIST14 (predicted molecular formula: unknown) with delta m/z 1.031 (putative explanation: transamination; atomic difference: transformation) 	Non-MAFLD
+6261	-8.997869185	-13.6434	-4.91737	mtb  6261  m/z  254.25 	Non-MAFLD
+7686	-8.61890774700001	-13.4014	-4.70466	mtb  7686  m/z  595.43 	Non-MAFLD
+383	-8.57838766599998	-14.7778	-3.52818	mtb  383  m/z  167.04 	Non-MAFLD
+8207	-8.40472843609999	-13.5059	-4.37327	mtb  8207  m/z  383.33 Spectral Match to Cholesta-4,6-dien-3-one from NIST14 	Non-MAFLD
+6838	-8.38895350249999	-12.8341	-4.34706	mtb  6838  m/z  304.26 	Non-MAFLD
+6043	-8.26602972599999	-13.5302	-3.74598	mtb  6043  m/z  278.25 Suspect related to Linolenic acid ethyl ester (predicted molecular formula: C18H31NO) with delta m/z -29.015 (putative explanation: nan (reverse)|deamidation followed by esterification with ethanol (reverse); atomic difference: -1H,-2N|-2C,-3H,1N,-1O) 	Non-MAFLD
+773	-8.181839871	-12.8192	-3.50443	mtb  773  m/z  136.07 	Non-MAFLD
+8315	-8.145800731	-12.9198	-2.43701	mtb  8315  m/z  369.33 	Non-MAFLD
+5282	-8.1418345805	-13.4594	-3.0182	mtb  5282  m/z  200.2 	Non-MAFLD
+94	-8.1215219154	-13.8701	-2.64683	mtb  94  m/z  158.03 	Non-MAFLD
+8169	-8.1000411995	-13.5119	-3.90358	mtb  8169  m/z  381.33 	Non-MAFLD
+6477	-8.093369783	-13.0391	-3.94767	mtb  6477  m/z  302.25 	Non-MAFLD
+7929	-7.95572835500002	-12.7143	-3.99529	mtb  7929  m/z  374.34 	Non-MAFLD
+8104	-7.93358300565001	-13.7239	-2.82451	mtb  8104  m/z  355.31 	Non-MAFLD
+4603	-7.90686920899999	-13.0656	-3.66468	mtb  4603  m/z  374.3 	Non-MAFLD
+3605	-7.87253848730001	-13.8269	-2.53427	mtb  3605  m/z  479.26 	Non-MAFLD
+7521	-7.6921395915	-12.7396	-3.52487	mtb  7521  m/z  431.31 	Non-MAFLD
+7347	-7.67706270999999	-12.6343	-3.32424	mtb  7347  m/z  445.37 	Non-MAFLD
+8149	-7.63935995699999	-12.3536	-3.10869	mtb  8149  m/z  893.76 	Non-MAFLD
+1651	-7.62332870700001	-12.5704	-3.30929	mtb  1651  m/z  324.19 	Non-MAFLD
+2930	-7.6113210585	-12.7772	-3.52305	mtb  2930  m/z  487.26 	Non-MAFLD
+8385	-7.53317315204999	-13.7032	-2.62341	mtb  8385  m/z  447.38 	Non-MAFLD
+8301	-7.52003380438501	-12.9013	-2.06959	mtb  8301  m/z  369.33 	Non-MAFLD
+8102	-7.48850523100001	-12.4501	-2.63168	mtb  8102  m/z  352.36 	Non-MAFLD
+3521	-7.481665732	-12.757	-3.39093	mtb  3521  m/z  608.34 	Non-MAFLD
+4305	-7.44936998900001	-12.4082	-3.16156	mtb  4305  m/z  374.3 	Non-MAFLD
+7690	-7.448440185	-12.8027	-2.67626	mtb  7690  m/z  399.33 	Non-MAFLD
+1521	-7.434735166	-12.3361	-2.79122	mtb  1521  m/z  164.07 	Non-MAFLD
+8338	-7.41662885935501	-13.1929	-1.47727	mtb  8338  m/z  512.51 	Non-MAFLD
+5119	-7.41312705060002	-13.7017	-2.5868	mtb  5119  m/z  941.01 	Non-MAFLD
+4493	-7.37104856417502	-14.518	-0.58779	mtb  4493  m/z  300.29 Suspect related to Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: unknown) with delta m/z -39.0 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+5688	-7.35328777590001	-14.0982	-1.57928	mtb  5688  m/z  390.3 Suspect related to Deoxycholic acid (predicted molecular formula: C24H41NO4) with delta m/z 15.011 (putative explanation: ADP-ribosylation followed by conversion to hydroxamic acid via hydroxylamine|Leu/Ile->Lys substitution|Tyrosine oxidation to 2-aminotyrosine|unspecified; atomic difference: 1H,1N|1H,1N|1H,1N|1H,1N) 	Non-MAFLD
+8197	-7.315744187605	-14.2742	-0.00258429	mtb  8197  m/z  536.44 	Non-MAFLD
+8139	-7.27208224939999	-13.4025	-0.968805	mtb  8139  m/z  381.33 	Non-MAFLD
+3545	-7.19706151995002	-13.0426	-2.31488	mtb  3545  m/z  503.26 	Non-MAFLD
+1683	-7.17180205895001	-12.7884	-2.32818	mtb  1683  m/z  283.11 Suspect related to Spectral Match to L-Tryptophan from NIST14 (predicted molecular formula: C11H14N4O5) with delta m/z 78.01 (putative explanation: unspecified|unspecified; atomic difference: 3C,3N|5C,2H,1O) 	Non-MAFLD
+8220	-7.14736105	-12.6198	-2.64415	mtb  8220  m/z  381.33 	Non-MAFLD
+8596	-7.143582389	-13.247	-2.13116	mtb  8596  m/z  430.41 	Non-MAFLD
+1798	-7.11993150089998	-12.6438	-2.31791	mtb  1798  m/z  347.12 	Non-MAFLD
+6833	-7.0861133923	-12.6192	-1.24021	mtb  6833  m/z  752.45 	Non-MAFLD
+8648	-7.04434590115001	-13.1855	-1.49233	mtb  8648  m/z  397.36 	Non-MAFLD
+7022	-7.04306453187999	-13.0196	-1.7739	mtb  7022  m/z  455.35 	Non-MAFLD
+6715	-6.98704821365	-12.2055	-2.21813	mtb  6715  m/z  551.27 	Non-MAFLD
+5260	-6.95129175685	-12.5913	-1.63037	mtb  5260  m/z  303.27 	Non-MAFLD
+6987	-6.94707901430001	-12.8242	-1.77196	mtb  6987  m/z  359.3 Suspect related to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid (predicted molecular formula: C24H40O3) with delta m/z 82.078 (putative explanation: unspecified; atomic difference: 6C,10H) 	Non-MAFLD
+5071	-6.92574958925501	-13.0428	-1.70941	mtb  5071  m/z  940.76 	Non-MAFLD
+7482	-6.9181860112	-12.1572	-1.6371	mtb  7482  m/z  455.35 	Non-MAFLD
+4635	-6.911246518095	-13.9868	-0.273444	mtb  4635  m/z  404.28 	Non-MAFLD
+1725	-6.883759692085	-12.7001	-0.346923	mtb  1725  m/z  199.06 	Non-MAFLD
+7822	-6.8565842279	-12.8652	-1.52103	mtb  7822  m/z  324.33 	Non-MAFLD
+7146	-6.8438129909	-13.329	-0.889513	mtb  7146  m/z  463.38 	Non-MAFLD
+4114	-6.8185773759	-12.4727	-2.78192	mtb  4114  m/z  181.12 	Non-MAFLD
+5967	-6.8101137895	-13.9645	-0.207793	mtb  5967  m/z  311.29 Suspect related to Spectral Match to 9(10)-EpOME from NIST14 (predicted molecular formula: C20H38O2) with delta m/z 14.051 (putative explanation: Asn->Lys substitution; atomic difference: 2C,6H,-1O) 	Non-MAFLD
+7288	-6.75358408705001	-12.9532	-0.704866	mtb  7288  m/z  559.13 	Non-MAFLD
+7523	-6.6819077063	-12.3108	-1.25695	mtb  7523  m/z  445.29 	Non-MAFLD
+7978	-6.64183802675001	-12.4744	-0.771583	mtb  7978  m/z  728.57 	Non-MAFLD
+3608	-6.63834597359999	-12.4423	-0.476303	mtb  3608  m/z  467.3 	Non-MAFLD
+7237	-6.626817479	-11.9728	-1.9523	mtb  7237  m/z  447.35 	Non-MAFLD
+5410	-6.6091362372	-12.6476	-1.35933	mtb  5410  m/z  297.24 	Non-MAFLD
+5297	-6.59131679511	-12.7817	-1.40982	mtb  5297  m/z  338.17 	Non-MAFLD
+8160	-6.54040417254999	-12.5172	-1.27524	mtb  8160  m/z  355.31 	Non-MAFLD
+7334	-6.50193628635	-12.7259	-0.039859	mtb  7334  m/z  429.37 	Non-MAFLD
+4971	-6.49317049174999	-12.3361	-1.18821	mtb  4971  m/z  268.26 	Non-MAFLD
+8552	-6.48269377649999	-13.0422	-1.25372	mtb  8552  m/z  409.36 	Non-MAFLD
+7565	-6.47408279108501	-13.39	-0.286063	mtb  7565  m/z  310.31 Suspect related to Spectral Match to 13-Docosenamide, (Z)- from NIST14 (predicted molecular formula: unknown) with delta m/z -28.015 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+737	-6.45411110535	-12.3599	-0.156948	mtb  737  m/z  102.09 	Non-MAFLD
+7752	-6.43339640938	-11.8574	-1.38757	mtb  7752  m/z  425.38 	Non-MAFLD
+3337	-6.34381292119999	-11.9803	-0.799283	mtb  3337  m/z  935.45 	Non-MAFLD
+7350	-6.31556115169999	-12.0154	-1.34483	mtb  7350  m/z  538.4 	Non-MAFLD
+7815	-6.27209452720001	-12.7898	-0.0239422	mtb  7815  m/z  401.34 	Non-MAFLD
+7624	-6.26349021515	-11.8956	-0.75434	mtb  7624  m/z  401.34 	Non-MAFLD
+6009	-6.2128002445	-12.2929	-0.222238	mtb  6009  m/z  413.37 	Non-MAFLD
+7920	-6.21196857189699	-12.4202	-0.10606	mtb  7920  m/z  479.37 	Non-MAFLD
+4568	-6.19569626589999	-12.5975	-0.86213	mtb  4568  m/z  480.21 	Non-MAFLD
+8119	-6.15675191284999	-11.616	-0.879048	mtb  8119  m/z  393.32 	Non-MAFLD
+7659	-6.15360481	-12.6244	-1.15896	mtb  7659  m/z  431.35 	Non-MAFLD
+5850	-6.12610305425002	-11.9352	-0.625975	mtb  5850  m/z  403.28 	Non-MAFLD
+932	-6.11351203445	-12.1322	-1.02555	mtb  932  m/z  174.05 	Non-MAFLD
+8312	-6.10647998215	-12.2786	-0.799712	mtb  8312  m/z  550.42 	Non-MAFLD
+7576	-6.04185757660498	-12.6909	-0.206952	mtb  7576  m/z  320.29 	Non-MAFLD
+2458	-5.95942505465	-13.5311	-0.399849	mtb  2458  m/z  734.35 	Non-MAFLD
+6550	-5.93257167294999	-12.3193	-1.13315	mtb  6550  m/z  214.12 	Non-MAFLD
+4400	-5.85195210878999	-12.1721	-0.105485	mtb  4400  m/z  633.33 	Non-MAFLD
+7828	-5.83792296235001	-12.061	-0.533227	mtb  7828  m/z  471.34 	Non-MAFLD
+7623	-5.71856279175001	-12.0899	-0.307352	mtb  7623  m/z  367.36 	Non-MAFLD
+8490	-4.99250043249999	-6.92778	-3.16847	mtb  8490  m/z  383.34 	Non-MAFLD
+5866	-4.95897991845	-7.61364	-1.75598	mtb  5866  m/z  471.35 Enoxolone 	Non-MAFLD
+823	-4.68031461095001	-7.99764	-0.887332	mtb  823  m/z  158.12 	Non-MAFLD
+8541	-4.59131853709999	-6.62155	-2.60819	mtb  8541  m/z  383.34 	Non-MAFLD
+7416	-3.98259834085	-6.42719	-1.42995	mtb  7416  m/z  356.29 	Non-MAFLD
+6403	-3.9345463172	-5.4356	-2.25712	mtb  6403  m/z  242.25 	Non-MAFLD
+5087	-3.8285955667	-6.18183	-1.53921	mtb  5087  m/z  448.25 	Non-MAFLD
+6689	-3.828463551	-5.86827	-1.39994	mtb  6689  m/z  549.25 	Non-MAFLD
+7886	-3.7030031462	-5.95004	-1.30997	mtb  7886  m/z  568.43 Candidate Dihydroxylated bile acid (delta mass 175.1277; sirius atomic difference: 3C, 13H, 9N; buddy atomic difference: 14C, 13H, 3N, -3O) 	Non-MAFLD
+7685	-3.6856781385	-6.68448	-0.522656	mtb  7685  m/z  584.42 	Non-MAFLD
+5624	-3.675976031	-5.2988	-2.1054	mtb  5624  m/z  282.28 	Non-MAFLD
+6310	-3.660533687	-5.13223	-2.08652	mtb  6310  m/z  242.25 	Non-MAFLD
+6486	-3.6352139665	-4.7872	-2.50454	mtb  6486  m/z  280.26 Suspect related to Spectral Match to cis,cis-9,12-Octadecadien-1-ol from NIST14 (predicted molecular formula: C18H33NO) with delta m/z 12.996 (putative explanation: Loss of O2; nitro photochemical decomposition|Thr->Asn substitution; atomic difference: -1H,1N|-1H,1N) 	Non-MAFLD
+4651	-3.590232184	-5.51205	-1.4583	mtb  4651  m/z  356.29 	Non-MAFLD
+4513	-3.5742612307	-5.18386	-1.53159	mtb  4513  m/z  370.2 	Non-MAFLD
+4170	-3.5676925125	-4.93786	-2.24846	mtb  4170  m/z  368.19 	Non-MAFLD
+5996	-3.51071135939999	-5.2825	-1.63375	mtb  5996  m/z  228.23 	Non-MAFLD
+6545	-3.50870608900001	-5.13734	-1.96976	mtb  6545  m/z  280.26 Suspect related to Phytomonic acid (predicted molecular formula: C18H33NO) with delta m/z -17.009 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+2907	-3.41643814450999	-5.76447	-0.660871	mtb  2907  m/z  353.1 	Non-MAFLD
+1529	-3.38580885750001	-4.85973	-2.11786	mtb  1529  m/z  182.08 	Non-MAFLD
+2305	-3.2684808609	-5.75829	-1.02452	mtb  2305  m/z  287.11 	Non-MAFLD
+5699	-3.245522593605	-5.62936	-0.845868	mtb  5699  m/z  502.36 	Non-MAFLD
+3553	-3.161888470745	-5.05336	-1.12171	mtb  3553  m/z  610.36 	Non-MAFLD
+4409	-3.11170179	-4.43969	-1.96098	mtb  4409  m/z  370.2 	Non-MAFLD
+6730	-3.09601470461999	-5.52356	-0.758798	mtb  6730  m/z  419.32 	Non-MAFLD
+7443	-3.01506496652	-5.00314	-0.672836	mtb  7443  m/z  483.34 	Non-MAFLD
+8025	-3.00806128258	-5.00603	-1.18487	mtb  8025  m/z  415.36 Suspect related to Spectral Match to .beta.-Tocopherol from NIST14 (predicted molecular formula: unknown) with delta m/z -2.007 (putative explanation: O isotope (reverse)|O18 Labeling (reverse); atomic difference: -(18)O|1O,-1O[18]) 	Non-MAFLD
+4231	-2.967598443285	-5.34887	-0.403135	mtb  4231  m/z  279.23 	Non-MAFLD
+7651	-2.9409952735	-4.89064	-0.552798	mtb  7651  m/z  346.31 	Non-MAFLD
+6935	-2.93985459005	-4.27348	-1.55969	mtb  6935  m/z  282.28 	Non-MAFLD
+7713	-2.91455841313	-5.44119	-0.562805	mtb  7713  m/z  469.36 	Non-MAFLD
+6617	-2.80473801289999	-5.25513	-0.0595901	mtb  6617  m/z  270.24 	Non-MAFLD
+6837	-2.80264668	-3.46163	-2.06447	mtb  6837  m/z  282.28 Suspect related to trans-Vaccenic acid (predicted molecular formula: C18H37NO2) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N) 	Non-MAFLD
+4483	-2.75016093141999	-4.9129	-0.423541	mtb  4483  m/z  149.02 	Non-MAFLD
+2604	-2.7167832843	-4.32884	-1.01935	mtb  2604  m/z  320.2 	Non-MAFLD
+2890	-2.67192572045	-3.99393	-1.17175	mtb  2890  m/z  190.05 	Non-MAFLD
+7667	-2.654295736195	-5.14696	-0.0132831	mtb  7667  m/z  427.36 	Non-MAFLD
+5270	-2.653719286355	-4.31563	-0.837456	mtb  5270  m/z  285.26 Suspect related to URSODEOXYCHOLATE (predicted molecular formula: C21H36O2) with delta m/z -72.022 (putative explanation: Ethyl formate loss|Glu->Gly substitution; atomic difference: -3C,-4H,-2O|-3C,-4H,-2O) 	Non-MAFLD
+8012	-2.64573512150001	-4.79113	-0.265307	mtb  8012  m/z  376.36 	Non-MAFLD
+7951	-2.630043450105	-4.49111	-0.826988	mtb  7951  m/z  364.36 	Non-MAFLD
+4345	-2.6271825155	-4.06899	-0.996631	mtb  4345  m/z  390.3 Suspect related to (4R)-4-((3R,5S,7S,8R,9S,10S,12R,13R,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid (predicted molecular formula: C24H41NO4) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N) 	Non-MAFLD
+8121	-2.61796457826501	-4.1129	-0.975338	mtb  8121  m/z  419.35 Suspect related to (+)-.alpha.-Tocopherol (predicted molecular formula: C27H46O3) with delta m/z -12.036 (putative explanation: Leu/Ile->Thr substitution|Val->Ser substitution|Dealkylation+hydroxylation; atomic difference: -2C,-4H,1O|-2C,-4H,1O|2C,4H,-1O) 	Non-MAFLD
+2871	-2.5968559272015	-5.107	-0.0383366	mtb  2871  m/z  403.74 	Non-MAFLD
+7514	-2.56622929335	-4.24784	-1.04651	mtb  7514  m/z  432.36 	Non-MAFLD
+7265	-2.55022150765	-4.18815	-0.738653	mtb  7265  m/z  537.28 	Non-MAFLD
+7811	-2.5255140605	-4.52737	-0.645912	mtb  7811  m/z  551.43 Suspect related to Massbank:MSJ00121 Antheraxanthin (predicted molecular formula: C40H54O) with delta m/z -34.004 (putative explanation: Hydroxylation, epoxidation (reverse)|nan (reverse); atomic difference: -2H,-2O|-2H,-2O) 	Non-MAFLD
+8313	-2.50104888908	-4.53854	-0.137579	mtb  8313  m/z  402.37 Suspect related to Spectral Match to Cholesterol, 7-oxo- from NIST14 (predicted molecular formula: unknown) with delta m/z 1.031 (putative explanation: transamination; atomic difference: transformation) 	Non-MAFLD
+7615	-2.49161205135	-4.95531	-0.147431	mtb  7615  m/z  338.34 Suspect related to N-Palmitoyl-D-sphingosine (predicted molecular formula: unknown) with delta m/z 82.078 (putative explanation: unspecified; atomic difference: 6C,10H) 	Non-MAFLD
+7723	-2.484732533	-4.2378	-0.511335	mtb  7723  m/z  592.4 	Non-MAFLD
+3385	-2.48004376804999	-3.87404	-1.06622	mtb  3385  m/z  492.37 	Non-MAFLD
+4511	-2.47781923735	-3.94412	-0.965622	mtb  4511  m/z  387.25 Suspect related to (4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid (predicted molecular formula: C24H36O5) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H) 	Non-MAFLD
+3201	-2.46644964487	-4.64129	-0.191483	mtb  3201  m/z  290.14 	Non-MAFLD
+7487	-2.394201610935	-4.25954	-0.222784	mtb  7487  m/z  454.34 	Non-MAFLD
+3428	-2.25834706662	-4.09986	-0.327688	mtb  3428  m/z  229.05 	Non-MAFLD
+4159	-2.23229507655	-4.08087	-0.0117807	mtb  4159  m/z  488.34 	Non-MAFLD
+7725	-2.17583736593	-4.10292	-0.175571	mtb  7725  m/z  569.55 	Non-MAFLD
+2967	-2.17203810315	-3.76343	-0.633898	mtb  2967  m/z  311.09 	Non-MAFLD
+2357	-2.1490340462	-3.19939	-0.886958	mtb  2357  m/z  265.1 	Non-MAFLD
+8458	-2.12978662248	-3.61275	-0.595502	mtb  8458  m/z  399.36 Suspect related to 3-Ketocholesterol (predicted molecular formula: C28H46O) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H) 	Non-MAFLD
+2876	-2.111197279495	-3.69815	-0.577848	mtb  2876  m/z  395.23 	Non-MAFLD
+4488	-2.108637311909	-3.2926	-0.768366	mtb  4488  m/z  177.05 	Non-MAFLD
+8044	-2.06856793413175	-3.87537	-0.262666	mtb  8044  m/z  439.39 	Non-MAFLD
+7812	-2.0241427925	-2.95717	-1.1685	mtb  7812  m/z  568.43 Candidate Dihydroxylated bile acid (delta mass 175.1277; sirius atomic difference: 3C, 13H, 9N; buddy atomic difference: 14C, 13H, 3N, -3O) 	Non-MAFLD
+3636	-2.0217687838835	-3.6879	-0.0966624	mtb  3636  m/z  446.33 	Non-MAFLD
+7505	-2.006820051245	-4.17549	-0.00624024	mtb  7505  m/z  585.43 	Non-MAFLD
+7128	-1.99958970897	-3.27903	-0.506669	mtb  7128  m/z  736.46 	Non-MAFLD
+8320	-1.990771301	-2.75422	-1.27814	mtb  8320  m/z  385.35 Spectral Match to (+)-4-Cholesten-3-one from NIST14 	Non-MAFLD
+8158	-1.970916147912	-4.14423	-0.116284	mtb  8158  m/z  469.37 	Non-MAFLD
+2362	-1.94912693347	-3.33566	-0.324083	mtb  2362  m/z  179.11 	Non-MAFLD
+8538	-1.93524807979	-3.86498	-0.0751962	mtb  8538  m/z  659.56 Suspect related to (R)-4-((3S,5R,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid (predicted molecular formula: unknown) with delta m/z -94.042 (putative explanation: Dehydroalanine (from Tyrosine); atomic difference: -6C,-6H,-1O) 	Non-MAFLD
+8584	-1.92541900184	-3.05085	-0.898655	mtb  8584  m/z  413.38 Suspect related to Spectral Match to (+)-4-Cholesten-3-one from NIST14 (predicted molecular formula: unknown) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H) 	Non-MAFLD
+6707	-1.890272835	-2.35562	-1.40971	mtb  6707  m/z  256.26 Suspect related to cis-10-Nonadecenoic acid (predicted molecular formula: unknown) with delta m/z -4.99 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+7796	-1.861619230475	-3.48993	-0.280176	mtb  7796  m/z  348.33 	Non-MAFLD
+2339	-1.76444700145	-2.90445	-0.787578	mtb  2339  m/z  225.11 	Non-MAFLD
+778	-1.7418015089	-2.59979	-0.98659	mtb  778  m/z  114.09 	Non-MAFLD
+2251	-1.70038962901	-2.72137	-0.654681	mtb  2251  m/z  243.12 	Non-MAFLD
+5341	-1.688723841425	-3.18152	-0.0385356	mtb  5341  m/z  279.23 Suspect related to NCGC00095546-02!2,4-dihydroxyheptadec-16-enyl acetate (predicted molecular formula: C18H32O3) with delta m/z -32.026 (putative explanation: nan (reverse); atomic difference: -1C,-4H,-1O) 	Non-MAFLD
+7462	-1.65951254464719	-2.78707	-0.430384	mtb  7462  m/z  459.35 	Non-MAFLD
+4486	-1.60311001137	-2.67043	-0.604505	mtb  4486  m/z  223.1 	Non-MAFLD
+8248	-1.59462218955	-2.24726	-0.863639	mtb  8248  m/z  429.37 Suspect related to Lithocholic acid (predicted molecular formula: C29H50O3) with delta m/z 70.078 (putative explanation: Labeling transglutaminase substrate on glutamine side chain|unspecified; atomic difference: 5C,10H|5C,10H) 	Non-MAFLD
+6901	-1.59072790821	-2.80634	-0.31826	mtb  6901  m/z  261.24 	Non-MAFLD
+5652	-1.57714859578	-3.00641	-0.248172	mtb  5652  m/z  373.27 Suspect related to Testosterone propionate (predicted molecular formula: C24H36O3) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H) 	Non-MAFLD
+7776	-1.556510189725	-2.78378	-0.40877	mtb  7776  m/z  362.34 Suspect related to h_31_mesterolone (predicted molecular formula: C24H43NO) with delta m/z 57.093 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+7682	-1.55344245438	-2.85972	-0.160292	mtb  7682  m/z  447.38 	Non-MAFLD
+5841	-1.50987377926	-2.67452	-0.434396	mtb  5841  m/z  344.22 Suspect related to NCGC00385244-01!(2E,4E,12E)-13-(1,3-benzodioxol-5-yl)-1-piperidin-1-yltrideca-2,4,12-trien-1-one (predicted molecular formula: C21H29NO3) with delta m/z -52.03 (putative explanation: nan (reverse); atomic difference: -4C,-4H) 	Non-MAFLD
+4714	-1.489403131675	-2.5792	-0.525092	mtb  4714  m/z  286.14 Massbank:PR301779 Piperine 	Non-MAFLD
+7202	-1.480241202995	-2.783	-0.0826748	mtb  7202  m/z  418.34 	Non-MAFLD
+7408	-1.46490198207	-2.57526	-0.455136	mtb  7408  m/z  334.31 Suspect related to NCGC00385817-01!(2E,4E)-N-(2-methylpropyl)deca-2,4-dienamide (predicted molecular formula: C22H39NO) with delta m/z 110.11 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+5775	-1.45563499285	-2.91632	-0.0351644	mtb  5775  m/z  293.21 	Non-MAFLD
+7671	-1.446128983385	-2.57398	-0.23374	mtb  7671  m/z  446.37 	Non-MAFLD
+3024	-1.43362253312	-2.73869	-0.0907906	mtb  3024  m/z  313.11 	Non-MAFLD
+1916	-1.416363159775	-2.74537	-0.143003	mtb  1916  m/z  324.19 	Non-MAFLD
+4097	-1.3855889466435	-2.79344	-0.0971306	mtb  4097  m/z  323.18 	Non-MAFLD
+7675	-1.37445377212775	-2.49798	-0.344952	mtb  7675  m/z  307.26 Spectral Match to Linolenic acid ethyl ester from NIST14 	Non-MAFLD
+2158	-1.355985146485	-2.4694	-0.231024	mtb  2158  m/z  324.19 	Non-MAFLD
+2782	-1.354481043545	-2.52733	-0.0428135	mtb  2782  m/z  373.21 	Non-MAFLD
+7489	-1.35400730255	-2.23362	-0.28916	mtb  7489  m/z  271.26 	Non-MAFLD
+7205	-1.348193398705	-2.48751	-0.267353	mtb  7205  m/z  279.23 	Non-MAFLD
+7733	-1.347734709295	-2.26065	-0.252598	mtb  7733  m/z  336.33 	Non-MAFLD
+6529	-1.3472204258085	-2.28761	-0.406153	mtb  6529  m/z  405.3 	Non-MAFLD
+2836	-1.31750522377	-2.36992	-0.17253	mtb  2836  m/z  362.22 	Non-MAFLD
+8495	-1.289312227055	-2.5247	-0.136912	mtb  8495  m/z  570.55 	Non-MAFLD
+7222	-1.221893473475	-2.25227	-0.275556	mtb  7222  m/z  445.37 	Non-MAFLD
+2816	-1.17183409799635	-2.33202	-0.0633922	mtb  2816  m/z  745.42 	Non-MAFLD
+7656	-1.143603497624	-2.1476	-0.128462	mtb  7656  m/z  445.37 	Non-MAFLD
+4499	-1.12310427995	-1.79443	-0.546828	mtb  4499  m/z  245.08 	Non-MAFLD
+8323	-1.083011269465	-2.1605	-0.0103153	mtb  8323  m/z  416.37 	Non-MAFLD
+4351	-1.0458143889	-1.83151	-0.324669	mtb  4351  m/z  238.14 	Non-MAFLD
+2369	-1.01445098138	-1.78279	-0.231018	mtb  2369  m/z  227.13 	Non-MAFLD
+4545	-1.01424672662	-1.85356	-0.183806	mtb  4545  m/z  345.22 	Non-MAFLD
+1645	-1.00372028449	-2.02261	-0.00958762	mtb  1645  m/z  244.1 	Non-MAFLD
+7706	-1.00307208904205	-1.94515	-0.127348	mtb  7706  m/z  303.29 	Non-MAFLD
+6756	-0.971891615440001	-1.81649	-0.0885975	mtb  6756  m/z  510.37 	Non-MAFLD
+2108	-0.971363068055	-1.64989	-0.176634	mtb  2108  m/z  354.15 	Non-MAFLD
+7658	-0.946238336329999	-2.00316	-0.0205148	mtb  7658  m/z  429.37 Suspect related to Spectral Match to (+)-.alpha.-Tocopherol from NIST14 (predicted molecular formula: unknown) with delta m/z -2.007 (putative explanation: O isotope (reverse)|O18 Labeling (reverse); atomic difference: -(18)O|1O,-1O[18]) 	Non-MAFLD
+7704	-0.9020959211	-1.34653	-0.509215	mtb  7704  m/z  267.27 	Non-MAFLD
+7699	-0.85333100605	-1.24187	-0.478594	mtb  7699  m/z  285.28 Suspect related to Spectral Match to Isomyristic acid from NIST14 (predicted molecular formula: C18H36O2) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H) 	Non-MAFLD
+7413	-0.823859494005	-1.49718	-0.211562	mtb  7413  m/z  565.52 12-hydroxy stearic acid-C18:1 	Non-MAFLD
+7213	-0.789821042819999	-1.45043	-0.0452318	mtb  7213  m/z  513.49 Suspect related to Ceratodictyol (predicted molecular formula: C32H64O4) with delta m/z 182.204 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+8179	-0.769387244725002	-1.52416	-0.0183023	mtb  8179  m/z  429.37 Suspect related to Lithocholic acid (predicted molecular formula: C29H50O3) with delta m/z 70.078 (putative explanation: Labeling transglutaminase substrate on glutamine side chain|unspecified; atomic difference: 5C,10H|5C,10H) 	Non-MAFLD
+6632	-0.758985909049999	-1.17574	-0.314424	mtb  6632  m/z  229.22 Suspect related to Palmitic acid ethyl ester (predicted molecular formula: C14H28O2) with delta m/z -56.062 (putative explanation: Dealkylation|Leu/Ile->Gly substitution; atomic difference: -4C,-8H|-4C,-8H) 	Non-MAFLD
+6631	-0.752178822955001	-1.45157	-0.0527916	mtb  6631  m/z  247.23 	Non-MAFLD
+7165	-0.711026666369999	-1.06138	-0.379494	mtb  7165  m/z  239.24 Suspect related to Linoleic acid methyl ester (predicted molecular formula: unknown) with delta m/z -23.999 (putative explanation: nan (reverse); atomic difference: -2C) 	Non-MAFLD
+6882	-0.708844032334999	-1.37294	-0.0872445	mtb  6882  m/z  243.23 	Non-MAFLD
+6810	-0.700085664549999	-1.15593	-0.276393	mtb  6810  m/z  243.23 	Non-MAFLD
+6636	-0.69909334415	-1.20106	-0.204077	mtb  6636  m/z  211.21 	Non-MAFLD
+7171	-0.691979358554999	-1.35129	-0.0349493	mtb  7171  m/z  485.36 	Non-MAFLD
+7155	-0.681503850799999	-1.02554	-0.334111	mtb  7155  m/z  257.25 Suspect related to Spectral Match to Isomyristic acid from NIST14 (predicted molecular formula: C16H32O2) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H) 	Non-MAFLD
+7346	-0.662327329634999	-1.04222	-0.285286	mtb  7346  m/z  283.26 	Non-MAFLD
+7204	-0.661400545100001	-1.00278	-0.24909	mtb  7204  m/z  275.26 	Non-MAFLD
+7194	-0.660608752909999	-1.15141	-0.164547	mtb  7194  m/z  298.27 	Non-MAFLD
+7351	-0.6526388450648	-1.2378	-0.0522924	mtb  7351  m/z  305.25 	Non-MAFLD
+7426	-0.644108351590001	-1.03705	-0.201157	mtb  7426  m/z  324.29 	Non-MAFLD
+7378	-0.63888849574	-1.04098	-0.213847	mtb  7378  m/z  265.25 Suspect related to Spectral Match to Palmitelaidic acid from NIST14 (predicted molecular formula: C18H32O) with delta m/z 10.021 (putative explanation: Ser->Pro substitution; atomic difference: 2C,2H,-1O) 	Non-MAFLD
+7071	-0.62640881471	-1.21963	-0.0481391	mtb  7071  m/z  427.36 	Non-MAFLD
+7817	-0.5715331942595	-1.02115	-0.16094	mtb  7817  m/z  338.34 Spectral Match to 13-Docosenamide, (Z)- from NIST14 	Non-MAFLD
+6742	-0.568716163235	-1.12152	-0.0294567	mtb  6742  m/z  255.23 Suspect related to Elaidic acid (predicted molecular formula: unknown) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H) 	Non-MAFLD
+5908	-0.542195233505	-1.02067	-0.0291623	mtb  5908  m/z  258.16 	Non-MAFLD
+189	-0.536416972956999	-0.993819	-0.0936408	mtb  189  m/z  922.01 	Non-MAFLD
+6174	-0.407097500455	-0.813652	-0.0163733	mtb  6174  m/z  208.64 	Non-MAFLD
+6097	-0.394901636851	-0.777245	-0.0107128	mtb  6097  m/z  265.25 Suspect related to 1-Oleoyl-2-acetyl-sn-glycerol (predicted molecular formula: C18H34O2) with delta m/z -116.047 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+6094	-0.354509525377999	-0.71997	-0.0226091	mtb  6094  m/z  283.26 Suspect related to cis-9,10-methylene-hexadecanoic acid (predicted molecular formula: C9H29N8O) with delta m/z 14.033 (putative explanation: unspecified; atomic difference: unspecified) 	Non-MAFLD
+4789	0.63420127795	0.0293228	1.16184	mtb  4789  m/z  373.27 	MAFLD
+1819	0.840669721993	0.0721892	1.64838	mtb  1819  m/z  192.07 	MAFLD
+269	0.976322855510001	0.0402571	1.93072	mtb  269  m/z  279.13 Suspect related to Spectral Match to Ile-Pro from NIST14 (predicted molecular formula: C14H18N2O4) with delta m/z 49.982 (putative explanation: Leu/Ile->Tyr substitution; atomic difference: 3C,-2H,1O) 	MAFLD
+1720	0.994220816064998	0.166187	2.02815	mtb  1720  m/z  263.14 Suspect related to Spectral Match to Leu-Pro from NIST14 (predicted molecular formula: C14H18N2O3) with delta m/z 33.985 (putative explanation: Leu/Ile->Phe substitution; atomic difference: 3C,-2H) 	MAFLD
+7229	1.0280709616	0.200233	1.79743	mtb  7229  m/z  311.29 Suspect related to Spectral Match to 9-Octadecenamide, (Z)- from NIST14 (predicted molecular formula: unknown) with delta m/z 29.015 (putative explanation: unspecified|deamidation followed by esterification with ethanol; atomic difference: 1H,2N|2C,3H,-1N,1O) 	MAFLD
+7411	1.068586939	0.230411	1.81188	mtb  7411  m/z  349.27 	MAFLD
+2334	1.10709165623	0.304396	1.88489	mtb  2334  m/z  481.26 	MAFLD
+755	1.10730596882	0.234613	1.93165	mtb  755  m/z  229.15 	MAFLD
+7244	1.108638058325	0.156384	2.07569	mtb  7244  m/z  329.31 Suspect related to Methyl trans-vaccenate (predicted molecular formula: C20H40O3) with delta m/z 32.026 (putative explanation: unspecified; atomic difference: 1C,4H,1O) 	MAFLD
+6611	1.121459239035	0.170362	2.07046	mtb  6611  m/z  326.31 	MAFLD
+3777	1.12273437039	0.0578921	2.15391	mtb  3777  m/z  391.28 (R)-4-((3R,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid 	MAFLD
+2333	1.130282762695	0.043777	2.12074	mtb  2333  m/z  438.24 NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one 	MAFLD
+3949	1.14576651426	0.151756	2.23066	mtb  3949  m/z  355.26 Suspect related to 7-alpha-hydroxy cholesterol (predicted molecular formula: C24H38O4) with delta m/z -12.073 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+4412	1.18486270475	0.252775	2.20801	mtb  4412  m/z  373.27 	MAFLD
+6556	1.198805264505	0.220693	2.2288	mtb  6556  m/z  355.28 Suspect related to Spectral Match to Linoleic acid ethyl ester from NIST14 (predicted molecular formula: C21H38O4) with delta m/z 46.005 (putative explanation: formic acid adduct; atomic difference: 1C,2H,2O) 	MAFLD
+2336	1.206164778152	0.171829	2.21331	mtb  2336  m/z  476.31 Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 17.044 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+7414	1.214585128445	0.290011	2.30177	mtb  7414  m/z  327.29 Suspect related to NCGC00347859-02!2,3-dihydroxypropyl 13-methyltetradecanoate (predicted molecular formula: C20H38O3) with delta m/z 10.021 (putative explanation: Ser->Pro substitution; atomic difference: 2C,2H,-1O) 	MAFLD
+6543	1.23125658719	0.0309161	2.49271	mtb  6543  m/z  206.12 	MAFLD
+3975	1.2344051787935	0.175219	2.20451	mtb  3975  m/z  373.27 	MAFLD
+3958	1.266782086135	0.380035	2.17685	mtb  3958  m/z  353.23 	MAFLD
+6216	1.29385056399	0.2842	2.33384	mtb  6216  m/z  346.27 	MAFLD
+2790	1.303948843825	0.169771	2.38925	mtb  2790  m/z  259.2 	MAFLD
+4505	1.32206755005	0.288754	2.34463	mtb  4505  m/z  357.28 Suspect related to (R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid (predicted molecular formula: C24H38O3) with delta m/z -18.011 (putative explanation: Dehydration|Pyro-glu from E|carbodiimide crosslinker; atomic difference: -2H,-1O|-2H,-1O|-2H,-1O) 	MAFLD
+6235	1.34555482745	0.330905	2.23923	mtb  6235  m/z  324.29 	MAFLD
+6225	1.35416575047	0.11552	2.6297	mtb  6225  m/z  524.37 Suspect related to Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C26H54NO7P) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H) 	MAFLD
+6924	1.3854650339075	0.0716395	2.87247	mtb  6924  m/z  327.29 Suspect related to cis,cis-9,12-Octadecadien-1-ol (predicted molecular formula: C20H38O3) with delta m/z 60.021 (putative explanation: unspecified|unspecified; atomic difference: 2C,4H,2O|2H,3N,1O) 	MAFLD
+2342	1.3989354545	0.453817	2.3611	mtb  2342  m/z  459.28 Spectral Match to Decaethylene glycol from NIST14 	MAFLD
+5805	1.399963684355	0.104444	2.5814	mtb  5805  m/z  317.21 	MAFLD
+4449	1.426015855785	0.0388541	2.99675	mtb  4449  m/z  522.34 Suspect related to Massbank:RP005502 Glycoursodeoxycholic acid|2-[[(4R)-4-[(3R,5S,7S,10S,13R,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoyl]amino]acetic acid (predicted molecular formula: C29H47NO7) with delta m/z 72.021 (putative explanation: unspecified|Dihydroxy methylglyoxal adduct|Gly->Glu substitution|carboxyethyl|methylglyoxal-derived carboxyethyllysine; atomic difference: 1C,2H,3N,1O|3C,4H,2O|3C,4H,2O|3C,4H,2O|3C,4H,2O) 	MAFLD
+2276	1.4301209321	0.581639	2.25704	mtb  2276  m/z  437.24 	MAFLD
+6913	1.4609822294	0.340756	2.61752	mtb  6913  m/z  349.27 	MAFLD
+3962	1.47852077517	0.20506	2.86554	mtb  3962  m/z  407.28 Candidate Tetrahydroxylated bile acid (delta mass -18.01; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00005465782, (R)-4-((1R,3S,5S,7R,8S,9S,10S,12S,13R,14S,17R)-1,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) 	MAFLD
+4388	1.5646779344	0.468757	2.76739	mtb  4388  m/z  391.28 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid (predicted molecular formula: C24H44NO3S) with delta m/z 18.017 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+6823	1.58856530957	0.449433	2.68977	mtb  6823  m/z  357.3 Suspect related to Spectral Match to Monopalmitolein (9c) from NIST14 (predicted molecular formula: unknown) with delta m/z 28.04 (putative explanation: Gln->Arg substitution; atomic difference: 1C,4H,2N,-1O) 	MAFLD
+5035	1.5970022285	0.289588	2.82931	mtb  5035  m/z  335.22 	MAFLD
+3338	1.609023751325	0.0783829	3.13949	mtb  3338  m/z  228.16 	MAFLD
+5995	1.61689556475	0.421029	2.70526	mtb  5995  m/z  400.34 Suspect related to Spectral Match to Valprolylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 112.125 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+6824	1.68101772895001	0.479023	2.82839	mtb  6824  m/z  309.28 Suspect related to 2-Linoleoylglycerol (predicted molecular formula: unknown) with delta m/z 46.042 (putative explanation: unspecified|unspecified; atomic difference: 2C,6H,1O|4H,3N) 	MAFLD
+2212	1.697409158495	0.627889	2.87253	mtb  2212  m/z  432.28 Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C19H37N5O6) with delta m/z 149.105 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+513	1.726838820931	0.362339	3.40906	mtb  513  m/z  209.13 	MAFLD
+4782	1.743183282675	0.401845	3.20414	mtb  4782  m/z  359.29 Suspect related to cis-12-Octadecenoic acid methyl ester (predicted molecular formula: unknown) with delta m/z 112.052 (putative explanation: Acrolein addition +112; atomic difference: 6C,8H,2O) 	MAFLD
+4167	1.75358066858	0.131223	3.38775	mtb  4167  m/z  407.28 Candidate Tetrahydroxylated bile acid (delta mass -18.0105; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00006581917, 3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid) 	MAFLD
+6517	1.7606923605	0.531942	3.16101	mtb  6517  m/z  377.27 	MAFLD
+7129	1.826433489944	0.235039	3.63828	mtb  7129  m/z  347.26 	MAFLD
+2208	1.8457085805	0.767153	2.91091	mtb  2208  m/z  415.25 Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -44.016 (putative explanation: nan (reverse)|heavy acetylation (reverse); atomic difference: -1C,-2H,-1N,-1O|-2C[13],-2H,-1O) 	MAFLD
+501	1.849011706975	0.519954	3.29363	mtb  501  m/z  187.14 	MAFLD
+6830	1.8715516077	0.0476307	3.58596	mtb  6830  m/z  345.24 	MAFLD
+7418	1.93750421251	0.19763	3.95458	mtb  7418  m/z  675.55 	MAFLD
+2043	1.94977194	0.989275	2.78542	mtb  2043  m/z  393.21 	MAFLD
+2201	2.027766510935	0.231846	4.05343	mtb  2201  m/z  227.1 	MAFLD
+6674	2.0734279716	0.33874	3.83283	mtb  6674  m/z  307.26 Spectral Match to Linolenic acid ethyl ester from NIST14 	MAFLD
+6500	2.102222682	0.647518	3.49311	mtb  6500  m/z  206.12 	MAFLD
+1801	2.11955940880001	0.964528	3.37865	mtb  1801  m/z  349.18 	MAFLD
+769	2.140027018735	0.00613804	4.47087	mtb  769  m/z  116.07 	MAFLD
+2065	2.20975637365	0.86587	3.46538	mtb  2065  m/z  388.25 Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -71.023 (putative explanation: nan (reverse); atomic difference: -2C,-3H,-2N,-1O) 	MAFLD
+2067	2.263354865	0.956186	3.57188	mtb  2067  m/z  371.23 Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -88.053 (putative explanation: PEG repeat unit x2 (reverse); atomic difference: -4C,-8H,-2O) 	MAFLD
+837	2.47075999815	0.576072	4.5862	mtb  837  m/z  187.18 	MAFLD
+6184	2.56746409449725	0.117835	5.56005	mtb  6184  m/z  363.25 	MAFLD
+5600	2.6246561724	0.356219	5.17088	mtb  5600  m/z  439.36 	MAFLD
+1803	2.72597339449999	0.587073	4.94706	mtb  1803  m/z  327.2 	MAFLD
+1800	2.749086576165	0.487236	4.91208	mtb  1800  m/z  344.23 Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -115.053 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+6276	2.781761910055	0.357838	5.60399	mtb  6276  m/z  385.31 	MAFLD
+3490	2.8290722453815	0.648978	4.80235	mtb  3490  m/z  589.3 Suspect related to Urobilin (predicted molecular formula: C27H44N2O12) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H) 	MAFLD
+1546	2.84863501362949	0.503452	5.69702	mtb  1546  m/z  407.24 FruLeuIle 	MAFLD
+2019	2.876759950815	0.0652973	6.09927	mtb  2019  m/z  205.09 	MAFLD
+5751	3.023115293165	0.409161	5.66824	mtb  5751  m/z  482.36 Suspect related to Massbank:PR310846 LPC 18:1 (predicted molecular formula: C24H52NO6P) with delta m/z -39.994 (putative explanation: extra OH sodium adduct (reverse)|Glyoxal-derived hydroimiadazolone (reverse)|S-carbamoylmethylcysteine cyclization (N-terminus) (reverse)|nan (reverse); atomic difference: -1H,-1O|-2C,-1O|-2C,-1O|-2C,-1O) 	MAFLD
+4489	3.02455378776	0.551537	5.61602	mtb  4489  m/z  593.33 	MAFLD
+5931	3.45658974405	0.253765	6.43881	mtb  5931  m/z  400.34 Suspect related to (R)-4-((3S,5R,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid (predicted molecular formula: C19H45N4O3) with delta m/z 1.053 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+4327	3.55342991865	0.70673	6.6134	mtb  4327  m/z  432.31 	MAFLD
+6098	3.780589022	1.83229	6.3405	mtb  6098  m/z  426.36 Suspect related to Massbank:RP025602 Stearoyl-L-Carnitine|stearoylcarnitine|3-octadecanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C25H47NO4) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H) 	MAFLD
+1953	4.18266597256501	0.818432	7.69486	mtb  1953  m/z  310.17 Massbank:PB006006 Sinapine|2-[(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoyl]oxyethyl-trimethylazanium 	MAFLD
+4030	4.3962758598665	0.166957	8.80115	mtb  4030  m/z  759.29 	MAFLD
+5472	4.75441593470499	0.568502	8.70207	mtb  5472  m/z  442.35 Suspect related to Spectral Match to Oleoyl L-carnitine from NIST14 (predicted molecular formula: C25H47NO5) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O) 	MAFLD
+5249	5.08880474982501	1.05031	9.89146	mtb  5249  m/z  480.27 	MAFLD
+4572	5.34913061115	1.68417	8.67187	mtb  4572  m/z  386.29 Suspect related to Spectral Match to Lauroyl L-carnitine from NIST14 (predicted molecular formula: C17H35N7O3) with delta m/z 42.01 (putative explanation: Acetylation|Ser->Glu substitution|unspecified; atomic difference: 2C,2H,1O|2C,2H,1O|3N) 	MAFLD
+5998	5.465651039045	0.822231	10.4083	mtb  5998  m/z  470.38 	MAFLD
+6318	5.64648442645	0.496197	10.7139	mtb  6318  m/z  482.4 	MAFLD
+4303	5.66582488788001	0.112459	9.92431	mtb  4303  m/z  533.24 	MAFLD
+5202	5.90975775545	0.126591	11.3619	mtb  5202  m/z  494.32 Suspect related to Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C24H48NO7P) with delta m/z 12.0 (putative explanation: formaldehyde adduct|methylation and reduction|unspecified; atomic difference: 1C|1C|1C) 	MAFLD
+4504	6.06507391744999	1.11395	11.3681	mtb  4504  m/z  515.23 	MAFLD
+3158	6.18627578226501	0.48615	11.0359	mtb  3158  m/z  423.22 	MAFLD
+4536	6.1945377151	0.406181	11.8904	mtb  4536  m/z  615.31 	MAFLD
+5180	6.22307801944999	0.0150421	11.9488	mtb  5180  m/z  440.34 	MAFLD
+5728	6.251054533655	1.18085	11.9256	mtb  5728  m/z  846.38 	MAFLD
+4512	6.29714830319999	1.06031	11.3185	mtb  4512  m/z  772.34 	MAFLD
+4883	6.36396200285	0.777875	12.2756	mtb  4883  m/z  338.65 	MAFLD
+6638	6.46723776771001	0.407996	12.4478	mtb  6638  m/z  808.32 	MAFLD
+4891	6.51751543169	0.111852	12.6305	mtb  4891  m/z  347.66 	MAFLD
+6642	6.56518684944998	0.861429	12.6751	mtb  6642  m/z  808.82 	MAFLD
+4895	6.66313459073999	0.00299878	12.5078	mtb  4895  m/z  805.83 	MAFLD
+3720	6.72155392005001	1.98259	10.9944	mtb  3720  m/z  397.21 	MAFLD
+4882	6.82287474199999	0.636359	12.8401	mtb  4882  m/z  805.33 	MAFLD
+5061	6.827397495955	0.490388	13.2246	mtb  5061  m/z  800.38 	MAFLD
+4749	6.89942721750001	2.35905	11.4958	mtb  4749  m/z  356.28 	MAFLD
+4849	6.901079420825	0.355319	12.3697	mtb  4849  m/z  412.66 	MAFLD
+5307	6.9694990838	2.01503	11.8353	mtb  5307  m/z  416.34 Suspect related to Spectral Match to Acetyl-DL-carnitine from NIST14 (predicted molecular formula: C23H45NO5) with delta m/z 212.213 (putative explanation: unspecified; atomic difference: unspecified) 	MAFLD
+4876	6.98413157445001	0.119565	13.8655	mtb  4876  m/z  808.34 	MAFLD
+4471	7.13950801950001	3.85863	11.3174	mtb  4471  m/z  342.26 	MAFLD
+1547	7.28037531	4.05571	10.7511	mtb  1547  m/z  130.11 	MAFLD
+4994	7.81874270295	3.98933	12.1013	mtb  4994  m/z  358.3 	MAFLD
+4892	8.95754215439999	2.05089	15.592	mtb  4892  m/z  786.36 Rifaximin (Xifaxan) 	MAFLD
+22	9.7613041	7.01945	13.0289	mtb  22  m/z  130.11 	MAFLD
