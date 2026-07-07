@@ -2,9 +2,6 @@ setwd("~/Notebooks/sfloresr/MASH-TRF/MASHomics/")
 
 library(tidyverse)
 library(data.table)
-library(ggpubr)
-library(viridis)
-library(RColorBrewer)
 library("qiime2R")
 
 #16S validation on human NAFLD dataset 

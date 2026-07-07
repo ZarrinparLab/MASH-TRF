@@ -1,0 +1,89 @@
+FeatureID	ratio	min	max	label_name	cat
+4639	-9.52535671499999	-13.9053	-5.5026	mtb  4639  m/z  392.31 Suspect related to Spectral Match to Cholic acid from NIST14  	Non-MAFLD
+8207	-8.40472843609999	-13.5059	-4.37327	mtb  8207  m/z  383.33 Spectral Match to Cholesta-4,6-dien-3-one from NIST14 	Non-MAFLD
+6043	-8.26602972599999	-13.5302	-3.74598	mtb  6043  m/z  278.25 Suspect related to Linolenic acid ethyl ester  	Non-MAFLD
+4493	-7.37104856417502	-14.518	-0.58779	mtb  4493  m/z  300.29 Suspect related to Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine from NIST14  	Non-MAFLD
+5688	-7.35328777590001	-14.0982	-1.57928	mtb  5688  m/z  390.3 Suspect related to Deoxycholic acid  	Non-MAFLD
+1683	-7.17180205895001	-12.7884	-2.32818	mtb  1683  m/z  283.11 Suspect related to Spectral Match to L-Tryptophan from NIST14  	Non-MAFLD
+6987	-6.94707901430001	-12.8242	-1.77196	mtb  6987  m/z  359.3 Suspect related to 13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid  	Non-MAFLD
+5967	-6.8101137895	-13.9645	-0.207793	mtb  5967  m/z  311.29 Suspect related to Spectral Match to 9(10)-EpOME from NIST14  	Non-MAFLD
+7565	-6.47408279108501	-13.39	-0.286063	mtb  7565  m/z  310.31 Suspect related to Spectral Match to 13-Docosenamide, (Z)- from NIST14  	Non-MAFLD
+5866	-4.95897991845	-7.61364	-1.75598	mtb  5866  m/z  471.35 Enoxolone 	Non-MAFLD
+7886	-3.7030031462	-5.95004	-1.30997	mtb  7886  m/z  568.43 Candidate Dihydroxylated bile acid (delta mass 175.1277; sirius atomic difference: 3C, 13H, 9N; buddy atomic difference: 14C, 13H, 3N, -3O) 	Non-MAFLD
+6486	-3.6352139665	-4.7872	-2.50454	mtb  6486  m/z  280.26 Suspect related to Spectral Match to cis,cis-9,12-Octadecadien-1-ol from NIST14  	Non-MAFLD
+6545	-3.50870608900001	-5.13734	-1.96976	mtb  6545  m/z  280.26 Suspect related to Phytomonic acid  	Non-MAFLD
+8025	-3.00806128258	-5.00603	-1.18487	mtb  8025  m/z  415.36 Suspect related to Spectral Match to .beta.-Tocopherol from NIST14  	Non-MAFLD
+6837	-2.80264668	-3.46163	-2.06447	mtb  6837  m/z  282.28 Suspect related to trans-Vaccenic acid  	Non-MAFLD
+5270	-2.653719286355	-4.31563	-0.837456	mtb  5270  m/z  285.26 Suspect related to URSODEOXYCHOLATE  	Non-MAFLD
+4345	-2.6271825155	-4.06899	-0.996631	mtb  4345  m/z  390.3 Suspect related to (4R)-4-((3R,5S,7S,8R,9S,10S,12R,13R,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  	Non-MAFLD
+8121	-2.61796457826501	-4.1129	-0.975338	mtb  8121  m/z  419.35 Suspect related to (+)-.alpha.-Tocopherol  	Non-MAFLD
+7811	-2.5255140605	-4.52737	-0.645912	mtb  7811  m/z  551.43 Suspect related to Massbank:MSJ00121 Antheraxanthin  	Non-MAFLD
+8313	-2.50104888908	-4.53854	-0.137579	mtb  8313  m/z  402.37 Suspect related to Spectral Match to Cholesterol, 7-oxo- from NIST14  	Non-MAFLD
+7615	-2.49161205135	-4.95531	-0.147431	mtb  7615  m/z  338.34 Suspect related to N-Palmitoyl-D-sphingosine  	Non-MAFLD
+4511	-2.47781923735	-3.94412	-0.965622	mtb  4511  m/z  387.25 Suspect related to (4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  	Non-MAFLD
+8458	-2.12978662248	-3.61275	-0.595502	mtb  8458  m/z  399.36 Suspect related to 3-Ketocholesterol  	Non-MAFLD
+7812	-2.0241427925	-2.95717	-1.1685	mtb  7812  m/z  568.43 Candidate Dihydroxylated bile acid (delta mass 175.1277; sirius atomic difference: 3C, 13H, 9N; buddy atomic difference: 14C, 13H, 3N, -3O) 	Non-MAFLD
+8320	-1.990771301	-2.75422	-1.27814	mtb  8320  m/z  385.35 Spectral Match to (+)-4-Cholesten-3-one from NIST14 	Non-MAFLD
+8538	-1.93524807979	-3.86498	-0.0751962	mtb  8538  m/z  659.56 Suspect related to (R)-4-((3S,5R,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  	Non-MAFLD
+8584	-1.92541900184	-3.05085	-0.898655	mtb  8584  m/z  413.38 Suspect related to Spectral Match to (+)-4-Cholesten-3-one from NIST14  	Non-MAFLD
+6707	-1.890272835	-2.35562	-1.40971	mtb  6707  m/z  256.26 Suspect related to cis-10-Nonadecenoic acid  	Non-MAFLD
+5341	-1.688723841425	-3.18152	-0.0385356	mtb  5341  m/z  279.23 Suspect related to NCGC00095546-02!2,4-dihydroxyheptadec-16-enyl acetate  	Non-MAFLD
+8248	-1.59462218955	-2.24726	-0.863639	mtb  8248  m/z  429.37 Suspect related to Lithocholic acid  	Non-MAFLD
+5652	-1.57714859578	-3.00641	-0.248172	mtb  5652  m/z  373.27 Suspect related to Testosterone propionate  	Non-MAFLD
+7776	-1.556510189725	-2.78378	-0.40877	mtb  7776  m/z  362.34 Suspect related to h_31_mesterolone  	Non-MAFLD
+5841	-1.50987377926	-2.67452	-0.434396	mtb  5841  m/z  344.22 Suspect related to NCGC00385244-01!(2E,4E,12E)-13-(1,3-benzodioxol-5-yl)-1-piperidin-1-yltrideca-2,4,12-trien-1-one  	Non-MAFLD
+4714	-1.489403131675	-2.5792	-0.525092	mtb  4714  m/z  286.14 Massbank:PR301779 Piperine 	Non-MAFLD
+7408	-1.46490198207	-2.57526	-0.455136	mtb  7408  m/z  334.31 Suspect related to NCGC00385817-01!(2E,4E)-N-(2-methylpropyl)deca-2,4-dienamide  	Non-MAFLD
+7675	-1.37445377212775	-2.49798	-0.344952	mtb  7675  m/z  307.26 Spectral Match to Linolenic acid ethyl ester from NIST14 	Non-MAFLD
+7658	-0.946238336329999	-2.00316	-0.0205148	mtb  7658  m/z  429.37 Suspect related to Spectral Match to (+)-.alpha.-Tocopherol from NIST14  	Non-MAFLD
+7699	-0.85333100605	-1.24187	-0.478594	mtb  7699  m/z  285.28 Suspect related to Spectral Match to Isomyristic acid from NIST14  	Non-MAFLD
+7413	-0.823859494005	-1.49718	-0.211562	mtb  7413  m/z  565.52 12-hydroxy stearic acid-C18:1 	Non-MAFLD
+7213	-0.789821042819999	-1.45043	-0.0452318	mtb  7213  m/z  513.49 Suspect related to Ceratodictyol  	Non-MAFLD
+8179	-0.769387244725002	-1.52416	-0.0183023	mtb  8179  m/z  429.37 Suspect related to Lithocholic acid  	Non-MAFLD
+6632	-0.758985909049999	-1.17574	-0.314424	mtb  6632  m/z  229.22 Suspect related to Palmitic acid ethyl ester  	Non-MAFLD
+7165	-0.711026666369999	-1.06138	-0.379494	mtb  7165  m/z  239.24 Suspect related to Linoleic acid methyl ester  	Non-MAFLD
+7155	-0.681503850799999	-1.02554	-0.334111	mtb  7155  m/z  257.25 Suspect related to Spectral Match to Isomyristic acid from NIST14  	Non-MAFLD
+7378	-0.63888849574	-1.04098	-0.213847	mtb  7378  m/z  265.25 Suspect related to Spectral Match to Palmitelaidic acid from NIST14  	Non-MAFLD
+7817	-0.5715331942595	-1.02115	-0.16094	mtb  7817  m/z  338.34 Spectral Match to 13-Docosenamide, (Z)- from NIST14 	Non-MAFLD
+6742	-0.568716163235	-1.12152	-0.0294567	mtb  6742  m/z  255.23 Suspect related to Elaidic acid  	Non-MAFLD
+6097	-0.394901636851	-0.777245	-0.0107128	mtb  6097  m/z  265.25 Suspect related to 1-Oleoyl-2-acetyl-sn-glycerol  	Non-MAFLD
+6094	-0.354509525377999	-0.71997	-0.0226091	mtb  6094  m/z  283.26 Suspect related to cis-9,10-methylene-hexadecanoic acid  	Non-MAFLD
+269	0.976322855510001	0.0402571	1.93072	mtb  269  m/z  279.13 Suspect related to Spectral Match to Ile-Pro from NIST14  	MAFLD
+1720	0.994220816064998	0.166187	2.02815	mtb  1720  m/z  263.14 Suspect related to Spectral Match to Leu-Pro from NIST14  	MAFLD
+7229	1.0280709616	0.200233	1.79743	mtb  7229  m/z  311.29 Suspect related to Spectral Match to 9-Octadecenamide, (Z)- from NIST14  	MAFLD
+7244	1.108638058325	0.156384	2.07569	mtb  7244  m/z  329.31 Suspect related to Methyl trans-vaccenate  	MAFLD
+3777	1.12273437039	0.0578921	2.15391	mtb  3777  m/z  391.28 (R)-4-((3R,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid 	MAFLD
+2333	1.130282762695	0.043777	2.12074	mtb  2333  m/z  438.24 NCGC00179905-02!(E)-3-(4-methoxyphenyl)-1-[2,4,6-trimethoxy-3-(3-methylbut-2-enyl)phenyl]prop-2-en-1-one 	MAFLD
+3949	1.14576651426	0.151756	2.23066	mtb  3949  m/z  355.26 Suspect related to 7-alpha-hydroxy cholesterol  	MAFLD
+6556	1.198805264505	0.220693	2.2288	mtb  6556  m/z  355.28 Suspect related to Spectral Match to Linoleic acid ethyl ester from NIST14  	MAFLD
+2336	1.206164778152	0.171829	2.21331	mtb  2336  m/z  476.31 Suspect related to Spectral Match to Decaethylene glycol from NIST14  	MAFLD
+7414	1.214585128445	0.290011	2.30177	mtb  7414  m/z  327.29 Suspect related to NCGC00347859-02!2,3-dihydroxypropyl 13-methyltetradecanoate  	MAFLD
+4505	1.32206755005	0.288754	2.34463	mtb  4505  m/z  357.28 Suspect related to (R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  	MAFLD
+6225	1.35416575047	0.11552	2.6297	mtb  6225  m/z  524.37 Suspect related to Spectral Match to 1-Heptadecanoyl-sn-glycero-3-phosphocholine from NIST14  	MAFLD
+6924	1.3854650339075	0.0716395	2.87247	mtb  6924  m/z  327.29 Suspect related to cis,cis-9,12-Octadecadien-1-ol  	MAFLD
+2342	1.3989354545	0.453817	2.3611	mtb  2342  m/z  459.28 Spectral Match to Decaethylene glycol from NIST14 	MAFLD
+4449	1.426015855785	0.0388541	2.99675	mtb  4449  m/z  522.34 Suspect related to Massbank:RP005502 Glycoursodeoxycholic acid|2-[[(4R)-4-[(3R,5S,7S,10S,13R,17R)-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoyl]amino]acetic acid  	MAFLD
+3962	1.47852077517	0.20506	2.86554	mtb  3962  m/z  407.28 Candidate Tetrahydroxylated bile acid (delta mass -18.01; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00005465782, (R)-4-((1R,3S,5S,7R,8S,9S,10S,12S,13R,14S,17R)-1,3,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid) 	MAFLD
+4388	1.5646779344	0.468757	2.76739	mtb  4388  m/z  391.28 Suspect related to (4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  	MAFLD
+6823	1.58856530957	0.449433	2.68977	mtb  6823  m/z  357.3 Suspect related to Spectral Match to Monopalmitolein (9c) from NIST14  	MAFLD
+5995	1.61689556475	0.421029	2.70526	mtb  5995  m/z  400.34 Suspect related to Spectral Match to Valprolylcarnitine from NIST14  	MAFLD
+6824	1.68101772895001	0.479023	2.82839	mtb  6824  m/z  309.28 Suspect related to 2-Linoleoylglycerol  	MAFLD
+2212	1.697409158495	0.627889	2.87253	mtb  2212  m/z  432.28 Suspect related to Spectral Match to Hexaethylene glycol from NIST14  	MAFLD
+4782	1.743183282675	0.401845	3.20414	mtb  4782  m/z  359.29 Suspect related to cis-12-Octadecenoic acid methyl ester  	MAFLD
+4167	1.75358066858	0.131223	3.38775	mtb  4167  m/z  407.28 Candidate Tetrahydroxylated bile acid (delta mass -18.0105; sirius atomic difference: -2H, -1O; buddy atomic difference: -2H, -1O; spectral library match to CCMSLIB00006581917, 3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid) 	MAFLD
+2208	1.8457085805	0.767153	2.91091	mtb  2208  m/z  415.25 Suspect related to Spectral Match to Decaethylene glycol from NIST14  	MAFLD
+6674	2.0734279716	0.33874	3.83283	mtb  6674  m/z  307.26 Spectral Match to Linolenic acid ethyl ester from NIST14 	MAFLD
+2065	2.20975637365	0.86587	3.46538	mtb  2065  m/z  388.25 Suspect related to Spectral Match to Decaethylene glycol from NIST14  	MAFLD
+2067	2.263354865	0.956186	3.57188	mtb  2067  m/z  371.23 Suspect related to Spectral Match to Decaethylene glycol from NIST14  	MAFLD
+1800	2.749086576165	0.487236	4.91208	mtb  1800  m/z  344.23 Suspect related to Spectral Match to Decaethylene glycol from NIST14  	MAFLD
+3490	2.8290722453815	0.648978	4.80235	mtb  3490  m/z  589.3 Suspect related to Urobilin  	MAFLD
+1546	2.84863501362949	0.503452	5.69702	mtb  1546  m/z  407.24 FruLeuIle 	MAFLD
+5751	3.023115293165	0.409161	5.66824	mtb  5751  m/z  482.36 Suspect related to Massbank:PR310846 LPC 18:1  	MAFLD
+5931	3.45658974405	0.253765	6.43881	mtb  5931  m/z  400.34 Suspect related to (R)-4-((3S,5R,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid  	MAFLD
+6098	3.780589022	1.83229	6.3405	mtb  6098  m/z  426.36 Suspect related to Massbank:RP025602 Stearoyl-L-Carnitine|stearoylcarnitine|3-octadecanoyloxy-4-(trimethylazaniumyl)butanoate  	MAFLD
+1953	4.18266597256501	0.818432	7.69486	mtb  1953  m/z  310.17 Massbank:PB006006 Sinapine|2-[(E)-3-(4-hydroxy-3,5-dimethoxyphenyl)prop-2-enoyl]oxyethyl-trimethylazanium 	MAFLD
+5472	4.75441593470499	0.568502	8.70207	mtb  5472  m/z  442.35 Suspect related to Spectral Match to Oleoyl L-carnitine from NIST14  	MAFLD
+4572	5.34913061115	1.68417	8.67187	mtb  4572  m/z  386.29 Suspect related to Spectral Match to Lauroyl L-carnitine from NIST14  	MAFLD
+5202	5.90975775545	0.126591	11.3619	mtb  5202  m/z  494.32 Suspect related to Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14  	MAFLD
+5307	6.9694990838	2.01503	11.8353	mtb  5307  m/z  416.34 Suspect related to Spectral Match to Acetyl-DL-carnitine from NIST14  	MAFLD
+4892	8.95754215439999	2.05089	15.592	mtb  4892  m/z  786.36 Rifaximin (Xifaxan) 	MAFLD

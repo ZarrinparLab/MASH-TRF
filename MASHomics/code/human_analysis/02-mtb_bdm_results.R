@@ -2,12 +2,8 @@ setwd("~/Notebooks/sfloresr/MASH-TRF/MASHomics/")
 
 library(tidyverse)
 library(data.table)
-library(ggpubr)
-library(viridis)
-library(RColorBrewer)
-library("qiime2R")
 
-#mtb validation on human NAFLD dataset--G2P
+#mtb validation on human NAFLD dataset
 #################################################################
 #inputs
 metadata<-"~/Notebooks/sfloresr/MASH-TRF/MASHomics/data/human_analysis/caussy_nafld_mtb/clean_fecal_metadata.tsv"
@@ -58,137 +54,6 @@ write.table(mtb_nafld_g3p,paste0(data_dir,"FBMN_mzmine3_wBA/quantification_table
 
 mtb_nafld_g2p<-mtb_nafld%>%dplyr::select(`row ID`, any_of(mdg1pg2p$sample_name))
 write.table(mtb_nafld_g2p,paste0(data_dir,"FBMN_mzmine3_wBA/quantification_table/quantification_table-G1PG2P.txt"),sep = "\t",row.names = FALSE, quote=FALSE)
-#################################################################
-#BIRDMAn results--Fig. 5C and Table S4
-
-annot<-fread(annotation)%>%
-  mutate(Compound_Name = gsub("\\(predicted.*", "", Compound_Name))
-
-mz<-fread(feattab)%>%
-  dplyr::select(1:2)%>%dplyr::rename(FeatureID=`row ID`,mz=`row m/z`)
-
-annotations<-fread(annotations2)%>%
-  dplyr::rename(FeatureID=`#Scan#`)%>%
-  dplyr::select(FeatureID,Precursor_MZ,RT_Query,Compound_Name,LibraryQualityString,SharedPeaks,LibraryName,
-                MQScore,MassDiff,MZErrorPPM,Adduct,IonMode)
-
-fullres<-fread(bdm_results_g2p)
-bdm<-birdman_dat2(fullres,annot,annotations)%>%
-  mutate(cat=ifelse(ratio<0,"Non-MAFLD","MAFLD no AF"))%>%
-  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD no AF")))
-write.table(bdm,paste0(results_dir,"bdm_G1PG2P_mtbhits_all.txt"),sep = "\t",row.names = FALSE, quote=FALSE) #Table S4
-
-bdm<-fread(bdm_results_g3p)%>%
-  dplyr::rename(ratio=`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_mean`,
-                FeatureID=Feature)%>%
-  mutate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_hdi`=gsub("[(]|[)]","",`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_hdi`))%>%
-  separate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_hdi`,c("min","max"), sep=",")%>%
-  mutate(min=as.numeric(min),
-         max=as.numeric(max),
-         cred=ifelse(min>0|max<0,"credible","not_credible"))%>%
-  left_join(.,mz, by="FeatureID")%>%
-  left_join(annot,by="FeatureID")%>%
-  mutate(label_name=ifelse(is.na(Compound_Name),paste("mtb ",FeatureID," m/z ",signif(mz,5), sept=""),
-                           paste("mtb ",FeatureID," m/z ",signif(mz,5), Compound_Name,sept="")))%>%
-  filter(cred=="credible")%>%
-  filter(!is.na(Compound_Name))%>%
-  dplyr::select(FeatureID, ratio, min, max, label_name)%>%
-  arrange(ratio)%>%
-  mutate(cat=ifelse(ratio<0,"Non-MAFLD","MAFLD"))%>%
-  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))%>%
-  filter(FeatureID %in% c(1546,4167,3962))%>%
-  mutate(FeatureID=as.character(FeatureID))
-
-write.table(bdm,"NAFLD_human_val/caussy_nafld_mtb/bdm_G1PG3P_cred_mtbhits.txt",sep = "\t",row.names = FALSE, quote=FALSE)
-write.table(bdm,"NAFLD_human_val/caussy_nafld_mtb/bdm_G1PG3P_cred_mtbhits_justannot.txt",sep = "\t",row.names = FALSE, quote=FALSE)
-
-bdm<-fread(bdm_results_g2p)%>%
-  dplyr::rename(ratio=`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_mean`,
-                FeatureID=Feature)%>%
-  mutate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_hdi`=gsub("[(]|[)]","",`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_hdi`))%>%
-  separate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_hdi`,c("min","max"), sep=",")%>%
-  mutate(min=as.numeric(min),
-         max=as.numeric(max),
-         cred=ifelse(min>0|max<0,"credible","not_credible"))%>%
-  left_join(.,mz, by="FeatureID")%>%
-  left_join(annot,by="FeatureID")%>%
-  mutate(label_name=ifelse(is.na(Compound_Name),paste("mtb ",FeatureID," m/z ",signif(mz,5), sept=""),
-                           paste("mtb ",FeatureID," m/z ",signif(mz,5), Compound_Name,sept="")))%>%
-  filter(cred=="credible")%>%
-  filter(!is.na(Compound_Name))%>%
-  dplyr::select(FeatureID, ratio, min, max, label_name)%>%
-  arrange(ratio)%>%
-  #filter(FeatureID %in% c(1546,4167,3962))%>%
-  mutate(cat=ifelse(ratio<0,"Non-MAFLD","MAFLD"))%>%
-  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))
-
-write.table(bdm,"NAFLD_human_val/caussy_nafld_mtb/bdm_G1PG2P_cred_mtbhits.txt",sep = "\t",row.names = FALSE, quote=FALSE)
-write.table(bdm,"NAFLD_human_val/caussy_nafld_mtb/bdm_G1PG2P_cred_mtbhits_justannot.txt",sep = "\t",row.names = FALSE, quote=FALSE)
-
-bdm$label_name <- factor(bdm$label_name,levels =bdm$label_name)
-bdm$FeatureID <- factor(bdm$FeatureID,levels =bdm$FeatureID)
-
-# bdm_acids<-bdm%>%filter(grepl("acid",label_name))%>%
-#   arrange(ratio)%>%
-#   mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))
-
-#bdm_acids$label_name <- factor(bdm_acids$label_name,levels =bdm_acids$label_name)
-
-p<-ggplot(bdm, aes(x =FeatureID , y = ratio, ymin = min, ymax = max, fill=cat)) + 
-  geom_bar(stat="identity", alpha=0.7)+
-  geom_linerange(position = position_dodge(width = 0.8)) + theme_classic()+
-  scale_y_continuous(breaks = seq(-15,15, by = 2)) +
-  geom_pointrange(position = position_dodge(width = 0.8)) + 
-  scale_fill_manual(values=c("#0000a7","#c1272d"))+
-  labs(title="Non-MAFLD vs. MAFLD no AF")+
-  coord_flip()
-# ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR24_0612_g1pg3p_wsuspectlib.pdf", plot=p,height=8, width=24)
-# ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR24_0612_g1pg3p_justbdm_sighits_wmousematch.pdf", plot=p,height=2.5, width=24)
-# ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR24_0612_g1pg3p_justbdm_sighits_wmousematch_notannot.pdf", plot=p,height=1.75, width=4)
-ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR26_0330_g1pg2p_wsuspectlib.pdf", plot=p,height=8, width=5)
-
-p<-ggplot(bdm, aes(x =label_name , y = ratio, ymin = min, ymax = max)) + 
-  geom_linerange(position = position_dodge(width = 0.8)) + theme_classic()+
-  geom_pointrange(position = position_dodge(width = 0.8)) + 
-  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
-  ggtitle("Non-MAFLD vs. MAFLD")+
-  coord_flip()
-ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR24_0513_g1pg2p_BAFA_wsuspectlib.pdf", plot=p,height=6, width=14)
-ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR26_0330_g1pg2p_wsuspectlib_annot.pdf", plot=p,height=8, width=14)
-ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR26_0330_g1pg2p_wsuspectlib_annot_0.5.pdf", plot=p,height=3.5, width=12.5)
-
-bdm_sel<-bdm%>%filter(FeatureID %in% c(6325,1659,1546))%>%
-  arrange(ratio)%>%
-  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))
-
-bdm_sel$label_name <- factor(bdm_sel$label_name,levels = bdm_sel$label_name)
-
-p<-ggplot(bdm_sel, aes(x =label_name , y = ratio, ymin = min, ymax = max)) + 
-  geom_linerange(position = position_dodge(width = 0.8)) + theme_classic()+
-  geom_pointrange(position = position_dodge(width = 0.8)) + 
-  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
-  ggtitle("Non-MAFLD vs. MAFLD")+
-  coord_flip()
-ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR24_0513_g1pg2p_frommMASHstudy.pdf", plot=p,height=2, width=5)
-
-bdm_FA<-bdm%>%filter(FeatureID %in% annot_FA$`#Scan#`)%>%
-  mutate(annot="fatty acids")
-bdm_BA<-bdm%>%filter(FeatureID %in% annot_BA$`#Scan#`)%>%
-  mutate(annot="bile acids")
-
-combFABA<-rbind(bdm_FA,bdm_BA)%>%
-  arrange(ratio)%>%
-  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))
-
-combFABA$label_name <- factor(combFABA$label_name,levels = combFABA$label_name)
-
-p<-ggplot(combFABA, aes(x =label_name , y = ratio, ymin = min, ymax = max)) + 
-  geom_linerange(position = position_dodge(width = 0.8)) + theme_classic()+
-  geom_pointrange(position = position_dodge(width = 0.8)) + 
-  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
-  ggtitle("Non-MAFLD vs. MAFLD")+
-  coord_flip()
-ggsave("NAFLD_human_val/caussy_nafld_mtb/SFR24_0513_g1pg2p_BAFA.pdf", plot=p,height=3, width=12)
 
 #################################################################
 #results from Helena, matches from human to mouse data
@@ -209,9 +74,101 @@ write.table(masst_results,"NAFLD_human_val/caussy_nafld_mtb/masst_human_to_mouse
 
 mtb_sel41<-fread("multiomics_16smtb/jrpca_mtbbdm_sel41_feattab.txt")%>%
   filter(FeatureID %in% annot_masst$mouse_feat) #1425, 2691
-  #filter(FeatureID %in% notannot_masst$mouse_feat) #none
+#filter(FeatureID %in% notannot_masst$mouse_feat) #none
 
 #1425 goes with 1546
 #2691 goes with 4167 and 3962
 
+#################################################################
+#BIRDMAn results g1p vs g2p--Fig. 5C and Table S4
 
+annot<-fread(annotation)%>%
+  mutate(Compound_Name = gsub("\\(predicted.*", "", Compound_Name))
+
+mz<-fread(feattab)%>%
+  dplyr::select(1:2)%>%dplyr::rename(FeatureID=`row ID`,mz=`row m/z`)
+
+annotations<-fread(annotations2)%>%
+  dplyr::rename(FeatureID=`#Scan#`)%>%
+  dplyr::select(FeatureID,Precursor_MZ,RT_Query,Compound_Name,LibraryQualityString,SharedPeaks,LibraryName,
+                MQScore,MassDiff,MZErrorPPM,Adduct,IonMode)
+
+#g2p
+fullres<-fread(bdm_results_g2p)
+bdm<-birdman_dat2(fullres,annot,annotations)%>%
+  mutate(cat=ifelse(ratio<0,"Non-MAFLD","MAFLD no AF"))%>%
+  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD no AF")))
+write.table(bdm,paste0(results_dir,"bdm_G1PG2P_mtbhits_all.txt"),sep = "\t",row.names = FALSE, quote=FALSE) #Table S4
+
+bdm<-fread(bdm_results_g2p)%>%
+  dplyr::rename(ratio=`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_mean`,
+                FeatureID=Feature)%>%
+  mutate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_hdi`=gsub("[(]|[)]","",`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_hdi`))%>%
+  separate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G2P]_hdi`,c("min","max"), sep=",")%>%
+  mutate(min=as.numeric(min),
+         max=as.numeric(max),
+         cred=ifelse(min>0.5|max< -0.5,"credible","not_credible"))%>%
+  left_join(.,mz, by="FeatureID")%>%
+  left_join(annot,by="FeatureID")%>%
+  mutate(label_name=ifelse(is.na(Compound_Name),paste("mtb ",FeatureID," m/z ",signif(mz,5), sept=""),
+                           paste("mtb ",FeatureID," m/z ",signif(mz,5), Compound_Name,sept="")))%>%
+  filter(cred=="credible")%>%
+  filter(!is.na(Compound_Name))%>%
+  dplyr::select(FeatureID, ratio, min, max, label_name)%>%
+  arrange(ratio)%>%
+  mutate(cat=ifelse(ratio<0,"Non-MAFLD","MAFLD"))%>%
+  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))
+
+write.table(bdm,paste0(results_dir,"bdm_G1PG2P_cred_mtbhits_justannot.txt"),sep = "\t",row.names = FALSE, quote=FALSE)
+
+bdm$label_name <- factor(bdm$label_name,levels =bdm$label_name)
+bdm$FeatureID <- factor(bdm$FeatureID,levels =bdm$FeatureID)
+
+p<-ggplot(bdm, aes(x =label_name , y = ratio, ymin = min, ymax = max)) + 
+  geom_linerange(position = position_dodge(width = 0.8)) + theme_classic()+
+  geom_pointrange(position = position_dodge(width = 0.8)) + 
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  ggtitle("Non-MAFLD vs. MAFLD")+
+  coord_flip()
+ggsave(paste0(results_dir,"SFR26_0330_g1pg2p_wsuspectlib_annot_0.5.pdf"), plot=p,height=3.5, width=12.5)
+
+#################################################################
+#BIRDMAn results g1p vs g3p--Fig. S4B (bottom)
+
+#g3p
+bdm<-fread(bdm_results_g3p)%>%
+  dplyr::rename(ratio=`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_mean`,
+                FeatureID=Feature)%>%
+  mutate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_hdi`=gsub("[(]|[)]","",`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_hdi`))%>%
+  separate(`C(ATTRIBUTE_groups, Treatment('G1P'))[T.G3P]_hdi`,c("min","max"), sep=",")%>%
+  mutate(min=as.numeric(min),
+         max=as.numeric(max),
+         cred=ifelse(min>0|max<0,"credible","not_credible"))%>%
+  left_join(.,mz, by="FeatureID")%>%
+  left_join(annot,by="FeatureID")%>%
+  mutate(label_name=ifelse(is.na(Compound_Name),paste("mtb ",FeatureID," m/z ",signif(mz,5), sept=""),
+                           paste("mtb ",FeatureID," m/z ",signif(mz,5), Compound_Name,sept="")))%>%
+  filter(cred=="credible")%>%
+  filter(!is.na(Compound_Name))%>%
+  dplyr::select(FeatureID, ratio, min, max, label_name)%>%
+  arrange(ratio)%>%
+  mutate(cat=ifelse(ratio<0,"Non-MAFLD","MAFLD"))%>%
+  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))%>%
+  mutate(FeatureID=as.character(FeatureID))
+
+write.table(bdm,paste0(results_dir,"bdm_G1PG3P_cred_mtbhits_justannot.txt"),sep = "\t",row.names = FALSE, quote=FALSE)
+
+bdm_sel<-bdm%>%filter(FeatureID %in% c(6325,1659,1546))%>% #nums matching mice
+  arrange(ratio)%>%
+  mutate(cat=factor(cat,levels=c("Non-MAFLD","MAFLD")))
+
+bdm_sel$label_name <- factor(bdm_sel$label_name,levels = bdm_sel$label_name)
+
+p<-ggplot(bdm_sel, aes(x =label_name , y = ratio, ymin = min, ymax = max)) + 
+  geom_linerange(position = position_dodge(width = 0.8)) + theme_classic()+
+  geom_pointrange(position = position_dodge(width = 0.8)) + 
+  geom_hline(yintercept = 0, linetype = "dashed", color = "black") +
+  ggtitle("Non-MAFLD vs. MAFLD")+
+  coord_flip()
+
+ggsave(paste0(results_dir,"SFR24_0612_g1pg3p_justbdm_sighits_wmousematch.pdf"), plot=p,height=2.5, width=24) #Fig. S4B bottom
