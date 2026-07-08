@@ -3,3 +3,11 @@ MASHomics/data/human_analysis/**/Correlation.tsv
 *.graphml
 *.zip
 MASHomics/data/human_analysis/caussy_nafld_mtb/FBMN_mzmine3_wBA/clusterinfo_summary/
+MASHomics/results/human_analysis/caussy_nafld_mtb/quantification_table-G1PG3P.tar.gz
+MASHomics/results/human_analysis/caussy_nafld_mtb/quantification_table-G1PG2P.tar.gz
+MASHomics/results/human_analysis/caussy_nafld_16s/birdman/04.taxonomy_filtered.asv.counts.g1pg3p.tar.gz
+MASHomics/results/human_analysis/caussy_nafld_16s/birdman/04.taxonomy_filtered.asv.counts.g1pg2p.tar.gz
+MASHomics/results/stool_mtb/birdman_results/quantification_table-00000-clean-mash-Wk8-ZT13FAFT_log.tar.gz
+MASHomics/results/stool_mtb/birdman_results/quantification_table-00000-clean-mash-Wk8-ZT1FAFT_log.tar.gz
+MASHomics/results/stool_mtb/birdman_results/quantification_table-00000-clean-mash-Wk12-ZT1FAFT_log.tar.gz
+MASHomics/results/stool_mtb/birdman_results/quantification_table-00000-clean-mash-Wk12-ZT13FAFT_log.tar.gz
