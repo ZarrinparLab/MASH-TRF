@@ -8,7 +8,7 @@
 #SBATCH --partition=short
 #SBATCH --cpus-per-task=4
 #SBATCH --time=6:00:00
-#SBATCH --array=1-50
+#SBATCH --array=1-20
 
 pwd; hostname; date
 
@@ -19,17 +19,17 @@ source ~/anaconda3/bin/activate birdman
 echo Chunk $SLURM_ARRAY_TASK_ID / $SLURM_ARRAY_TASK_MAX
 
 
-TABLEID="NASH_NASH_FT_taxonomy_filtered.gg2.asv.counts"
-TABLE="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_16s/mashstool16s_preprocessed_20211020_ID_13785_gg2/"$TABLEID".biom"
-SLURMS="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_16s/birdman_outputs/slurm_out/"$TABLEID
-OUTDIR="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_16s/birdman_outputs/inferences/"$TABLEID
-LOGDIR="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/stool_16s/birdman_outputs/logs/"$TABLEID
+TABLEID="04.taxonomy_filtered.asv.counts.g1pg2p"
+TABLE="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/data/human_analysis/caussy_nafld_16s/"$TABLEID".biom"
+SLURMS="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/results/human_analysis/caussy_nafld_16s/slurm_out/"$TABLEID
+OUTDIR="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/results/human_analysis/caussy_nafld_16s/inferences/"$TABLEID
+LOGDIR="/mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/MASHomics/results/human_analysis/caussy_nafld_16s/logs/"$TABLEID
 mkdir -p $SLURMS
 mkdir -p $OUTDIR
 mkdir -p $LOGDIR
 
 echo Starting Python script...
-time python /mnt/zarrinpar/Pynchon/Notebooks/sfloresr/MASH-TRF/MASHomics/code/stool_16s/03-nash_birdman/nash_birdman_chunked.py \
+time python /home/sfloresr/projects/NALFD_ml/nafld_birdman/nafld_birdman_chunked.py \
     --table-path $TABLE \
     --inference-dir $OUTDIR \
     --num-chunks $SLURM_ARRAY_TASK_MAX \
