@@ -12,7 +12,7 @@ This is the code for the analysis of phenotypic, microbial (16S), and untargeted
 
 We used the [Caussy & Tripathy, et al. 2019](https://www.nature.com/articles/s41467-019-09455-9) twin MAFLD cohort 16S microbiome and untargeted metabolomics data for validation. 16S microbiome data is available in Qiita [https://qiita.ucsd.edu] under the study ID 11635. Untargeted metabolomics data is available in the MassIVE database [https://massive.ucsd.edu/] under the MassIVE ID MSV000082374. Feature based molecular networking data is available on [GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=778cfcb06dec4af3bf8bc8c50bb388dc). 
 
-## Organization of files
+## Organization of Files
 
 The two main folders are split up by publication. `JBR_2025` holds all the phenotypic related files while `MASHomics` contains the microbiome and metabolomics related files. Within these folder we have `data`, `results`, and `code`.
 
@@ -26,4 +26,4 @@ The two main folders are split up by publication. `JBR_2025` holds all the pheno
 
 Flores Ramos, S.*, Fogelson, K.*, Muti, V.B., Zhong, W., Hu, J., Hosseini, M., Loomba, R., Zarrinpar, A. “Time-Restricted Feeding Is Not Effective in Modulating Fibrosis in a Male MASH Model”. Journal of Biological Rhythms (2025)
 
-Flores Ramos, S., Fogelson, K., Muti, V.B., Aron, A.T., Salido, R.A., Richter, R.A., Mannochio-Russo, H., Hu, J., Hosseini, M., Loomba, R., Dorrestein, P.C., Knight, R., Zarrinpar, A. “Gut Microbiome and Metabolite Profiles Are Associated with Subsequent Histologic MASH in a Longitudinal Mouse Model”. mSystems (under review)
+Flores Ramos, S., Fogelson, K., Muti, V.B., Aron, A.T., Salido, R.A., Richter, R.A., Mannochio-Russo, H., Hu, J., Hosseini, M., Loomba, R., Dorrestein, P.C., Knight, R., Zarrinpar, A. “Gut Microbiome and Metabolite Profiles Are Associated with Subsequent Histologic MASH in a Longitudinal Mouse Model”. mSystems (in press)
