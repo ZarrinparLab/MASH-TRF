@@ -6,7 +6,7 @@ This is the code for the analysis of phenotypic, microbial (16S), and untargeted
 
 ### Mouse
 
-16S microbiome data is available in Qiita [https://qiita.ucsd.edu] under the study ID 13785. Untargeted metabolomics data is available in the MassIVE database [https://massive.ucsd.edu/] under the MassIVE ID MSV000088063. Feature based molecular networking data is available on [GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=f41b3349635c4db3951083ad68727fc2).
+16S microbiome data is available in Qiita [https://qiita.ucsd.edu] under the study ID 13785 and ENA under accession number PRJEB116074. Untargeted metabolomics data is available in the MassIVE database [https://massive.ucsd.edu/] under the MassIVE ID MSV000088063. Feature based molecular networking data is available on [GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=f41b3349635c4db3951083ad68727fc2).
 
 ### Human
 
